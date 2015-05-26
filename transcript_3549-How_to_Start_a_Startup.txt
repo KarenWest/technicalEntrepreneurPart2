@@ -1,0 +1,483 @@
+[00:00:00]
+Welcome can I turn this on?
+>> There's something wrong.
+>> Maybe. All right
+>> Could people hear in the back?
+>> Can you guys hear me? Is the myke on?
+>> Yes.
+>> No, maybe you could ask them to turn it on.
+>> [NOISE] Maybe we can get a big there we go.
+
+[00:00:20]
+All right. Maybe we can get a bigger auditorium, we'll see. So, welcome to CS183B. I'm Sam Altman, I'm the president of Y Combinator. Nine years ago I was a Stanford student and then I dropped out to start a company and then I've been an investor for the last few.
+
+[00:00:33]
+So YC we've been teaching people how to start start-ups for nine years. Most of it's very hands on and specific to the start-ups, but 30% of it is pretty generally applicable, and so, we think that we can teach that 30% in this class and, even though that's only 30% of the way there hopefully it'll still be really helpful.
+
+[00:00:53]
+We've taught a lot of this at YC already but it's all been off the record. And this is the first time that a lot of what we teach in YC is gonna be on the record. So we've invited some of our best speakers to come and give the same talks they give at YC.
+
+[00:01:04]
+We've now funded 720 companies. And so we're pretty sure that a lot of this advice is pretty good. We can't fund every start-up yet. But we can hopefully make this advice very generally available. Guest speakers are gonna teach, 17 of the 20 classes. I'm only teaching three. Counting YC itself, every guest speaker has been involved, in the creation of the billion plus dollar company.
+
+[00:01:27]
+So the advice shouldn't be that theoretical. It's all been, it's all from people who have done it. All the advice in this class is geared towards, people starting a business where the goal is hyper-growth and eventually building a very large company. Much of it doesn't apply in other cases.
+
+[00:01:43]
+And I wanna warn people up front that if you try to do these things in a lot of, big companies or non start-ups, it won't work. It should still be interesting. I, I really do think start-ups are the wave of the future and it's worth trying to understand them.
+
+[00:01:54]
+But start-ups are very different, than normal companies. So over the course of today and Thursday, I'm gonna try to give an overview of the four areas that you need to excel at, in order to maximize your chances of success to start-up and then throughout the course the guest speakers are gonna drill into all of these, in more detail.
+
+[00:02:11]
+So, the four areas, you need a great idea, a great product, a great team, a great execution. These overlap somewhat, but I'm gonna have to talk about them somewhat individually, to make it make sense. You may still fail the outcome is something like idea times product, times execution, times team, times luck, where luck is a random number between zero and 10,000, literally that much.
+
+[00:02:35]
+But if you do really well on the four years you can control. You have a good chance at, at least, some amount of success. [SOUND] One of the exciting things about start-ups, is that they are surprisingly even playing field. Young and inexperienced, you can do this. Old and very experienced, you can do this too.
+
+[00:02:50]
+And one of the things that I particularly like about start-ups, is that some of the things that are bad in other work situations, like being poor and unknown. Are actually huge assets, when it comes to starting a start-up. [SOUND] Before we jump in on the how, I want to talk about why you should start a start-up.
+
+[00:03:06]
+I'm somewhat hesitant to be doing this class at all, because you should never start a start-up just for the sake of doing so. There are much easier ways to get rich and everyone who starts a start-up, always says, always, that they couldn't have imagined how hard and painful it was going to be.
+
+[00:03:20]
+You should only start a startup if you can, feel compelled by a particular problem and that you think starting the company is the best way to solve it. This specific passion should come first and the start-up second. In fact, all of the big successes we have at YC followed this.
+
+[00:03:34]
+So, for the second half of today's lecture, Dustin Moskovitz, the co-founder of Facebook and Asana, is going to take over and talk about why to start a start-up. We're so surprised by the amount of attention that this class got, that we wanna make sure we spend a lot of time on the why.
+
+[00:03:48]
+Okay, so the first of the four areas. A great idea. It's become popular in recent years to say that the idea doesn't matter. In fact it's almost uncool, to spend a lot of time, thinking about the idea for a start-up. You're just supposed to start, throw stuff at the wall, see what sticks, and not even spend any time thinking about if it will be valuable if it works, and pivots are supposed to be great the more pivots the better.
+
+[00:04:10]
+So this isn't totally wrong, things do evolve in ways that are difficult to predict, and there's a limit to how much you can figure out, without actually getting a product in the hands of users. And great execution is at least ten times more important and a 100 times harder than a good idea.
+
+[00:04:26]
+But the pendulum has swung way out of wack here. A bad idea is still bad. And the pivot happy world that we're in today feels really suboptimal. Great execution towards a terrible idea, will get you nowhere. There are exceptions of course, but most great companies start with a great idea.
+
+[00:04:42]
+Not a pivot. If you look at successful pivots, they almost always are a pivot into something, the founders themselves wanted. Not a random made up idea. Airbnb happened because Brian Chesky couldn't pay his rent, but he did have some extra space. In general though, if you look at the track record of pivots, they don't become big companies.
+
+[00:05:02]
+I myself used to believe ideas didn't matter that much but I'm very sure that's wrong now. The definition of the idea as we talk about it, is very broad, it includes the size and the growth of the market, the growth strategy for the company, the defense ability strategy and so on.
+
+[00:05:17]
+When you're evaluating an idea, you need to think through all these things, not just the product. [SOUND] If it works out, you're gonna be working on this for ten years. So it's worth some real upfront time, to think through the long term value and the defensibility of the business.
+
+[00:05:32]
+Even though plans themselves are worthless, the exercise of planning is really valuable and totally missing in most start-ups today. Long term thinking is so rare anywhere, but especially in start-ups. But is a huge advantage if you do it. Remember that the idea will expand and become more ambitious as you go.
+
+[00:05:49]
+You certainly don't need to have everything figured out, in a path from here to world domination. But you really want a nice kernel to start with. You want something that can develop in interesting ways. As you're thinking through ideas. Another thing that we see young founders get wrong all the time, is that some day, you need to build a business that's difficult to replicate.
+
+[00:06:08]
+This is an important part of a good idea. [SOUND] I wanna make this point again because it's so important. The idea should come first and the start-up should come second. Wait to start a start-up, until you come up with an idea you feel compelled to explore. This is also the way to choose between multiple ideas.
+
+[00:06:26]
+If you have several ideas that all seem pretty good, work on the one that you, think about most often, when you're not trying to think about work. But we hear again and again from founders, that they wish they had waited to start a start-up until they came up with an idea, they really loved.
+
+[00:06:41]
+Another way of looking at this, is that the best companies are almost always mission oriented. It's difficult to get large groups of people, to pay extreme levels of focus and productivity that you need, for a start-up to be successful. Unless the company feels like an important mission. And it's usually really hard to get that, without a great founding idea.
+
+[00:07:01]
+A related advantage of mission oriented ideas, is that you yourself will be dedicated to them. It takes years and years, usually a decade to create a great start-up. If you don't love and believe in what you're building, you're likely to give up at some point along the way.
+
+[00:07:15]
+There's no way I know of, to get through the pain of a start-up without belief that the mission really matters. A lot of founders, especially students, believe that their start-ups only gonna take two or three years and then after that they'll work on what they're really passionate about.
+
+[00:07:27]
+That almost never works. Good start-ups usually take ten years. A third advantage of mission oriented companies is that people outside the company, are more willing to help you. You'll get more support on a hard, important project than a derivative one. When it comes to starting start-ups, in many ways it's easier to start a hard start-up than an easy start-up.
+
+[00:07:45]
+This is one those counter intuitive things it takes people a long time to understand. It's difficult to overstate how important being mission driven is, so I wanna emphasize it one last time. Derivative companies, companies that copy an existing idea, with very few new insights don't excite people and they don't compel the teams to work hard enough, [SOUND] to be successful.
+
+[00:08:06]
+Paul Gram is gonna talk about how to get start up ideas next week. It's something that a lot of founders struggle with, but it's something I believe you can better with it. Better at with practice. And it's definitely worth trying to get better at. The hardest part about coming up with great ideas, is that the best ideas often look terrible at the beginning.
+
+[00:08:23]
+The 13th search engine and without all the features of a web portal. Most people thought that was pointless. Search was done. And anyway it didn't matter that much. Portal was where the value is at. The tent social network and limited only to college students, with no money, also terrible.
+
+[00:08:37]
+MySpace had won and who wants college students as customers? Or a way to stay on strangers couches. That just sounds terrible all around. These all sounded really bad, but they turned out to be good. If they had sounded really good, there would have been too many people, working on them.
+
+[00:08:53]
+[SOUND] As Peter Thielsman had discussed in the fifth class, you want an idea that turns into a monopoly. But you can't get a monopoly, in a big market right away. Too much competition for that. You have to find a small market, in which you can get a monopoly and then quickly expand.
+
+[00:09:07]
+This is why some great start-up ideas look really bad at the beginning. It's good if you can say something like, today, only the small subset of users are going to use my product. But I'm gonna get all of them. And in the future, almost everyone will use my product.
+
+[00:09:21]
+Here's the thing that's gonna come up a lot. You need conviction in your own beliefs, and a willingness to ignore others saying. The hard part, is that this is a very fine line. There's, right on one side of it and crazy on the other. But keep in mind that if you did come up with a good idea, most people are going to think it's bad.
+
+[00:09:39]
+You should be happy about that. It means they won't compete with you. This is also a reason, why it's not usually dangerous to tell people about your idea. The truly good ideas, don't sound like they're worth stealing. You want an idea about what you can say? I know it sounds like a bad idea, but here specifically why it's actually a great one.
+
+[00:09:57]
+You wanna sound crazy, but you wanna actually be right. And you want an idea that not many other people are working on. And, it's okay, if it doesn't sound big at first. Common mistake among founders, especially first time founders. Is they think, that the first version of their product, the first version of their idea, needs to sound really big.
+
+[00:10:13]
+But it doesn't. It needs to take over a small specific market and expand from there. That's how most great companies have started. Unpopular but right, is what your going for. You want something that sounds like a bad idea, but is a good idea. You also wanna really take the time to think about how the markets going to evolve.
+
+[00:10:32]
+You need a market that's going to be big in ten years. Most investors are obsessed with the market size today, and they don't think at all about, how the market is going to evolve. In fact, I think this is one of the biggest systemic mistakes investors make. They think about the growth of the start-up itself, they don't think about the growth of the market.
+
+[00:10:49]
+[SOUND] I care much more about the growth rate of the market than its current size and I also care if there's any reason it's gonna top out. You should think about this I prefer to invest in a company that's going after a small, but rapidly growing market, than a big but slow growing one.
+
+[00:11:02]
+One of the big advantages of these sorts of markets these small but rapidly growing markets, is that customers are usually pretty desperate for a solution, and they'll put up with an imperfect, but rapidly improving product. And a big advantage of being a student, one of the two biggest advantages is that you probably have better intuition about which markets, are likely to start growing rapidly than older people do.
+
+[00:11:26]
+Another, thing that students usually don't understand or at least takes a while. You cannot create a market that doesn't wanna exist. You can basically change everything in a start-up, but the market. So you should actually do some thinking to be sure or at least as sure as you can be, that the market you're going after is going to grow and be there.
+
+[00:11:43]
+There are a lot of different ways to talk about the right kind of market. For example, surfing someone else's wave or stepping into an up elevator are being part of a movement. But all of this is just a way of saying, you want a market that's going to grow really quickly.
+
+[00:11:55]
+It may seem small today, it may be small today, but you know, and other people don't that it's gonna grow really fast. So think about where this is happening in the world. You need this sort of a tailwind to make a start-up, successful. The exciting thing is there are probably more of these tailwinds now than ever before.
+
+[00:12:10]
+As Mark Entrison says, software is eating the world. It's just everywhere. There are like so many great ideas out there. And you just have to pick one and find one that you really care about. Another version of this, that would, it's not under the same idea, is Sequoia's famous question.
+
+[00:12:25]
+Why now? Why is this the perfect time for this particular idea? And to start this particular company? Why couldn't it have been done two years ago? And why will two years in the future be too late? For the most successful staffs we've been involved with, they've all had a great idea, great answer to this question.
+
+[00:12:42]
+And if you don't, you should be at least somewhat suspicious about it. In general, it's best if you're building something that you yourself need. You'll understand it much better, than if you have to understand it by talking to a customer, to build the very first version. If you don't need it yourself and you're building something that someone else needs, realize that you're at a big disadvantage, and get very, very close to your customers.
+
+[00:13:03]
+Try to work in their office if you can, and if not, talk to them multiple times a day. Another some what counter intuitive thing about good start-up ideas, is that their almost always very easy to explain and very easy to understand. If it takes more than a sentence to explain what you're doing it's almost always a sign, that it's too complicated.
+
+[00:13:20]
+It should be a clearly articulate, articulated vision with a small number of words. And the best ideas are usually either, very different from existing companies. In one important way like Google being a search engine, that worked just really well and none of the other stuff of the portals, or totally new like Space X.
+
+[00:13:39]
+Any company that's a clone of something else that already exists, with some small or made up differentiator, like we're gonna x beautiful design, or we're gonna y for people that like red wine instead. That usually fails. So as I mentioned one of the great things about being a student, is that you have a very good perspective on new technology.
+
+[00:13:59]
+And learning to get good at having new ideas takes a while, so start working on that right now that's one thing we hear from people all the time. That they wish they had done more when they were a student. The other, is meeting potential co-founders. You have no idea how good of an environment you're in right now for meeting people you can start a company with down the road.
+
+[00:14:18]
+And the one thing that we always tell college students, is more important than starting any particular start-up, is getting to know a lot of potential co-founders. So I wanna finish this section of my talk with a quote from 50 cent. This is [LAUGH] this is from when he was asked about vitamin water.
+
+[00:14:35]
+I won't read it. It's up there but it's about the importance of thinking about what customers want and thinking about the demands of the market. Most people don't do this. Most students especially don't do this. If you can just do this one thing. If you can just learn to think about the market first, you will have a big leg up, on most people starting start-ups.
+
+[00:14:56]
+And this is something, this is probably the thing that we see wrong with Y Combinator Apps most frequently, is that people have not thought about the market first and what people want first. So for the next section, I'm gonna talk about building a great product. And here again, I'm gonna use a very, broad definition of product.
+
+[00:15:17]
+It includes customer support and copyright expending the product. Anything involved in your customer's interaction with what you've built for them. To build a really great company, you first have to turn a great idea into a great product. This is really hard, but it's crucially important and fortunately, it's pretty fun.
+
+[00:15:34]
+[COUGH] Although great products are always new to the world and it's hard to give advice about what to build, there are enough commonalities that we can give you a lot of advice, about how to build it. One of the most important tasks for a founder is to make sure that the company builds a great product.
+
+[00:15:48]
+Until you build a great product, almost nothing else matters. When really successful start-up founders tell the story of their early days, it's almost always, sitting in front of the computer working on our product, or talking to their customers. That's pretty much all the time. They do very little else.
+
+[00:16:02]
+And you should be very skeptical, if your time allocation is much different. Most other problems that founders are trying to solve, raising money, getting more press, hiring, business development, et cetera, these are significantly easy when you have a great product. It's really important to take care of that first.
+
+[00:16:17]
+Step one is to build something that users love. At YC We tell founders to work on their product, talk to users, exercise eat and sleep. And very little else. All the other stuff I just mentioned, PR conferences recruiting advisers doing partnerships. You should ignore all of that. And just build the product.
+
+[00:16:35]
+And then get it as good as possible by talking to your users. Your job is to build something that users love. Very few companies that go on to be super successful, get there without first doing this. A lot of good on paper start-ups, fail because they nearly make something that people like.
+
+[00:16:52]
+Making something that people want, but only a medium amount is a great way to fail and not understand why you're failing. So these are the two jobs. Something that we say at YC a lot, is that it's better to build a small number, it's better to build something, that a small number of users love, than a larger number of users like.
+
+[00:17:11]
+Of course, it would be best to build something that a small number of users love. But opportunities, to do that for V1, are rare and they're usually not available to start-ups. So in practice you end up choosing either the gray or the orange, you make something that a lot of users like a little bit, or something that a small number of users like love a lot.
+
+[00:17:28]
+[SOUND] And this is a very important piece of advice. Build something that a small number of users love. It's much easier to expand from something that a small number of people love, to something that a lot of people love, than from something that a lot of people like to a lot of people love.
+
+[00:17:43]
+If you get this right, you can get a lot of other things wrong. If you don't get this right, you can get everything else right and you'll probably still fail. So when you start on the start-up, this is the only thing you need to care about until it's working.
+
+[00:17:58]
+
+>> Show intensity of like again?
+>> Sure. So you have a choice, in a start-up. The best thing of all worlds, would be to build a product that a lot of people really love. In practice, you can't usually do that. Because a big company, if there's not an opportunity like that, Google or Facebook will do it.
+
+[00:18:13]
+So there's like a limit to the area under the curve. Of what you can build. And you can even build something that a lot of users, like a little bit or you can build something even with a small number users love a lot. And like the total amount of love is the same.
+
+[00:18:26]
+It's just a question of how it's distributed. [LAUGH]. And there's like this love conservation of how, much happiness you can put into the world. [LAUGH]. With the first product, on a start-up. And so start-ups always struggle, with which of those two they should go. And they seem equal, right?
+
+[00:18:40]
+Because the area under the curve is the same. but, we see this time and again that they're not. And they're so much easier to expand. Once you've got something that some people love, you expand that to something that a lot people love. But if you only get, ambivalence or sort of weak enthusiasm, and then try to expand that, you'll never get up to a lot of people loving it.
+
+[00:18:59]
+So, the advice is find a small group of users and make them really love what you're doing. Does that make sense? All right. And, and one way that you know when this is working, is that you'll get growth by word of mouth. If you make things people love people will tell their friends about it.
+
+[00:19:20]
+This works for consumer products and enterprise products as well. When people really love something, they tell their friends about it and you'll see organic growth. If you find yourself talking okay it's not growing because there's a big partnership that's going to come save you or something like that, it's almost always a sign of real trouble.
+
+[00:19:38]
+Sales and marketing are really important and we're gonna have two classes on them later. But if you don't have some early organic growth, then your product probably isn't good enough yet. A great product is the secret to long term growth hacking. You should get that right, before you worry about anything else.
+
+[00:19:51]
+It doesn't get easier to put off, [SOUND] making a great product. If you try to build a growth machine before you have a product that some people really love, you're almost certainly gonna waste your time. Breakout companies almost always have a product, that's so good that it grows by word of mouth.
+
+[00:20:06]
+Over the long run, great products win. Don't worry about your competitors, raising a lot of money and what they may do in the future. They probably aren't very good anyway. Very few start-ups, die from competition. Most die because they themselves failed to make something users love. They spend their time on other things.
+
+[00:20:22]
+So worry about this, above all else. Another piece of advice to make something the users love, start with something simple. It's much, much easier to make a great product if you have something simple. Even if your eventual plans, are super complex and hopefully they are, you can almost always start with a smaller subset of the problem, than whatever you think is the smallest.
+
+[00:20:42]
+And it's hard to build a great product, so you wanna start with as little surface area as possible. Think about the really successful companies and what they started with. Think about products that you really love, they're generally incredibly simple to use and especially to get started using. The first version of Facebook was almost comically simple.
+
+[00:20:58]
+The first version of Google was just an ugly webpage with a text box and two buttons, but it returned the best results and that's why users loved it. The iPhone is far simpler to use than any smartphone that ever, came before and it was the first one that people really loved.
+
+[00:21:11]
+Another reason that simple is good, it's because it forces you to do one thing extremely well. And you have to do that, to make something that people love. [SOUND] The word fanatical comes out again and again, when you listen to successful founders talk about how they think about their product.
+
+[00:21:28]
+Founders talk about being fanatical in the way the care about the quality of the small details. Fanatical in getting the copy that they use to explain the product just right. And fanatical in the way they think about customer support. In fact one thing that correlates with success, among the YC companies, is the founders that hook up pager duty to their ticketing system, so even if the user emails in the middle of the night when the founders are asleep.
+
+[00:21:49]
+They still get a response within an hour. Companies actually do this in the early days. These founders feel physical pain when their product sucks and they wanna wake up and fix it. They don't ship crap, and if they do they fix it very very quickly. And they definitely take some of fanaticism, to build a great product.
+
+[00:22:06]
+You need some users to help with the feedback cycle. But the way to get those users is manually, you should go recruit them by hand. Don't do things like buy Google Ads in the early days, to get initial users, you don't need very many, you just need ones that will give you feedback everyday and eventually love your product.
+
+[00:22:22]
+So instead of trying to get them on Google AdWords, just find a few people in the world that will be good users, recruit them by hand. Ben Silverman a, when everyone thought Pinterest was a joke, recruited the initial Pinterest users by chatting up strangers in coffee shops, he really did he just walked around Palo Alto and said, will you please use my product?
+
+[00:22:40]
+He also use to run around the Apple store in Palo Alto. And he would like set all the browsers to the Pinterest home page real quick before they caught him and picked him up. [LAUGH]. So then when people walked in there they were like, oh what is this.
+
+[00:22:49]
+[LAUGH]. This is an important example of doing that don't skill. If you haven't read Paul Gram's essay on that topic, you definitely should. So get users manually and remember that the goal is to get a small group of them to love you. Understand that group extremely well. Get extremely close into them, close to them.
+
+[00:23:07]
+Listen to them. And, you'll almost always find out, that they're very willing to give you feedback. Even if you're building the product for yourself, listen to outside users. And, they'll tell you how to make a product they'll pay for. Do whatever you need to make them love you, make them all you're doing.
+
+[00:23:21]
+Cuz they're also gonna be the advocates that help you get your next users. You wanna build an engine in the company, that transforms feedback from users into product decisions, then get it back in front of the users and then repeat. Ask them what they like and what they don't like and watch them use it.
+
+[00:23:37]
+Ask them what they pay for, ask them if they'd be really bummed if your company went away, ask them what would make them recommend their product to their friends and ask them if they've recommended it to any yet. You should make this feedback loop as tight as possible.
+
+[00:23:50]
+If your product gets 10% better every week, that compounds really really quickly. One of the great advantages of start, of software start-ups, is just how short you can make the feedback loop. It can be measured in hours. And the best companies usually have the tightest feedback loops. You should try to keep this going, for all of your company's life.
+
+[00:24:07]
+But it's really important in the early days. The good news is the oldest is doable. It's hard; it takes a lot of effort. But, there's no magic. The plan is at least straightforward and you will eventually get to a great product. Great founders don't put anyone between themselves and their users.
+
+[00:24:22]
+The founders of these companies do things like sales and customer support themselves in the early days. Its critical to get this loop embedded in the culture. In fact the specific problem that we always see with Stanford start-ups for some reason, is that the students try and hire sales and customer support people right away and you got to do this yourself, its the only way.
+
+[00:24:40]
+You really need to use metrics to keep yourself honest on this. It really is true, that the company will build whatever the CEO decides to measure. If you're building an Internet service, ignore things like total registrations. Don't talk about them, don't let anyone in the company talk about them and look at growth and active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter.
+
+[00:24:59]
+And then be brutally honest it's not going in the right direction. Startups live on growth. It's the indicator of a great product. So this about wraps up, the overview on building a great product. I wanna emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
+
+[00:25:14]
+You can basically ignore everything else that we talk about, until this is working well. On the positive side this is one of the most fun parts. I'm building a start-up. So I'm gonna pause here, I'll pick back up with the rest of this on Thursday, and now we're gonna have Dustin talk about why you should start a start-up.
+
+[00:25:30]
+Thank you for coming Dustin.
+>> Sure.
+>> But yeah, so Sam asked me to talk about why you should start a start-up? There's a bunch of reasons you might have and there's a bunch of common reasons people have that I hear all the time for, for why you might start a start-up.
+
+[00:25:47]
+Its important to know like what reason is yours because some of them only make sense in, in certain context. Some of them will actually like lead you astray. You may have been mislead by the way that hollywood or the press likes to romanticize entrepreneurship. So I wanna try and like illuminate you know, some of those potential fallacies, so you guys can, can make the decision in a clear way.
+
+[00:26:06]
+And then I'll talk about the, the reason I like bass for actually starting a start-up. It's very related to a lot of what Sam just talked about. But surprisingly, I don't think it's the most common reason. Usually people have one of these other reasons. Or they just want a start-up, you know, start a company for the sake of starting a company.
+
+[00:26:25]
+So the, the four common reasons just to enumerate them are, it's glamorous. You know, you'll be, you'll get to be the boss you'll have flexibility, especially over your schedule. And you'll have the chance to have, you know, bigger impact and make more money than you, than you might by joining a later stage company.
+
+[00:26:45]
+So, okay, so you know, you, you guys are probably pretty familiar with this concept. When I had wrote the medium post which a lot of you guys were at a year ago I felt like the story in the press was a little more balanced. You know, entrepreneurship just got romanticized quite a bit.
+
+[00:26:59]
+You know, the movie with Social Network came out. Had a lot of, sort of like, bad aspects of, of you know, what it's like to be an entrepreneur. But mainly sort of painted this picture of like, there's a lot of partying and he's kind of moving from like one brilliant incite to another brilliant incite and really made it you know, seem like this like really cool thing to do.
+
+[00:27:17]
+And I think the reality is just you know not quite so glamorous there's sort of but there's an ugly side being an entrepreneur. And also just more importantly what, what you're actually spending your time on is, is just a lot of hard work. Sam mentioned this but you're basically just.
+
+[00:27:31]
+Sitting at your desk, heads down, focused answering customers sup, customers support emails, doing sales, figuring out hard engineering problems so it's really important that you kind of like go in with, with eyes wide open and then also it's, it's really quite stressful on, this has been a popular topic in the past lately the economists actually ran a story just last week called like, entrepreneurs anonymous and shows like a founder kind of like hiding under his desk [LAUGH] and talking about like founder depression.
+
+[00:27:58]
+This is, like a very real thing. Like, you know, let's be real. This, if you start a company, it's gonna be extremely hard. Why is it so stressful? So, a couple of reasons. One is you've got a lot of responsibility. So people in any kind of career have a fear of failure, kind of just, like, a dominant part of the psychology.
+
+[00:28:16]
+But when you're an entrepreneur you'll fear failure on behalf of yourself and all of the people who decided to follow you. So it's really stressful. In some cases these people are depending on you for their livelihood. Even when that's not true they have decided to devote the, the best of your, years of their life to following you.
+
+[00:28:31]
+And so you're responsible for the opportunity costs of their time. So that's a big deal. And you're always on call if something comes up. Maybe not always at three in the morning, but for some start-ups, that's true. But if something important comes up, you're gonna deal with it.
+
+[00:28:45]
+That's kind of the end of the story. Doesn't matter if you're on vacation, doesn't matter if it's the weekend you kind of always got to be on the ball and always be in a, in a place, mentally, where you're prepared to deal with those things. And then a sort of special example of that, is, is or of this kind of stress, is fundraising.
+
+[00:29:02]
+So as seen from the social network, this is us partying and working at the same time. [LAUGH]. And somebody is, spraying champagne everywhere. You know so the social network spends a lot of time kind of painting these scenes. Mark's not in the scene. The other thing they spend all their time on is kinda like painting how, him out to be a huge jerk.
+
+[00:29:21]
+This computer? Okay. So. [LAUGH] This is an ac, an actual scene from, I'm [LAUGH] gonna move this just a little. Oh, no.
+>> This'll work. This'll work.
+>> This'll work. Okay. On the PDF as well?
+>> Yeah.
+>> Okay. Okay cool. Uh,sto this is an actual scene from Palo Alto.
+
+[00:29:43]
+Spent a lot of time [UNKNOWN] just kind of heads down and focused. Mark was still kind of a jerk sometimes but in this more like fun, lovable way and not alike sociopathic scorned lover way. [LAUGH] So this is him like signaling his intention to, you know, just be focused and keep working, copy social.
+
+[00:30:00]
+So then there's also the scene sort of demonstrating the like, really an insight moment and it's kind of like straight out of a beautiful minds. [LAUGH] Literally stole that scene. So the idea to painted is that you kind of like jump from one of these moments to a, to the other moment with like parting in between, but, really we're just at that table the whole time.
+
+[00:30:20]
+[LAUGH] So interestingly if you compare this to the other photo, Mark is in the exact same position, but he's wearing different clothes. This is definitely a different day. [LAUGH] So cool. So, that's, that's what it, that's what it's actually like in person and I just covered this bullet up here.
+
+[00:30:36]
+This is the economist article I was talking about a second ago. So another form of, of stress is just like unwanted media at, attention. It's a part of it being glamorous. You get some positive media attention sometimes. It's nice to be on like the cover of time and like be the person of the year.
+
+[00:30:51]
+It's maybe a little less nice to be on the cover of people. It's like one of your wedding photos. Depends who you are, some people would like that, I'd really hate it. But when Ballywag like, you know, analyzes your lecture and just tears you apart, like you definitely don't want that.
+
+[00:31:03]
+Nobody wants that. And then, one thing I almost never hear people talk about is you're just a lot more committed. So if you're an employee of a start-up. And you know, things are stressful. It's not going well. You're unhappy. You can just leave. For founder you can leave, but it's, it's very uncool.
+
+[00:31:20]
+It's pretty much a black eye on the rest of your career. And so you really are committed you know, for ten years if it's going well. Probably more like five years if it's not going well. So three years to figure out that it's not going well. And then if you find like a nice landing for your company, another two years at the acquiring company.
+
+[00:31:37]
+And if you leave before that, again it's not only gonna harm yourself financially, it's gonna harm all your employees, so you pretty much don't. So if you're lucky and you have a bad start-up ideal you fail quickly but most of the time it's not like that. [SOUND] All right, moving right along.
+
+[00:31:52]
+So and, and I should say I've had a lot of this stress in my own life. Especially in the early years of Facebook. You know, I just got really unhealthy. I wasn't exercising, I had a lot of anxiety. I actually like, threw out my back like, almost every six months like, when I was like, 21, 22 which is like, pretty crazy.
+
+[00:32:11]
+And so if you do start a company. make, you know, be aware that you're gonna have to deal with this and you have to actually manage it. It's actually like one of your core responsibilities. Ben Horowitz likes to say like the number one role of a CEO is managing your own psychology.
+
+[00:32:24]
+It's absolutely true, make sure you do it. So another reason so people especially if they've already had a job in another company. You tend to develop this narrative of like, okay like the people running this company are idiots, they're making all these stupid decisions, they're spending their time in stupid ways.
+
+[00:32:43]
+I'm gonna start a company and I'm gonna do it better. I'm gonna like set all the rule it's a pretty attractive idea. Makes a lot of sense if you've read my media post you know its coming, I'll give you guys a second to read this quote [SOUND] cool, so this, this really resonates with me and one thing I point out is that, you know, the reality of theses decisions is pretty nuanced.
+
+[00:33:13]
+The people that you thought were idiots probably weren't idiots they probably just had a really difficult decision in front of them. And people pulling them in multiple directions. So the most common thing I have to spend my time on and, and focus my energy on as, as a CEO is like, the problems that, like the problems that other bringing to me, the other priorities that people create and it's usually in the form of a conflict.
+
+[00:33:34]
+People wanna go in different directions, or like customers want different things, and like I might have my own opinion about that. But really the, the game I'm playing is like who do I disappoint the least and like just trying to like navigate all the, all these difficult situations and even on a day to day basis I might come in on Monday and like have all these you know, grand plans for like how I'm gonna improve the company and what I'm gonna spend my time on but then if like, an important employee is threatening to quit, that's what I'm spending my time on, that's my number one priority.
+
+[00:34:03]
+so, a subset of, you're the boss, is you have flexibility. You have control over your own schedule. This is a really attractive idea. So here's the reality. Another Phil Libin quote. [SOUND] So this, this really reson, resonates with me as well. And some of the reasons for this, again, you're always on call.
+
+[00:34:25]
+So maybe you don't intend to work all parts of the day but you might not get to control which ones. [SOUND] you're a role model. This is super important, so if you're an employee of a company you might have some good weeks, you might have some bad weeks.
+
+[00:34:37]
+Some weeks when you're low energy maybe you wanna take a couple extra days off. That's really bad if you're an entrepreneur. Like your team will really signal off what you're bringing to the table, and so if you take your foot off the gas so will they. And you're always working anyway, so, if you're really passionate about an idea it's just gonna like pull you to, to keep working on it.
+
+[00:34:58]
+If you're working with great investors, if you're working with great partners they're gonna wanna be working really hard. They're gonna want you to be working really hard. And again you're gonna work really hard. So some, some companies like to tell this story about like you can have your cake and eat it too.
+
+[00:35:11]
+You can have like, four day wee, work weeks maybe if you're Tim Ferriss, maybe you can have a 12 hours work week. It's a really attractive idea and it does work in a particular instance which is if you wanna like, actually have a small business or go after a niche market.
+
+[00:35:25]
+Then you're a small business entrepreneur. That makes total sense. But, as soon as you get past, like two or there people you gonna really need to step it up and, and be full time committed. cool. So, this is the big one. This is the one I hear the most especially like candidates applying to a sauna they tell me, you know, I'd really like to work for, for a much smaller company, or start my own because then I have a much bigger slice of the pie.
+
+[00:35:52]
+I'll have much more impact on how that company does. And I'll have more equity. So, I'll make more money as well. So let's examine, when this might be true. so, I'll explain these tables. They're a little complex but let's focus on the left first. So this is, this is just explaining, Dropbox and Facebook, these are their current valuations.
+
+[00:36:13]
+And this is how much money you might make as employee number 100 coming into these companies especially if you're like an expe, a relatively experienced engineer, like, you have, like five years of, of industry experience. You're pretty likely to have an offer that's around ten basis points. So if you joined Dropbox a couple of years ago, the upside you would have already locked in, it was about 10 million, there's plenty of growth from there.
+
+[00:36:34]
+If you believe in the company. If joined Facebook, a couple years into its existence, you made 200 million dollars, this is a huge number. and, if you [LAUGH] even if you joined Facebook as employee number 1,000, so you joined it in like 2009 you still made $20 million.
+
+[00:36:51]
+That's a giant number. And that's how you should be benchmarking when you're thinking about, what might I make as an entrepreneur? So, moving over to the table on the right these are two theoretical companies you might start. So for [UNKNOWN] pet sitting pretty good idea [LAUGH] If you're, if you're really well suited to this, you might have a really good shot at building a 100 million dollar company.
+
+[00:37:13]
+And then you're share of that company is pretty likely to be about 10%. This certainly fluctuates, some founders have a lot more than this, some have a lot less, but after multiple round of dilution multiple rounds of option procreation. You're pretty likely to end up here. If you have more than this, I'd recommend Sam's post on like the equity split between founders and employees.
+
+[00:37:35]
+You probably should be, giving out more. And then but so basically, if you're extremely confident about building this $100 million business which is a big ask it should go without saying that you should have a lot more confidence in Facebook in 2009 or, Dropbox in 2014, then you might for a start-up that doesn't even exist yet.
+
+[00:37:57]
+Then this is worth doing. So if you have $100 million idea and you're pretty confident you can execute it, I would consider that. [COUGH]. If you think you're the right entrepreneur to build Uber, Uber for space travel, that's a really huge idea, two billion dollar idea. You're actually gonna have a pretty good return for that.
+
+[00:38:12]
+You should definitely do that. This is also only the value after four years and this idea probably has legs. so, definitely go after that. If, if you're thinking of building that, you probably shouldn't even be in this class right now. You should just go in, go into a [INAUDIBLE] company.
+
+[00:38:25]
+[LAUGH] So why is this financial reward and impact? I really think that financial reward's very strongly correlated with the impact we have on the world. If you don't believe that let's talk through some specific examples and not think about the equity at all. So why am I joining?
+
+[00:38:43]
+A late stage company actually provide you a lot of impact. You get this force mul, multiplier. They have an existing massive user base. If it's Facebook, it's a billion users, or if it's Google it's a billion users. They have existing infrastructure you get to build on. That's also increasingly true for new start-ups.
+
+[00:38:57]
+Things like AWS and all these like awesome independent service providers. But you, you usually get some micro pry, micro proprietary technology and it's all maintained for you. It's a pretty great place to start. And you get to work with the team and they'll help you just, leverage your idea into something great.
+
+[00:39:13]
+So a couple specific examples. Brett Taylor came into employee around, or came into, Google as around employee number 1500. And he invented Google Maps. This is a product you guys probably use everyday. I used it to get here. And it's used by hundreds of millions of people all around the world.
+
+[00:39:30]
+Didn't need to start a company to do that. Did happen to get a big financial reward but the point is he had massive impact. My co-founder Justin Rosenstein. Joined Goog, Google, a little later after Brad he was a PM there. And just as a side project he ended up prototyping Chad, which, which used to be a stand alone App as integrated in to Gmail like you see it in the upper right there.
+
+[00:39:53]
+And before he did that like people didn't even think he could do chat over Ajax or chat on the browser at all and he just kind of like demonstrated it and showed it to his team and then they made it happen. And again this is, this is probably a product most of you use maybe everyday.
+
+[00:40:07]
+And then perhaps even more impressively shortly after that. Jari left he became employee around number 250 at Facebook and he led a hack-a-thon project along with people like Andrew Bosworth and Lea Pearlman to create the like button so this is one of the most popular elements anywhere on the web, totally changes how people use it.
+
+[00:40:27]
+And again, didn't need to start a company to do it. And, almost certainly would have failed, if he had tried. Because, he really needed the distribution of Facebook to make it work. So, important to, to keep in mind, the context for what kind of company you're trying to start.
+
+[00:40:39]
+And like, where will you actually be able to make it happen? [SOUND] So what's the best reason? So, Sam already talked about this a little bit. But, basically you can't not do it, your super passionate about this idea, your the right person to do it, you got to make it happen.
+
+[00:40:57]
+So how does this break down, through getting close in here how am I doing on time. Cool sweet perfect so this is sort of like a word play you can not do it in two ways, one is your so passionate about it that your just like you have to do it your gonna do it anyway.
+
+[00:41:15]
+And this is really important, cuz you'll need that passion to, get through all of those like hard parts of being an entrepreneur that we talked about earlier. You'll also need it to affectively recruit, candidates can smell when you don't have passion. And there are enough entrepreneurs out there who do have passion that they may as well work for one of those.
+
+[00:41:31]
+So this is sort of like table stakes for being an entrepreneur. Your subconscious can also tell when you don't have passion and that'll be a huge problem. And then so the other way to interpret this is, the world needs you to do it. So this is sort of validation that the, idea is important, it's gonna make the world better, so the world needs it.
+
+[00:41:48]
+If it's not im, if it's not something the world needs, go do something the world needs, your time's really valuable. There are plenty of good ideas out there. Maybe it's not one of your own, maybe it's an existing company, but, you may as well work on something that's gonna be good.
+
+[00:42:01]
+And then the second way to interpret this is, the world needs you to do it. You're actually well suited to this problem in some way. If this isn't true it may be a sign that your time is better spent somewhere else. But also just best case scenario if this isn't true, you outcompete the team for which it is true.
+
+[00:42:18]
+And you just end up with like, a sub optimal outcome for the world. That doesnt feel very good. So drawing this back to my own experience at Asana, you know, Justin and I were kind of like reluctant entrepreneurs before we founded Asana. So we were working at Facebook.
+
+[00:42:33]
+We were already working at a great problem. And we would basically work all day long on our normal projects and then at night we would keep working on this internal task manager that was used internally at the company and it was just cuz we were like so passionate about the idea, it was so clearly valuable that we couldn't do anything else.
+
+[00:42:51]
+And at some point we had to have the hard conversation of like, okay well what does it mean if we don't actually start this company? We're pretty, we're able to see the impact it was having on Facebook. We were pretty convinced it could be really valuable for the world.
+
+[00:43:01]
+We were also pretty convinced nobody else was gonna build it. The problem had been around a long time and we just kept seeing sort of incremental solutions to it. So if we didn't go out with the one that we thought was best, we thought there'd be a lot of value left on the table.
+
+[00:43:14]
+and, yeah. So, we just couldn't, couldn't stop working on it and literally the idea was, like, beating itself out of our chest, like, forcing itself into the world. And I think that's the feeling you should really be looking for, when you start a company. That's how you know you have the right idea.
+
+[00:43:28]
+so, I'll go ahead and stop there, I'll put some recommended books up here but won't narrate them. And, maybe that's the end of the class.
+>> [INAUDIBLE].
+>> Yeah.
+>> Yeah, thank you. [APPLAUSE] maybe he does want to stick around for a few minutes if you have questions for him.
+
+[00:43:47]
+And see you on Thursday. Thank you. [NOISE]
+

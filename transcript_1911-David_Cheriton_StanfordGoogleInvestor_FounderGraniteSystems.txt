@@ -1,0 +1,126 @@
+[00:00:03]
+I've always been in computing, always been interested in what people would describe as applied problems. And I would describe as real problems, that is things that people actually care about and, and so. There's a certain frustration you experience in the research world where if, if you think you've come up with some good ideas, you've carried them a certain distance, you write a paper on it, the graduate students involved graduate, and it kind of stops there.
+
+[00:00:33]
+And, so it's always hard to, to make something really prove itself in the real world in that form. So I became interested in this because I was developing things that I thought should live longer than a research paper. And I think the research papers clearly have an impact but.
+
+[00:00:56]
+It's amazingly great that technology transfer really takes place with people [LAUGH] you know, you have to have a person that really get it, really understands it and also things that are born on the research world are not really ready for the real world and in the, generally speaking there is somebody who has to feel this is my baby and I'm gonna raise it in the real world so it's, it's really competitive hence.
+
+[00:01:21]
+So, I think you, you have to be part of the technology transfer process. So, I suppose that's a long way of saying that, you know, one gets very interested in technology transfer when you realize that the alternative is, feels like, technology death at times.
+>> [UNKNOWN] I think for a, a lot of the students, who take my class, they often struggle with, well how do I know that this is the right idea, and, and as you emphasized, you know, often these early stage ideas there is still some way to go from the research stage to it being sort of a, a practical applied solution and, and sort of that there's some distance to go.
+
+[00:02:04]
+And, and so with you know, with, with say, Granite Systems. How did you know that, you know, this was sort of, the idea to, to pursue with technology transfer?
+>> Well with Granite. It was kind of a curious mixture because I knew Andy Becktleshine from his days as a graduate student and he had gone off and founded Sun Microsystems and I'd gone off and gotten ten years at Stanford and the, and the intervening time and a you can tell which one was the more lucrative effort [LAUGH] over that time period but one thing that we reconnected on was that.
+
+[00:02:44]
+There was tremendous and a political push while I call this techno-political push in the technology called ATM which I thought was a creation of the Double, frankly, and discovered that Andy did too although he never put it quite that strongly. And one thing that's great about a whole bunch of people doing a whole bunch of stupid stuff is that if you're smart enough, it creates an opportunity to do something smart because usually smart eventually wins over dumb, no matter how many people are doing the dumb thing.
+
+[00:03:16]
+And and so there seemed like an opportunity to do something with ethernet that was a well known technology but it was. It was growing but there was an opportunity together with, with Violess Eye Technology to sort of take it to another level in terms of performance, and cost reduction, and and all sorts of properties.
+
+[00:03:41]
+And so that to me was really the founding, premise of Granite. And I must admit you know, I, I think what I like is when you start a company it's, you have to have at least one good thing going for you. But it's a lot better to have two or three [LAUGH].
+
+[00:04:06]
+That is you know, to say, the market is doing this, the technology is doing that and. The competitors are stuck in something or other, you know, when you put the three together you feel like you have more of an opportunity and then just one cuz just one can, can be not enough to get you up to escape velocity.
+
+[00:04:24]
+One of the things I find fascinating about Silicon Valley is if you dig deep enough you find that a lot of companies had a business plan to do X and yet they shifted to Y and that's why they're still alive. And this was the case with when we founded Arastra.
+
+[00:04:41]
+The idea was effectively focused on reliability of WAN links. And we thought we had some good ideas there. And we thought we could make a company out of this. And we discovered that the market dynamics were different than we imagined. And with just, I could go into painful detail, but fundamentally, this company was not going anyplace on that premise.
+
+[00:05:13]
+And so, it was at that point, that I think it was really Andy who recognized, well, the other thing [LAUGH] we could do is that you know, the market was gonna move from one gigabit to ten gigabit and that you know, that the. It's funny, in computing we often talk about these changes as though it's just and like going from blue cars to red cars, where is the big opportunity.
+
+[00:05:42]
+But if you put it in everyday term, just say well, people are driving at 50 miles an hour and I'm gonna go 500 miles an hour [LAUGH] and well, often the technology changes and the way things get used changes. And so to me the, the opportunity was that there was this dislocation in the market place based on one Gig to ten Gig.
+
+[00:06:04]
+But it wasn't the speed change, it was the fact that the existing company view, the ten gig was the gold plated uplink expensive sort of thing which was a price umbrella over their low, their other products that were all one gig. And so there was that going for us.
+
+[00:06:22]
+And then, there was this emergence of merchant silicon people who'd been there for years, sort of going through kindergarten and grade school, and middle school, and so on but now they're ready to graduate from high school and do really competitive switch products. So you could build switches using other people's silicon which dramatically reduces the cost of things.
+
+[00:06:45]
+And the other thing that was going on was, was this change in the marketplace where previously all the most the major markets were enterprise. That is, how do you get dated to somebody's Window machine in their cubicle and service provider which is you know, wide areas sort of staff.
+
+[00:07:05]
+But what was emerging was this notion of building these data centers ala Google and Amazon and so on where you have a huge number of servers that are logically one big compute facility and the backbone of that is networking. And in that world we could see that what was evolving was these people had built things that are all connected by one gig.
+
+[00:07:29]
+But you just have to imagine. If you don't know [LAUGH] as Andy would know. The road map that Intel has with processors. That they have to go to ten gig server connect and you have to drive down the process, cost of ten gig and you have a very different set of requirements for the Cloud, so to speak, the large data centers.
+
+[00:07:50]
+So, you know, again my rule of, you know you can't have one reason to found a company you have to have several, there were several reasons it all came together that said there was an opportunity. Now on top of that, I happen to think that I had some good ideas about how to structure software.
+
+[00:08:08]
+To build something that's highly fault-tolerant and scalable and modular and so on. And a better way of building switch software and. what's, I think's under appreciated is the amount of software that runs in a switcher router. And you know the, the problem of building something that runs 24 by seven.
+
+[00:08:34]
+High reliability. High performance. Deals with all sorts of craziness. Is talking to all these other network switches and so on constantly. Having that be rock solid reliable is, it's a very interesting challenge. So I thought I had some good ideas and I'm sort of arrogant and ambitious enough that I wanted to try them in the real world and that ended up being an opportunity to do that.
+
+[00:08:58]
+You have to look at a market as a battlefield and many students haven't paid enough attention to history. You find that a lot of battles have been won by people who are amazingly out manned because they understand the battlefield. I mean, understand it down to the level of there's Marshas here, or there's not Marshas there, or, you know, how things are working out there.
+
+[00:09:23]
+And so, when you go into a market I think you have to say okay, who's fighting with who, and who's got leverage over who and who are the strengths and so on. And the market we're walking in to is basically saying we can improve your WAN experience. Well, the Telcos are already there.
+
+[00:09:44]
+And they can do whatever they want because they're so huge and so established and their game was to charge people a lot of money to get connected to them at all. But then, once they were customers, they really didn't charge that much for wide area surfaces. And so us.
+
+[00:10:13]
+So in this model of saying well, we can improve your wham performance and reliability by doing all this fancy stuff, the Telcos could just under price any benefit they were, we were delivering because they wanted to own the customer. And. You'd think logically, and in some senses it's like walking into a transportation system where you say, we can make your trip so much better, assuming that the cost of taking a taxi to the airport is a small cost of taking the flight to Paris but when you get into the market you discover.
+
+[00:10:49]
+That while the airlines owned the taxi business so by the time you paid for the taxi it's almost nothing to get to Paris, and you think, whoa. [LAUGH] suddenly this battlefield looks very different. So that was basically what we encountered was it was. You might say rigged but fundamentally the big players were, had a particular strategy that made what our business proposition not very compelling.
+
+[00:11:16]
+
+>> What words of advice or, or wisdom would you pass along to current students or recent graduates who are thinking about getting involved in entrepreneurship or more generally thinking about what career direction to, to pursue?
+>> Well, you know, the thing that comes to mind is this advice I got from a theater instructor I had years ago who said, [COUGH].
+
+[00:11:45]
+Whenever anybody comes to me and asks me whether they should be in theater I say no because if they take no for an answer then they shouldn't be in theater. [LAUGH] And if they say screw you I'm going to go there anyway then, at least there's some hope so I guess
+>> Right.
+
+[00:12:04]
+
+>> I usually tell people if they wanna start a, should I start a company, I'd say no [LAUGH]. And, and so first of all, I think you have to realize that you hear about the successes and you hear about the you know. The good times and so on, but at least I feel I have been incredibly fortunate but still it's, it's a demanding experience and I think the thing that you know, you really want it seriously is that.
+
+[00:12:41]
+When you start a company, it is not just you. It's you have to sell a vision to a bunch of people who are going to be joining you as employees and you are gonna commit position their career to this. So, you really have a responsibility for peoples, a key part of their life.
+
+[00:13:01]
+So, you know, when you, I've seen a few companies where their, you know, they run out of money, they are shutting down and people have put heart and soul in it and so you just don't go into this lightly. You really say I, you know, you really, really have to be committed to make it work and I think.
+
+[00:13:23]
+So I would say, you know, you have to have this commitment where everybody knows that don't do it, and you say, I'm still gonna do it, I have to do it. To have that commitment and to have to just say, I am not gonna see if this works, I'm gonna make it work.
+
+[00:13:41]
+I'm, I'm putting my. Real [LAUGH] everything I've got on the line because it is not just you, it's everybody else you're gonna pull into this. So, I think, I think that's the number one element is that you know, I think one of the things I've also mentioned working with Andy is that you know, I think Andy is a entrepreneurial genius.
+
+[00:14:09]
+I'd never encountered anybody in the league he's in, in terms of understanding markets, products, and all the various dynamics involved. And yet he still goes and seeks out advice from people and you know, I think that if you're starting a company, you have to really be prepared to spend lots of time trying to, to get as much wisdom as possible out out of people [LAUGH]
+and you, they can't tell you what to do but you have to be able to seek out that information.
+
+[00:14:53]
+You have to be able to look at a venture capitalist and say this is not Mr. Fat Cat Money Bags who's going to write a check. This is somebody who has a lot of experience with companies, with companies in early stages, that can assess things so I want to get his brain [LAUGH] but his checkbook is secondary.
+
+[00:15:12]
+I wanna get as much as I can out of his brain.
+>> Right.
+>> And I think that you know, taking that attitude is, is absolutely critical as well. Then, since I think everything comes in threes you know, the third thing I'd say is that you really want to have multiple things going for you in a company and they have to be real things.
+
+[00:15:40]
+You know, it's not good enough to say I can develop something that's slightly better than what's out there. Because the world is moving and often it's moving faster than you know, you don't know who else has got a competing product that hasn't been announced yet So, I think one really wants to look carefully for for these convergences of multiple factors, it create this opening and again, I, perhaps as a, an academic, I'm perhaps overly frightened by the marketplaces, it's a battlefield.
+
+[00:16:18]
+But, I think when you view your David going out onto these battlefields where many times there are Goliaths out there already that own patches of this ground that operate in certain ways. You say, I don't want just one slingshot, you know, I want as many different angles as possible and I need to be very, very nimble to find where I can survive in that, that market.
+
+[00:16:44]
+And. You know, I think getting that notion and [LAUGH] that you know, this is not a peaceful activity. This is, this is going out there and, and sort of, earning your spot to survive.
+

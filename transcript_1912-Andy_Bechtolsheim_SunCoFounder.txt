@@ -1,0 +1,233 @@
+[00:00:04]
+Part of the reason why you were so successful was that you were willing to take on more risk with the Sun, or, or at least you had more confidence.
+>> [LAUGH]
+>> The people would, would write the software and the operating system would work
+>> Yeah risk, risk, risk, risk, risk is the wrong word.
+
+[00:00:18]
+Let me explain it. So. When, when Sun started, actually it's a Monday left over from my private company right, and it was to seriously invest this putting in money the [UNKNOWN] relation. And I said I well I wanna invest, too. And I did right, so I was actually one of the serious investors.
+
+[00:00:32]
+And, and I still remember this day, one it was either Bob Sackman from U.S. Venture or, I think it was him. Who told me, but Andy, you know, you realize this could be risky? Like, you could lose all your money. [LAUGH] What I told him is, I don't see any risk.
+
+[00:00:46]
+And I didn't. To me, Sun was a zero-risk start up.
+>> Mm-hmm.
+>> Because I knew the product would work, right? There was clear demand for lower cost price point.
+>> Yeah.
+>> It was just the getting it out the door and getting, selling it, right? So, so from at least the, the entrepreneurs perspective right, I had zer-, I'm a risk averse.
+
+[00:01:00]
+Right? I wouldn't have sort of [UNKNOWN]. But, being in the field, and knowing what the technology does, and knowing what the opportunity was, it was zero risk! And quite frankly, most good startups don't have high risk. If you have a high risk, there's lots of things that can go wrong.
+
+[00:01:13]
+Now, if you have to solve a physics problem in GreenTech, that's high risk, because you don't know how long it could take. It could take 10 years. You could be out of money by the time you solve it, right? But building, you know, taking off the shelf, components, to building a computer that then sell for a different price point than the, the competition.
+
+[00:01:27]
+That was low-risk, at least to me. But from the venture perspective, it was risky. I guess they didn't know us yet, so [LAUGH] So I would say most successful companies took a low risk approach. You know, they started the right, the timing is, is really important of course, right.
+
+[00:01:41]
+If, in the Sun era, there was, I think in the end there was about 10 companies that all tried the same thing. UNIX workstation, graphical workstation, and so on. Some started before us. In fact, there was one that went public called Apollo, and it took us awhile to have passed him.
+
+[00:01:55]
+And a whole bunch started after us. But in the end, none of them got the mix right. I mean. They either didn't have the right software or operating system.
+>> [COUGH]
+>> Or they, they bet on the wrong chip, or whatever it was, they made a mistake, right?
+
+[00:02:07]
+And Sun, for better or worse, you know, we sailed right through this. So so of course, you know, you, your, your technical decisions are ultra important. I mean you're, you have to build the right product. There's, there's no way around that, right? That is a risk factor. If you get those wrong, you wasted a whole bunch of engineering cycles.
+
+[00:02:22]
+But if you build the right product at the right time for the right market and it works, you know, it's pretty predictable. And it's true even today, it just has to be market, that's not, you know, that's unencumbered from too much competition.
+>> Somebody has to see the right margin.
+
+[00:02:38]
+[LAUGH] Right, right.
+>> Yeah well, well, see this is what the real entrepreneur does in my mind is, connect, you know, the market opportunity with the technology that you need to realize that in an optimal fashion. And if you can do this, like in your own head, so they're short circuit, you're much better off than if you need 3 people in a room that all agree, right?
+
+[00:02:56]
+Because the more people you need to make a decision, the slower decision making gets. So a product focus, product marketing focus is actually very important. Then finding the right sales channel, that's actually easier, because, you know, you can either sell direct or indirect or, you know, with the internet these days, but, you know, it's basically three choices, right?
+
+[00:03:12]
+Whereas building the right product, you know, takes a lot of detailed decision making. So some actually did go public within, was it 4? Yeah, 4 years after we started. And, you know, it was a [INAUDIBLE] of revenue company within 5 years. So it was one, one of the real success stories of the 80's, certainly.
+
+[00:03:26]
+And dollars were more valuable than today, right? So it was a very, very nice market opportunity. But the sad thing to me about some of this is that it did not continue on this path, right? And, you know? History writers will wonder what happened. And quite frankly, you know?
+
+[00:03:41]
+The company did not focus efficiently on the market opportunity. There's no other way of saying this. So a lot of, engineer investment was essentially wasted on, on auxiliary, you know, markets that didn't really materialize. And and some of this came down to the people the company hired.
+>> [COUGH]
+
+[00:03:57]
+
+>> You know, the, the company divisionalized, there was suddenly all these new groups.
+>> Yeah.
+>> That was heads of their own charter, their meaning of life. But at the end of the day, you know, their, their charter wasn't that meaningful and all this opportunity was essentially wasted.
+
+[00:04:09]
+So, I feel a little bit sad about this, because I think the company could have done a lot better. But you know, at the end there's just a lot of people involved, and you know?
+>> Do you have any ideas about why, why this kind of happened?
+>> [LAUGH] You're asking a touchy question.
+
+[00:04:23]
+So, you know, I would say Scott as the CEO was not the product guy, right? So in other words. Yeah, he did, he was a really good sales cost of person eh, but and, and you know he was a good manager you know, he, he knew how to organize stuff but, he essentially delegated the product decision to this sort of group of, they were called satellite or planets at one point, were to lead different planet groups and with this sort of decentralization, you know it just was disaster and, I remember this one meeting where we had lawyers negotiating transfer pricing within the company, you know?
+
+[00:04:57]
+And I think even Scott blew up at that moment but it was a structurally, set up incorrectly. Right? I mean you couldn't have one group claiming revenue for, all of a sudden like the graphics group claimed revenue for the monitors because they didn't sell enough of the graphic group to look good.
+
+[00:05:10]
+They didn't actually sell the monitors they didn't add any of the monitors. But he came down to this revenue prep and, different people, you know? Trying to get meaning of life. So, in comparison, you know, reading how Apple was organized recently, and how they have gotten stuff done.
+
+[00:05:23]
+That seems like the right way of doing it. I mean, the intense product focus, and just say no to everything else. And clearly, you know, one lesson to learn here is the hardest thing in life is to actually say no. Especially if you have a lot of money, and a lot of.
+
+[00:05:35]
+People, right? Because you, you, you want to encourage people on one side to think independently, and creatively, and sort of let many flowers bloom. But it doesn't lead to a better outcome.
+>> Yeah.
+>> So the, the most successful surviving sort of high tech companies, I think, are the ones that have strong technical management, and a very keen sense on, you know, where to place their product investments.
+
+[00:05:56]
+And you know, the Intel software world, and the Google software world these days. And it's, you know, it's a big difference between those companies and people that had a lesser product focus. Google for that matter was not the first search engine. It was, I think there was 20 search engines before Google, and they were like, more or less the last ones.
+
+[00:06:13]
+They just had, the right idea. [CROSSTALK] Well, this is a funny story. So David Treddon, you know? Knew of the founders, because they were in his class, and he introduced us. And they had a little demo, you know? What they had developed as a student. And I was actually very familiar with the, the concept, because I was getting frustrated at finding stuff on the internet.
+
+[00:06:36]
+And if you recall at the time there was Alta Vista, which kind of worked in the 90s, 94 and 95, until people started gaming the system. Because Alta Vista is just sort of a keyword search. And what people realized, if they sort of ended up at dark pages, behind the documents, they hit the whole dictionary in the dark pages, they would always move up to the top, right?
+
+[00:06:54]
+Because whatever you're searching for, it would find the document. And of course, you wouldn't find anything useful anywhere, because, it got cluttered with all these people moving up, right.
+>> It did, right.
+>> Mm-hm.
+>> So the idea of Google which is the page rank algorithm that is the same principle in, in, scientific or academic publishing, which is it doesn't matter how many papers you've written.
+
+[00:07:12]
+What matters is how many people cite your paper. And it's the same basic idea. Well, it's immediately, you know, obvious to me that this is the right way of going. And, you know, I trust that they could build the data structures behind it to, to, to, to, build it up for the whole web.
+
+[00:07:25]
+And the question, of course, is how do you make money and the idea was well, we'll have these sponsored links and when you click on a link, you know, you, you, they, they collect 5 cents. And yeah, so there was I met this Quick calculation in the back of my head is that, okay, they're gonna get a million clicks a day at $0.05, it's $50,000 a day, at least they won't go broke, yeah is what's obvious.
+
+[00:07:43]
+[LAUGH] I said, okay, I'll write you a check right here. Because at the time, you know? They were talking about licensing and technology or joining up with some other companies and, you know, that, that would have been bad for them, and it's obviously, it would have been a complete missed opportunity.
+
+[00:07:54]
+So maybe my contribution to Google was to actually get them over the hump, and getting going. Because at the time, it wasn't incorporated yet, right? And donors don't pay any attention if you don't have some funding. So I wrote the check out to Google Inc. Which didn't even exist yet.
+
+[00:08:07]
+So the check was actually pre-dating the company. And the idea was, you know, they didn't want to attract [UNKNOWN] venture funding yet, because they wanted to prove that it really worked. So, they took this early start up capital, and built the first you know, ranks on ranks of service.
+
+[00:08:20]
+To, to make sure they could actually scale the system. And then, when it was time to raise the funding, they went to Kleiner and Sequoia and they raised I think a total of $25 million and, maybe it was 26. But that was the only money that ever went to the Google, right.
+
+[00:08:33]
+And when they went public, they still had a bunch left. So it was a very profitable and, and, high opportunity. But the, the most surprising that Google, still for me today was that the real growth started after the dot com crash. So most people don't realize this, but if you look back at the S1, the growth really took off in 2001, which is when Yahoo and the rest of the market went down.
+
+[00:08:53]
+And the reason, quite frankly, was, as far as I can tell is that, you know, people finally had to figure out where to spend the advertising dollar. I mean, in the late 90's, right? People just wasted these money on these banner ads that nobody ever clicked on, I mean it was really.
+
+[00:09:06]
+I mean, I never clicked on the Yahoo banner ad, ever. Maybe once, but you know, it just, it went right by you, right.
+>> [INAUDIBLE]
+>> Whereas in Google, you know the, the, the success rate for the merchant was much, much better. You know, so that the return on investment.
+
+[00:09:17]
+The, the only thing that is cheaper basically than Google links was, is e-mail spam you know, because it costs nothing right, but. If you actually want to get real customers, you know the return of estimate for these Google links is, is terrific. And I think that's still true today, because that's where all the eyeballs are.
+
+[00:09:33]
+So that has been a very successful, you know, business model. And, and the weird thing is, you know? In, in many ways, you know? The advertising had-, has [INAUDIBLE] Was the thing ruled by medicine avenue, east coast, and TVs, networks, and all this. But nobody connected, optimized the problem of advertising for the internet, which was of course bi-directional, right?
+
+[00:09:57]
+The whole notion of banner ad's was, it's just like a broadcast medium, where you buy the minutes of prints and impressions, and you get so many exhibits essentially, or so many prints on the screen. Whereas the revolutionary idea here was that, you know, it's the customer who decides what they want to see.
+
+[00:10:12]
+And it empowers the user, and they don't get annoyed by the sponsored link. If they don't want to click on them, they don't click on them. And if they do click on them, they're really interested. So it's the optimal, it was sort of the optimal form of taking advantage of the, the full duplex nature of the internet.
+
+[00:10:26]
+And nobody else did it at the time. It was just, it was just amazing! Here's the internet, you know? Everybody. Nobody can find stuff anymore, and you know? With all the stuff going on with Yahoo, and the, the most obvious thing was just to really make advertising better, was left to yet, not a starter company out of Stanford.
+
+[00:10:42]
+I'm sure you have seen the recent Facebook, Social Network movie. If, if Facebook had started at Stanford, they wouldn't have any of these problems that at's Harvard [LAUGH].
+>> Yeah.
+>> Because, you know, basically you need enough of the right mixture of, you know, legal advice and, and people who have done it before, and just understanding what it means to do a startup, right.
+
+[00:11:00]
+To avoid these kind of traps.
+>> Expand [INAUDIBLE] on, on this, you know, on the on the technology traps from that. A good relationship is much more important than a legal document.
+>> Mm-hmm. Getting the best terms and searching for the deal.
+>> Cuz the universities that try to squeeze the most out of it Often leave a sour taste in the mouth of the, of the inventors.
+
+[00:11:23]
+
+>> Right.
+>> Whereas Stanford doesn't try to do that. As a consequence, people are more generous with us later, and that's turned out great.
+>> Yes, certainly Stanford has benefited from that, but rightfully so.
+>> I'm sorry?
+>> Right, Stanford has rightfully benefited from this generosity.
+>> Yeah, I have.
+
+[00:11:37]
+Absolutely.
+>> Because they had a more liberal attitude toward that.
+>> Mm-hm.
+>> And 'cuz it's kind of been historically in the genes. And so, so, that's good. Anyway.
+>> And there's so much more to be discovered.
+>> Yeah, it's not gone yet. You know, you were talking about the concentration here.
+
+[00:11:54]
+If you look at the data, in 1995, only about 23% of the whole venture capital's invested here is now at 40%.
+>> Yes, that's in your records.
+>> It's steadily increasing. That's a little bit of a mystery.
+>> No, that's actually well understood, I would say. There's several reasons for this.
+
+[00:12:12]
+If we could just talk to this. So one is people finally understood that going on planes and traveling to the countries is a complete waste of time. I mean, you don't get anything done while you're on the plane, right? So investing locally and avoiding plane rides and going out to board meetings and other locations is just a bad idea.
+
+[00:12:29]
+But the second and more important issue is that when people looked at the historic success rate with companies in different fields, Northern California just stands out, it's just a higher success rate. And I remembered at, at, a client at one point, they had some companies in Colorado, I think it was.
+
+[00:12:43]
+And everyone of them failed, so they finally said, we'll never invest in the [LAUGH] conical row.
+>> Oh no.
+>> Just, I don't know what it was, but it just, you know, it was not, not worth it, basically.
+>> Uh-huh.
+>> And if you have enough opportunities here, it's not a shortage of opportunities here.
+
+[00:12:57]
+
+>> Yeah.
+>> Of course, you will miss some things happening on the East Coast.
+>> Right. Yeah.
+>> But there's plenty of venture firms out there that are competing for those opportunities, so why? Essentially going to their turf, right? It's a more regional, regionalization effect I would stay.
+
+[00:13:07]
+In fact, and the other thing is that, there's still venture people setting up new west coast offices, to not miss the boat here.
+>> Yeah.
+>> So a friend of mine, you know, works for a British venture from this public called my mind's going blank. Index Ventures?
+>> Yeah.
+
+[00:13:24]
+
+>> And, you know, they send him back here because that's where the opportunities are.
+>> Yeah, yeah, yeah.
+>> And so a lot of east coast firms are missing the west coast, I would say. More than the west coast firms missing the east coast.
+>> And it's that concentration, once you, once you get that concentration going, enhances itself you gotta, you know?
+
+[00:13:45]
+
+>> Yeah and the risk-taking of people here is different because, I mean there's so many other opportunities that in a risk is if it doesn't work out, there will be another one, right?
+>> Mm-hmm.
+>> Unless if you do something in, I don't know, New York? Well New York might be a bad example but some more local place, you know, there's, there may not be another, opportunity to fall back on.
+
+[00:14:03]
+So here people are just ready to jump ship essentially for the next big thing and. And this is historical understanding of the average success rates.
+>> Yeah.
+>> So it's easier to attract people than in other places where people don't have that understanding.
+>> Got that. That, that's, that's what's important.
+
+[00:14:17]
+
+>> I mean I always compare this to people who want to make a movie right? And if you want to make a movie you would go to Hollywood. You mean you hold the. The critical elements, you know, the, the writers there, there's people who how to know make sets, and the people who know how to manage this down there.
+
+[00:14:30]
+You wouldn't do that in Silicon Valley unless you'd see it said Lucas film or something. But basically, you know, you need the critical mass of people to, to do things efficiently and, and for start ups, it's all here.
+

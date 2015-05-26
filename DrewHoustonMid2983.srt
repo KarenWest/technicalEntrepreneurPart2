@@ -1,0 +1,4360 @@
+1
+00:00:03,790 --> 00:00:06,529
+Let's welcome Drew Houston. All right.
+
+2
+00:00:11,449 --> 00:00:12,779
+Can you guys hear me okay?
+
+3
+00:00:13,590 --> 00:00:19,669
+Good. So it's really a pleasure to be here and surreal
+
+4
+00:00:19,670 --> 00:00:21,509
+for me in a couple of different ways,
+
+5
+00:00:21,580 --> 00:00:25,379
+but a big turning point on kind of my whole entrepreneurial
+
+6
+00:00:25,380 --> 00:00:30,499
+adventure was actually about five years ago, maybe six years ago.
+
+7
+00:00:30,500 --> 00:00:32,689
+There is this thing called startup school,
+
+8
+00:00:32,689 --> 00:00:35,719
+which is held in an auditorium not too far from here.
+
+9
+00:00:35,720 --> 00:00:38,929
+So it's been a pretty crazy journey since then
+
+10
+00:00:38,930 --> 00:00:41,714
+that I hope to tell you guys a little about.
+
+11
+00:00:41,830 --> 00:00:46,009
+And so what I want to talk about is first and
+
+12
+00:00:46,010 --> 00:00:49,399
+foremost a little bit of the Dropbox story,
+
+13
+00:00:49,400 --> 00:00:51,724
+especially the early days and how we got started.
+
+14
+00:00:51,970 --> 00:00:53,709
+And maybe thread through there,
+
+15
+00:00:53,710 --> 00:00:56,339
+some of the lessons you can draw from that
+
+16
+00:00:56,340 --> 00:00:59,649
+and when I was embarking on this journey,
+
+17
+00:00:59,650 --> 00:01:03,729
+it was actually I graduated with my undergrad degree
+
+18
+00:01:03,730 --> 00:01:05,784
+in computer science about six years ago.
+
+19
+00:01:05,990 --> 00:01:07,729
+So, it hasn't been that long,
+
+20
+00:01:07,730 --> 00:01:09,509
+but it would have been awesome if like someone sat
+
+21
+00:01:09,510 --> 00:01:12,729
+me down and told me what the journey would be like.
+
+22
+00:01:12,730 --> 00:01:15,769
+So, I'm trying to think of this in kind of those terms,
+
+23
+00:01:15,770 --> 00:01:18,299
+what do I wish, someone had told me when I was,
+
+24
+00:01:18,640 --> 00:01:22,319
+21, 22 just getting started because it was a pretty kind
+
+25
+00:01:22,320 --> 00:01:25,269
+of - well you sort of - what I was thinking about the whole
+
+26
+00:01:25,270 --> 00:01:28,879
+startup world was kind of like climbing mountain doom,
+
+27
+00:01:28,880 --> 00:01:31,189
+right, you don't know how tall it is,
+
+28
+00:01:31,190 --> 00:01:33,539
+but there is a lot of fire and things exploding all around you,
+
+29
+00:01:33,540 --> 00:01:35,454
+a lot of smoke and it's really steep and,
+
+30
+00:01:35,620 --> 00:01:37,009
+you know, even if you know where you're going right
+
+31
+00:01:37,010 --> 00:01:39,349
+now things are going to get gnarly down the road.
+
+32
+00:01:39,350 --> 00:01:42,259
+So, if I can do anything to kind of
+
+33
+00:01:42,260 --> 00:01:44,109
+demystify some of the process too,
+
+34
+00:01:44,380 --> 00:01:49,599
+I hope I can do that. So, thanks again. A little bit about me.
+
+35
+00:01:49,600 --> 00:01:52,964
+So I grew up as little kid I was programming computers.
+
+36
+00:01:53,080 --> 00:01:55,484
+Studied computer science in MIT,
+
+37
+00:01:55,600 --> 00:01:59,969
+I've learned not to fight those kinds of battles,
+
+38
+00:01:59,970 --> 00:02:05,549
+but, it is the Stanford of the East I guess you could call it.
+
+39
+00:02:05,950 --> 00:02:11,609
+And that was really kind of the beginning and one thing
+
+40
+00:02:11,610 --> 00:02:14,109
+I realized there was I had been programming for a while,
+
+41
+00:02:14,110 --> 00:02:15,829
+so actually I felt I had a pretty good
+
+42
+00:02:15,830 --> 00:02:18,579
+handle on the building part of things.
+
+43
+00:02:18,750 --> 00:02:22,099
+But then I was really fascinated by the world of business too
+
+44
+00:02:22,200 --> 00:02:26,849
+and throughout high school and college I had worked at a bunch
+
+45
+00:02:26,850 --> 00:02:31,599
+of different startups and more than anything else working at
+
+46
+00:02:31,600 --> 00:02:34,849
+a startup was the most kind of informative experience for me,
+
+47
+00:02:34,850 --> 00:02:36,999
+the thing that prepared me best for this kind of whole
+
+48
+00:02:37,000 --> 00:02:41,049
+journey and that was a little counterintuitive because
+
+49
+00:02:41,050 --> 00:02:43,969
+especially if you go to a competitive school,
+
+50
+00:02:43,970 --> 00:02:47,399
+you grow up and life is all about checking these boxes right?
+
+51
+00:02:47,400 --> 00:02:50,669
+First you got and you go get the right test scores,
+
+52
+00:02:50,670 --> 00:02:51,959
+you got to get the right GPA,
+
+53
+00:02:51,960 --> 00:02:54,389
+you got to do these different things to kind
+
+54
+00:02:54,440 --> 00:02:56,729
+of be prepared and sort of look good,
+
+55
+00:02:56,880 --> 00:03:00,314
+be good enough to be admitted into a good school.
+
+56
+00:03:00,570 --> 00:03:04,039
+And so if you kind of carry that logic forward you imagine that
+
+57
+00:03:04,040 --> 00:03:06,659
+the right path to startups would be something like well,
+
+58
+00:03:06,800 --> 00:03:09,309
+what got me here was checking out these boxes and I can
+
+59
+00:03:09,310 --> 00:03:11,239
+think of all kinds of other boxes that I should check
+
+60
+00:03:11,240 --> 00:03:14,919
+off before I'm like really ready to start a company.
+
+61
+00:03:15,170 --> 00:03:19,469
+Among them maybe I should get a bunch of graduate degrees,
+
+62
+00:03:19,470 --> 00:03:21,809
+so I'm a really good engineer, maybe I should go get an MBA,
+
+63
+00:03:21,810 --> 00:03:26,049
+so I know about business, maybe I should go work at a big company,
+
+64
+00:03:26,050 --> 00:03:28,069
+or like a tech company like Google,
+
+65
+00:03:28,070 --> 00:03:30,724
+then maybe I should work at a medium company, then a small company,
+
+66
+00:03:30,850 --> 00:03:33,559
+then sometime in my 30s,
+
+67
+00:03:33,560 --> 00:03:38,344
+40s, 50s, I will be prepared to start a company.
+
+68
+00:03:38,500 --> 00:03:40,379
+And empirically, there is no,
+
+69
+00:03:40,380 --> 00:03:42,029
+I mean, one thing about this whole world
+
+70
+00:03:42,030 --> 00:03:45,419
+is a bunch of different paths to success,
+
+71
+00:03:45,420 --> 00:03:49,739
+but empirically it's sort of surprising that so many other companies,
+
+72
+00:03:49,740 --> 00:03:51,579
+you would think about in the hall of fame,
+
+73
+00:03:51,580 --> 00:03:54,809
+were started by people who were basically had
+
+74
+00:03:54,810 --> 00:03:56,314
+no idea what the hell they were doing either.
+
+75
+00:03:56,370 --> 00:03:59,294
+And so if you have that feeling,
+
+76
+00:03:59,670 --> 00:04:05,649
+it should be of some comfort that Amazon, Google, Facebook, Apple,
+
+77
+00:04:05,650 --> 00:04:09,824
+all these things were started by first or second time entrepreneurs
+
+78
+00:04:10,020 --> 00:04:14,319
+who were really figuring it out along the way too.
+
+79
+00:04:14,520 --> 00:04:17,738
+And so don't be too daunted if you don't have all the answers,
+
+80
+00:04:17,740 --> 00:04:20,999
+but, one important part of the Dropbox story
+
+81
+00:04:21,000 --> 00:04:25,729
+began when one of my best friends, this guy name Adam - Adam Smith,
+
+82
+00:04:25,730 --> 00:04:27,879
+he started a company called Xobni and he got funding
+
+83
+00:04:27,880 --> 00:04:30,829
+from this group of people called Y Combinator.
+
+84
+00:04:31,290 --> 00:04:35,594
+And back then they were still doing it in Boston as well as
+
+85
+00:04:35,750 --> 00:04:39,939
+out here and I was literally camped out in his living room,
+
+86
+00:04:39,940 --> 00:04:42,289
+while he was working on his company.
+
+87
+00:04:42,850 --> 00:04:46,459
+And I had been working on a company,
+
+88
+00:04:46,460 --> 00:04:49,709
+I had bootstrapped of all things an SAT prep company,
+
+89
+00:04:49,710 --> 00:04:55,719
+sometime - starting sometime in 2004, and like most first efforts,
+
+90
+00:04:55,720 --> 00:04:58,034
+I had no idea what I was doing.
+
+91
+00:04:58,140 --> 00:05:00,209
+In retrospect I did all kinds of things wrong,
+
+92
+00:05:00,460 --> 00:05:06,729
+but the biggest thing that was illuminating was just - so what happened
+
+93
+00:05:06,730 --> 00:05:10,149
+with Adam was he got a little bit of funding in - at the beginning
+
+94
+00:05:10,150 --> 00:05:13,564
+of the summer and at the end of the summer he moved out here.
+
+95
+00:05:13,690 --> 00:05:15,844
+He moved out to - well, he moved up to the city,
+
+96
+00:05:16,030 --> 00:05:18,719
+to San Francisco, and suddenly he was
+
+97
+00:05:18,720 --> 00:05:21,044
+talking to like all these people,
+
+98
+00:05:21,090 --> 00:05:25,009
+billionaires and famous entrepreneurs that I only read about and
+
+99
+00:05:25,160 --> 00:05:27,089
+the next thing I know I get this phone call from him being like,
+
+100
+00:05:27,090 --> 00:05:30,944
+hey we just got like $5 million from Vinod Khosla,
+
+101
+00:05:31,140 --> 00:05:32,354
+and I was like oh my god!
+
+102
+00:05:32,380 --> 00:05:36,684
+And Adam and I were fraternity brothers at MIT and he was actually
+
+103
+00:05:36,810 --> 00:05:40,709
+my little brother and so kind of a stark contrast between,
+
+104
+00:05:40,710 --> 00:05:44,229
+you know, not - less than a year prior probably my best memories of
+
+105
+00:05:44,230 --> 00:05:49,079
+Adam were in our game room in our fraternity playing beer pong,
+
+106
+00:05:49,300 --> 00:05:52,199
+not exactly expecting to be wheelbarrowing
+
+107
+00:05:52,200 --> 00:05:53,769
+away millions of dollars of cash,
+
+108
+00:05:53,770 --> 00:05:59,339
+so I was like well - all right, if Adam can do it, I can too.
+
+109
+00:05:59,350 --> 00:06:06,939
+And so never underestimate some of the baser motivations and how they
+
+110
+00:06:06,940 --> 00:06:13,829
+can propel you forward or maybe as a more practical piece of advice.
+
+111
+00:06:13,830 --> 00:06:17,019
+There is some quote you're an average of your five closest friends.
+
+112
+00:06:17,020 --> 00:06:22,079
+So, it can really help to be in a place where your closest
+
+113
+00:06:22,080 --> 00:06:24,569
+friends are also interested in startups and you're all kind
+
+114
+00:06:24,570 --> 00:06:27,449
+of pushing each other forward in a good natured way,
+
+115
+00:06:27,450 --> 00:06:29,519
+but there is also an undercurrent of competition
+
+116
+00:06:29,520 --> 00:06:34,609
+that can really be helpful. So, I saw the experience that Adam went
+
+117
+00:06:34,610 --> 00:06:38,639
+through with Xobni and Y Combinator,
+
+118
+00:06:39,010 --> 00:06:43,229
+I was having sort of this - it helped me discover that I was kind
+
+119
+00:06:43,230 --> 00:06:46,579
+of having this crisis and it couldn't put a name to it,
+
+120
+00:06:46,580 --> 00:06:49,109
+but it is something like burn out where I've been working
+
+121
+00:06:49,110 --> 00:06:54,129
+on my SAT prep company for two or three years part time.
+
+122
+00:06:54,200 --> 00:06:58,509
+And while I was finishing up my degree and I was like,
+
+123
+00:06:58,840 --> 00:07:00,119
+I haven't even asked myself,
+
+124
+00:07:00,120 --> 00:07:02,109
+like in the best case scenario what happens,
+
+125
+00:07:02,110 --> 00:07:03,594
+and I'm sort of thinking like well,
+
+126
+00:07:03,860 --> 00:07:06,209
+best case scenario like I'm kind of like king of SAT
+
+127
+00:07:06,210 --> 00:07:09,469
+prep and I kind of imagine like a little cardboard,
+
+128
+00:07:09,470 --> 00:07:10,554
+Burger King crown of something.
+
+129
+00:07:10,590 --> 00:07:14,179
+So I'm like - I'm not even really excited about
+
+130
+00:07:14,180 --> 00:07:17,099
+that because like there is not really - I mean,
+
+131
+00:07:17,370 --> 00:07:20,479
+there - I mean I love standardized testing as
+
+132
+00:07:20,480 --> 00:07:22,869
+much as any hormonally balanced person can.
+
+133
+00:07:22,990 --> 00:07:26,109
+But I'm like this is probably not my calling,
+
+134
+00:07:26,110 --> 00:07:29,639
+so - and so I was like well,
+
+135
+00:07:29,640 --> 00:07:32,184
+okay I had spend so much time on this thing,
+
+136
+00:07:32,530 --> 00:07:34,079
+I should really think carefully about
+
+137
+00:07:34,080 --> 00:07:36,719
+what I do next and I was like okay,
+
+138
+00:07:36,720 --> 00:07:38,659
+it should really come down to a few things.
+
+139
+00:07:38,700 --> 00:07:42,079
+And one of them was it had to be something
+
+140
+00:07:42,080 --> 00:07:45,619
+that was deeply technical because at heart,
+
+141
+00:07:45,620 --> 00:07:49,509
+since I was a little - technology is what I really love and
+
+142
+00:07:49,510 --> 00:07:53,049
+I would love for whatever company I start to have technology
+
+143
+00:07:53,050 --> 00:07:57,149
+as kind of the core source of it's competitive advantage.
+
+144
+00:07:57,160 --> 00:08:00,809
+Two, is I wanted something that I could explain to normal
+
+145
+00:08:00,810 --> 00:08:04,319
+people in a bar or coffee shop or something and have them
+
+146
+00:08:04,320 --> 00:08:07,499
+vaguely know what I'm talking about and so there are lots
+
+147
+00:08:07,500 --> 00:08:11,549
+of interesting ideas that some elements of infrastructure,
+
+148
+00:08:11,550 --> 00:08:13,679
+software - enterprise software that kind of ruled that
+
+149
+00:08:13,680 --> 00:08:17,319
+out even though it was technical interesting.
+
+150
+00:08:17,330 --> 00:08:20,909
+And third was it had to be something that had a working business
+
+151
+00:08:20,910 --> 00:08:24,879
+model because actually this was kind of the height of Web 2.0,
+
+152
+00:08:24,880 --> 00:08:27,309
+it was all kind of back to eye balls and do different things,
+
+153
+00:08:27,310 --> 00:08:29,899
+but I didn't really understand how that works if,
+
+154
+00:08:29,900 --> 00:08:32,499
+you know, can kind of eventually get people to
+
+155
+00:08:32,500 --> 00:08:34,458
+pay for your stuff or at least four people,
+
+156
+00:08:34,460 --> 00:08:37,264
+or how ever many were in here.
+
+157
+00:08:37,590 --> 00:08:42,019
+So, it was a good exercise for me because then I was able to think
+
+158
+00:08:42,020 --> 00:08:46,029
+long and hard about what I did next and I found myself in this
+
+159
+00:08:46,030 --> 00:08:50,549
+really bizarre situation where the same way that like social or
+
+160
+00:08:50,550 --> 00:08:55,369
+mobile or local startups are kind of the fad right now.
+
+161
+00:08:55,370 --> 00:08:59,729
+In late 2006, early 2007 cloud storage,
+
+162
+00:08:59,730 --> 00:09:01,809
+or online storage startups were kind of the thing
+
+163
+00:09:01,810 --> 00:09:04,789
+that is like the startup cliche basically and so
+
+164
+00:09:04,790 --> 00:09:06,209
+on TechCrunch you would have these roundups,
+
+165
+00:09:06,210 --> 00:09:10,449
+so like okay here are the next 100 online storage companies
+
+166
+00:09:10,450 --> 00:09:14,154
+that have launched and it was just kind of a joke and,
+
+167
+00:09:14,460 --> 00:09:17,399
+but at the same time I had all these problems with this
+
+168
+00:09:17,400 --> 00:09:20,679
+because I had this company and all of our crown jewels
+
+169
+00:09:20,680 --> 00:09:24,794
+I had on this little thumb drive and I was always like
+
+170
+00:09:25,010 --> 00:09:28,174
+one stupid mistake away from disaster, right.
+
+171
+00:09:28,330 --> 00:09:30,669
+I would carry it like in my shorts and I would pull it out,
+
+172
+00:09:30,670 --> 00:09:32,229
+and the connector would be bent and I would like
+
+173
+00:09:32,230 --> 00:09:34,109
+pray that I could like bend it back softly,
+
+174
+00:09:34,110 --> 00:09:36,209
+but firmly enough so it would keep working.
+
+175
+00:09:36,600 --> 00:09:41,379
+And I would - I mean, these are all things that people would do,
+
+176
+00:09:41,380 --> 00:09:43,129
+I would still be emailing myself stuff,
+
+177
+00:09:43,130 --> 00:09:44,929
+I would still be carrying this thing around,
+
+178
+00:09:44,930 --> 00:09:49,379
+on my little leash and it just drove me nuts and I went
+
+179
+00:09:49,380 --> 00:09:52,189
+through Michael Arrington's articles and I tried all
+
+180
+00:09:52,190 --> 00:09:56,559
+100 other things and I found something interesting where
+
+181
+00:09:56,560 --> 00:09:59,579
+none of them really solved the problem for me,
+
+182
+00:09:59,580 --> 00:10:01,324
+even though there were a lot of them.
+
+183
+00:10:01,660 --> 00:10:04,979
+And in particular you had to get like one thing
+
+184
+00:10:04,980 --> 00:10:07,229
+to - one service that was like a website,
+
+185
+00:10:07,230 --> 00:10:09,539
+you could upload your stuff too and then you had get another
+
+186
+00:10:09,540 --> 00:10:12,099
+app that was like that would sync things across your computers
+
+187
+00:10:12,100 --> 00:10:14,349
+and you get another app to back up your computer and I'm
+
+188
+00:10:14,350 --> 00:10:17,844
+like as we would later tell investors like,
+
+189
+00:10:17,860 --> 00:10:22,609
+I mean, I can't really imagine Tom Cruise in Minority Report
+
+190
+00:10:22,630 --> 00:10:26,129
+like logging into his Gmail to like pick up the attachment he
+
+191
+00:10:26,130 --> 00:10:29,579
+sent himself that morning or like forgetting his thumb drive,
+
+192
+00:10:29,580 --> 00:10:32,249
+it was just over here and your stuff follows you round and
+
+193
+00:10:32,250 --> 00:10:36,189
+that's the whole point like someone else takes care of it.
+
+194
+00:10:36,740 --> 00:10:38,829
+And we had a glimpse of that at school and
+
+195
+00:10:38,830 --> 00:10:40,619
+I'm sure you guys have something similar,
+
+196
+00:10:40,620 --> 00:10:42,134
+we had this system called Athena,
+
+197
+00:10:42,350 --> 00:10:43,499
+where you sit down at any of tens of
+
+198
+00:10:43,500 --> 00:10:45,549
+thousands of computers across campus,
+
+199
+00:10:45,940 --> 00:10:47,259
+all your stuff's in front of you,
+
+200
+00:10:47,260 --> 00:10:49,399
+you don't think about it and it's kind of - it's not a
+
+201
+00:10:49,400 --> 00:10:53,489
+very - it's not a consumer kind of typical environment
+
+202
+00:10:53,490 --> 00:10:55,759
+so it's kind of Unix focused and things like that.
+
+203
+00:10:56,090 --> 00:10:58,209
+But still you're not like sprinting back
+
+204
+00:10:58,210 --> 00:11:00,449
+across campus to take up your paper,
+
+205
+00:11:00,450 --> 00:11:02,859
+you're not worried about backing it up because
+
+206
+00:11:02,860 --> 00:11:04,429
+again someone else was just taking care of it.
+
+207
+00:11:04,430 --> 00:11:06,834
+And nobody here really built that for the
+
+208
+00:11:07,030 --> 00:11:12,169
+rest of the world and like this was pre,
+
+209
+00:11:12,170 --> 00:11:15,289
+you know, iPhone and iPad and all the amazing things
+
+210
+00:11:15,290 --> 00:11:16,964
+that have happened in the last five years and it
+
+211
+00:11:17,190 --> 00:11:19,279
+wasn't actually a very mainstream use case,
+
+212
+00:11:19,280 --> 00:11:21,699
+I mean, people were not syncing things across like six Linux PCs,
+
+213
+00:11:21,700 --> 00:11:25,054
+even then most people just had one computer.
+
+214
+00:11:25,220 --> 00:11:30,009
+But anyways it drove me nuts enough where the kind of last straw
+
+215
+00:11:30,450 --> 00:11:35,699
+was - I was in Boston South Station at the Chinatown bus terminal
+
+216
+00:11:35,970 --> 00:11:39,584
+and if any of you had the pleasure of riding the Chinatown bus,
+
+217
+00:11:39,650 --> 00:11:43,779
+it costs like 10 or 15 bucks and it takes you from Boston to New York
+
+218
+00:11:43,780 --> 00:11:47,259
+and is famous for such things like tipping over or things like that.
+
+219
+00:11:47,270 --> 00:11:50,219
+So, fortunately that wasn't part of the story.
+
+220
+00:11:50,220 --> 00:11:51,629
+And I got to New York okay,
+
+221
+00:11:51,630 --> 00:11:55,499
+but there was a problem which is I had been making this mental
+
+222
+00:11:55,500 --> 00:11:57,989
+checklist of like all these great things that I was going
+
+223
+00:11:57,990 --> 00:12:00,069
+to get done because I had four hours in front of me where
+
+224
+00:12:00,070 --> 00:12:02,889
+nobody was going to bother me and here all the great things
+
+225
+00:12:02,890 --> 00:12:06,569
+I was kind of accomplish and I excitedly sit down,
+
+226
+00:12:06,570 --> 00:12:07,829
+I open up my, I guess,
+
+227
+00:12:07,830 --> 00:12:12,304
+ThinkPad at the time and I'm like I get that feeling in
+
+228
+00:12:12,570 --> 00:12:15,429
+the pit of my stomach which many of you have experienced
+
+229
+00:12:15,430 --> 00:12:19,709
+at one time or another where I was like start feeling around
+
+230
+00:12:19,710 --> 00:12:24,379
+in my pocket and I just get this vivid picture in my head
+
+231
+00:12:24,450 --> 00:12:32,799
+of my thumb drive sitting on my desk at home and,
+
+232
+00:12:33,010 --> 00:12:35,689
+you know, and then I'm like okay,
+
+233
+00:12:36,730 --> 00:12:38,469
+instead of getting all these wonderful things done,
+
+234
+00:12:38,470 --> 00:12:39,739
+I'm just going to think about what an
+
+235
+00:12:39,740 --> 00:12:41,829
+idiot I'm for the next four hours,
+
+236
+00:12:41,830 --> 00:12:44,719
+but thought for about 10 or 15 minutes,
+
+237
+00:12:44,720 --> 00:12:47,679
+but then actually open up the editor and started writing some
+
+238
+00:12:47,680 --> 00:12:51,579
+code having actually no idea what this would turn into,
+
+239
+00:12:51,580 --> 00:12:53,609
+but I'm getting so frustrated that nobody
+
+240
+00:12:53,610 --> 00:12:55,174
+had really solved this problem.
+
+241
+00:12:55,430 --> 00:13:01,729
+And so that was kind of the beginning of it and then through kind
+
+242
+00:13:01,730 --> 00:13:05,849
+of a interesting chain of events I met my cofounder Arash actually
+
+243
+00:13:05,850 --> 00:13:11,839
+put up a - I put up a screencast of Dropbox on Hacker News and Arash
+
+244
+00:13:11,840 --> 00:13:14,899
+actually saw it and it turned out one of the other things I did
+
+245
+00:13:14,900 --> 00:13:16,869
+on this trip out to California five years ago,
+
+246
+00:13:16,870 --> 00:13:23,589
+back in March 2007, was come out to meet a bunch of the Y Combinator founders
+
+247
+00:13:23,590 --> 00:13:26,079
+and complain how I didn't have a cofounder and it turned out,
+
+248
+00:13:26,080 --> 00:13:29,439
+I met someone who was a mutual friend of mine and Arash's and
+
+249
+00:13:29,440 --> 00:13:33,979
+he made an introduction to us and we met up at the MIT Student
+
+250
+00:13:33,980 --> 00:13:37,239
+Center and hung out for an hour or two and talked about MySQL
+
+251
+00:13:37,240 --> 00:13:41,079
+and some other things and Dropbox and they were like yeah,
+
+252
+00:13:41,080 --> 00:13:43,859
+of course we will like to spend all of our waking
+
+253
+00:13:43,860 --> 00:13:45,874
+hours together for the foreseeable future.
+
+254
+00:13:46,040 --> 00:13:49,424
+So kind of like getting married on the first date.
+
+255
+00:13:49,590 --> 00:13:53,569
+But, you know, if anything doesn't,
+
+256
+00:13:53,570 --> 00:13:55,769
+just an extraordinarily lucky break that ended
+
+257
+00:13:55,770 --> 00:13:57,644
+up working out and we ended up having all these
+
+258
+00:13:57,930 --> 00:14:00,829
+complementary skills and a great relationship,
+
+259
+00:14:00,830 --> 00:14:04,554
+but I would recommend getting to know, its not the safe way to do it,
+
+260
+00:14:04,610 --> 00:14:08,049
+but that's the one - probably the most important decision you make,
+
+261
+00:14:09,240 --> 00:14:10,569
+is who your cofounder is.
+
+262
+00:14:10,580 --> 00:14:16,229
+But anyway so, Arash and I applied to Y Combinator and we get in,
+
+263
+00:14:16,230 --> 00:14:20,054
+and we spend this blissful summer of doing nothing but waking up,
+
+264
+00:14:20,260 --> 00:14:23,159
+writing code till the sun goes down,
+
+265
+00:14:23,160 --> 00:14:27,369
+then it comes up again and then I would drive back and drop
+
+266
+00:14:27,370 --> 00:14:29,469
+him off at his dorm room at MIT and I would race home and
+
+267
+00:14:29,470 --> 00:14:32,334
+we would do it again probably for 90 days straight.
+
+268
+00:14:32,700 --> 00:14:38,319
+And so one of the great things about
+
+269
+00:14:38,320 --> 00:14:40,649
+Y Combinator is it kind of plugs you in,
+
+270
+00:14:40,650 --> 00:14:43,869
+it's sort of a startup boot camp where you encounter
+
+271
+00:14:43,870 --> 00:14:46,839
+all these classic characters that you meet out here,
+
+272
+00:14:46,840 --> 00:14:50,229
+work, you know, so here talks - there is,
+
+273
+00:14:50,230 --> 00:14:52,474
+all the program is really is weekly dinners,
+
+274
+00:14:52,610 --> 00:14:55,119
+and you have talks from entrepreneurs and lawyers,
+
+275
+00:14:55,300 --> 00:14:56,959
+investors, just all these different people,
+
+276
+00:14:56,960 --> 00:14:59,719
+and they kind of start giving you context
+
+277
+00:15:00,070 --> 00:15:00,989
+around what you need to know,
+
+278
+00:15:00,990 --> 00:15:06,209
+and one of the most challenging things as a founder is really you discover
+
+279
+00:15:06,210 --> 00:15:10,139
+very quickly that you know a lot about the technical founders,
+
+280
+00:15:10,140 --> 00:15:11,969
+you know a lot about the engineering,
+
+281
+00:15:12,400 --> 00:15:14,979
+but there is always other things you got to - you certainly have
+
+282
+00:15:14,980 --> 00:15:20,269
+to care about from sales to finance to management strategy,
+
+283
+00:15:20,270 --> 00:15:21,479
+like all these different things.
+
+284
+00:15:21,490 --> 00:15:26,609
+And one of the things I had done that was really valuable in college,
+
+285
+00:15:26,610 --> 00:15:30,179
+is during the summers I would go up on to the roof of our house
+
+286
+00:15:30,180 --> 00:15:33,839
+and I'd just go on Amazon and I would like search like sales
+
+287
+00:15:33,840 --> 00:15:35,814
+and l look for like the highest rated book on that,
+
+288
+00:15:36,060 --> 00:15:39,509
+and like buy it and do the same thing for all of those different
+
+289
+00:15:39,710 --> 00:15:44,969
+disciplines and it actually was absolutely instrumental in helping
+
+290
+00:15:44,970 --> 00:15:47,909
+me start to understand how all these things worked.
+
+291
+00:15:47,910 --> 00:15:51,309
+And you don't become a great salesperson by reading
+
+292
+00:15:51,310 --> 00:15:53,539
+a book any more than you become a great guitarist
+
+293
+00:15:53,540 --> 00:15:55,899
+or basketball player by reading a book.
+
+294
+00:15:55,900 --> 00:15:58,179
+But it can start to give you some sense of,
+
+295
+00:15:58,180 --> 00:16:00,289
+you know, for people that are really great at this,
+
+296
+00:16:00,490 --> 00:16:01,399
+what do they think about,
+
+297
+00:16:01,400 --> 00:16:07,149
+and this really kind of important kind of 80-20 aspect of
+
+298
+00:16:07,150 --> 00:16:10,059
+sort of learning the basics about a given discipline,
+
+299
+00:16:10,060 --> 00:16:12,114
+that was really helpful for me.
+
+300
+00:16:12,160 --> 00:16:17,809
+But anyway, so Y Combinator, this is this amazing experience,
+
+301
+00:16:17,810 --> 00:16:20,499
+and we moved out of Boston to San Francisco.
+
+302
+00:16:20,500 --> 00:16:24,099
+And to just give you a kind of flavor of the kinds of things
+
+303
+00:16:24,190 --> 00:16:27,459
+that you have to deal with when you're sort of trying to figure
+
+304
+00:16:27,460 --> 00:16:32,049
+all this out is through another series of events,
+
+305
+00:16:32,050 --> 00:16:35,859
+we got introduced to this venture firm called Sequoia Capital.
+
+306
+00:16:36,120 --> 00:16:39,769
+And it's the kind of thing where you walk into
+
+307
+00:16:39,770 --> 00:16:41,669
+the chalets a couple of miles away from here,
+
+308
+00:16:41,670 --> 00:16:44,529
+and for someone who never really spent much time in California
+
+309
+00:16:44,530 --> 00:16:46,889
+or never spent much time in the whole ecosystem it's pretty
+
+310
+00:16:46,890 --> 00:16:48,889
+daunting because you look and it's like okay,
+
+311
+00:16:48,890 --> 00:16:54,079
+there is like a picture of Steve Jobs and there is a - the original
+
+312
+00:16:54,080 --> 00:16:57,379
+Google S1 or the stock certificates from the IPO
+
+313
+00:16:57,380 --> 00:17:00,039
+and you are just like I don't really belong here,
+
+314
+00:17:00,040 --> 00:17:02,524
+I'm just like some - we're just a bunch,
+
+315
+00:17:02,790 --> 00:17:04,999
+couple of - Arash actually dropped out of school,
+
+316
+00:17:05,000 --> 00:17:11,809
+so he gets all the startup credit, but anyway so, there we are,
+
+317
+00:17:12,140 --> 00:17:17,339
+and we actually hit it off with the partner there,
+
+318
+00:17:17,340 --> 00:17:22,449
+and then through, sort of muddle our way through and I'm desperately
+
+319
+00:17:22,450 --> 00:17:24,709
+calling people at night asking for advice on fundraising,
+
+320
+00:17:24,710 --> 00:17:27,034
+different things through people I had met.
+
+321
+00:17:27,210 --> 00:17:29,089
+And somehow we found ourselves in a situation
+
+322
+00:17:29,090 --> 00:17:34,489
+where they decided to invest, and I'm like oh my God this is amazing,
+
+323
+00:17:34,490 --> 00:17:36,139
+and you know we're going through all this
+
+324
+00:17:36,140 --> 00:17:39,099
+process and it happened pretty quickly,
+
+325
+00:17:39,100 --> 00:17:42,639
+we showed up on a Friday, bit of handshake deal on Monday night,
+
+326
+00:17:42,640 --> 00:17:45,684
+so one business day turnaround, which was pretty convenient.
+
+327
+00:17:45,870 --> 00:17:49,094
+And then I had this new problem which was,
+
+328
+00:17:49,210 --> 00:17:50,989
+the finance people are like emailing me like
+
+329
+00:17:51,070 --> 00:17:53,199
+okay please send me your wiring instructions.
+
+330
+00:17:54,150 --> 00:17:57,279
+I'm like wiring instructions,
+
+331
+00:17:57,600 --> 00:17:59,779
+like the only training I had wiring instructions was,
+
+332
+00:17:59,780 --> 00:18:03,549
+I think that happened in like James Bond movies,
+
+333
+00:18:03,550 --> 00:18:06,339
+and I'm like I'm pretty sure we only have like the
+
+334
+00:18:06,340 --> 00:18:08,889
+"my first business" checking account from Bank of America
+
+335
+00:18:08,890 --> 00:18:11,829
+that we set up in the CambridgeSide Galleria Mall,
+
+336
+00:18:11,830 --> 00:18:13,744
+and I'm like so this might be tough.
+
+337
+00:18:14,050 --> 00:18:18,819
+So, Arash and I go to the North Beach branch of the Bank of America,
+
+338
+00:18:18,820 --> 00:18:23,119
+and we we're like well, so you got the teller people,
+
+339
+00:18:23,120 --> 00:18:28,039
+and you got the leather seat people, and we look at each other like,
+
+340
+00:18:28,040 --> 00:18:34,319
+it's probably a leather seat problem.
+
+341
+00:18:34,320 --> 00:18:39,319
+And we sit down and the woman was really nice,
+
+342
+00:18:39,320 --> 00:18:41,329
+she was like, how can I help you,
+
+343
+00:18:41,330 --> 00:18:45,824
+and I'm like is there a limit to how much a bank account can hold?
+
+344
+00:18:45,870 --> 00:18:50,719
+And she was like, well what do you mean?
+
+345
+00:18:50,720 --> 00:18:53,309
+And like I was dressed in shorts and a hoody
+
+346
+00:18:53,310 --> 00:18:57,359
+and Arash was even more disheveled,
+
+347
+00:18:57,630 --> 00:19:02,589
+and I'm like well, can it hold $1 million?
+
+348
+00:19:02,590 --> 00:19:03,659
+And she was like yeah,
+
+349
+00:19:03,660 --> 00:19:08,639
+and so, and I don't know if she thought it was like drugs
+
+350
+00:19:08,640 --> 00:19:11,144
+or this kind of thing happens all the time out here,
+
+351
+00:19:11,320 --> 00:19:13,919
+but both sides very quickly stopped asking questions and
+
+352
+00:19:13,920 --> 00:19:17,034
+we got our routing number and everything and went back,
+
+353
+00:19:17,280 --> 00:19:19,579
+but there is no like startup manual where you are like oh,
+
+354
+00:19:19,580 --> 00:19:25,359
+well here is how that works, and so a lot of it is really,
+
+355
+00:19:25,960 --> 00:19:31,209
+even when you look - at some of these amazingly successful companies
+
+356
+00:19:31,210 --> 00:19:33,099
+and having had a chance to meet a lot of those people,
+
+357
+00:19:33,300 --> 00:19:35,619
+so much of what makes startups crazy is just kind of this iterative
+
+358
+00:19:35,620 --> 00:19:38,439
+process of just having these random things happen to you,
+
+359
+00:19:38,440 --> 00:19:40,714
+or having these ideas and just kind of figuring it out.
+
+360
+00:19:40,750 --> 00:19:45,464
+And I talk about some of the kind of more humble beginnings
+
+361
+00:19:45,620 --> 00:19:50,269
+because I think there is this huge disservice that kind
+
+362
+00:19:50,270 --> 00:19:52,799
+of the - of the sort of Silicon Valley methodology,
+
+363
+00:19:52,800 --> 00:19:55,374
+and the things you read in magazines where it's like,
+
+364
+00:19:55,610 --> 00:19:58,059
+you know, right from the moment he was
+
+365
+00:19:58,060 --> 00:19:59,899
+sitting in his dorm room at Harvard,
+
+366
+00:19:59,900 --> 00:20:03,784
+Mark Zuckerberg sought to redefine the face of human communication.
+
+367
+00:20:04,170 --> 00:20:10,999
+And you know, and Google they were going to organize
+
+368
+00:20:11,000 --> 00:20:12,689
+all the world's information and all these different
+
+369
+00:20:12,690 --> 00:20:14,294
+things and you sort of sit there and you're like,
+
+370
+00:20:14,470 --> 00:20:18,399
+you're just trying to like write code and hope it compiles.
+
+371
+00:20:18,630 --> 00:20:23,449
+And you're like, well I know I'm not quite like that,
+
+372
+00:20:23,450 --> 00:20:24,539
+and I'm not thinking about that,
+
+373
+00:20:24,540 --> 00:20:26,919
+I'm thinking about like we have $60 left in our checking
+
+374
+00:20:26,920 --> 00:20:30,704
+account and I can't loan the company any more money.
+
+375
+00:20:30,920 --> 00:20:35,499
+So anyway, the point is like,
+
+376
+00:20:36,380 --> 00:20:39,559
+in fact Facebook it was number,
+
+377
+00:20:39,560 --> 00:20:42,979
+like project number seven or eight that Mark happened
+
+378
+00:20:42,980 --> 00:20:46,329
+to be hacking on and it just happened to sign up the
+
+379
+00:20:46,330 --> 00:20:48,704
+whole Harvard campus in a couple of weeks,
+
+380
+00:20:48,910 --> 00:20:54,889
+but and Google, like they were - they were rejected when they offered -
+
+381
+00:20:54,890 --> 00:20:57,429
+they wanted to sell the company for $1 million to Yahoo,
+
+382
+00:20:57,430 --> 00:20:59,229
+and so the point is,
+
+383
+00:20:59,230 --> 00:21:02,619
+all these things start with much more modest ambitions,
+
+384
+00:21:02,620 --> 00:21:04,644
+and even the sort of, the great entrepreneurs.
+
+385
+00:21:04,920 --> 00:21:10,264
+And the - as you sort of reach each of these new milestones,
+
+386
+00:21:10,510 --> 00:21:14,159
+you're like okay, the goalposts move back and so your
+
+387
+00:21:14,160 --> 00:21:17,579
+ambitions are going to be much broader over time,
+
+388
+00:21:17,580 --> 00:21:19,789
+and this is kind of - all this doesn't happen overnight.
+
+389
+00:21:19,790 --> 00:21:22,229
+So when you kind of look at - I talked at the beginning of
+
+390
+00:21:22,230 --> 00:21:24,949
+how kind of daunting everything seems because there is
+
+391
+00:21:24,950 --> 00:21:27,179
+like the little sort of corner of stuff that you know,
+
+392
+00:21:27,180 --> 00:21:31,879
+and this world of stuff that you don't - often that can be enough
+
+393
+00:21:31,880 --> 00:21:33,659
+of a barrier to stop people from even getting started.
+
+394
+00:21:33,670 --> 00:21:36,639
+So, just realize that this - that you have to be systematic
+
+395
+00:21:36,640 --> 00:21:38,309
+about how you learn all these things,
+
+396
+00:21:38,530 --> 00:21:41,749
+but this all happens one day at a time,
+
+397
+00:21:41,750 --> 00:21:46,649
+and so then there were a couple of other things that were
+
+398
+00:21:46,650 --> 00:21:49,924
+pretty instrumental in our - in the early years of Dropbox.
+
+399
+00:21:49,990 --> 00:21:54,289
+And one of them was really figuring out distribution.
+
+400
+00:21:54,290 --> 00:21:59,979
+And I think it's something that people kind of underestimate,
+
+401
+00:21:59,980 --> 00:22:02,769
+the importance of that. And it was especially interesting in our case
+
+402
+00:22:02,770 --> 00:22:04,269
+because we made a couple of mistakes.
+
+403
+00:22:04,490 --> 00:22:06,509
+One was like really kind of right,
+
+404
+00:22:06,510 --> 00:22:09,209
+we're launching this company and we should probably get real,
+
+405
+00:22:09,210 --> 00:22:11,509
+and like hire PR people and advertising
+
+406
+00:22:11,510 --> 00:22:13,764
+guys and different things and SEO,
+
+407
+00:22:13,790 --> 00:22:18,039
+buy AdWords and all this stuff, and so we bought a lot of AdWords,
+
+408
+00:22:18,040 --> 00:22:20,429
+and we spent a bunch of money and time
+
+409
+00:22:20,430 --> 00:22:22,769
+on this and the results were just terrible,
+
+410
+00:22:22,770 --> 00:22:24,729
+it cost us like $500 or $1,000
+
+411
+00:22:24,730 --> 00:22:29,179
+to acquire a user that was going to pay us $100 and so,
+
+412
+00:22:29,180 --> 00:22:31,699
+very clear that that wasn't going to work.
+
+413
+00:22:31,740 --> 00:22:34,539
+But we had actually done these more kind of guerilla things,
+
+414
+00:22:34,890 --> 00:22:37,699
+which was inspired by reading the book Guerilla Marketing which
+
+415
+00:22:37,700 --> 00:22:39,574
+was actually really instrumental in thinking about this,
+
+416
+00:22:39,860 --> 00:22:44,289
+where we put this video of Dropbox on Digg in 2007.
+
+417
+00:22:44,470 --> 00:22:47,249
+Sorry, March 2008, about a year after we started.
+
+418
+00:22:47,550 --> 00:22:49,279
+And what we managed to do is we put
+
+419
+00:22:49,280 --> 00:22:52,759
+all these little Easter eggs in it,
+
+420
+00:22:52,760 --> 00:22:54,649
+and because - and if you're familiar with the Digg,
+
+421
+00:22:54,650 --> 00:22:56,989
+or with Digg or Reddit are kind of these classic internet
+
+422
+00:22:56,990 --> 00:22:58,449
+communities and they have these little memes,
+
+423
+00:22:58,450 --> 00:23:01,119
+and things like that and it was just this deadpan
+
+424
+00:23:01,120 --> 00:23:04,059
+demo of me talking over a sort of a screen.
+
+425
+00:23:04,260 --> 00:23:07,179
+But the files were all named things,
+
+426
+00:23:07,180 --> 00:23:09,259
+like named after like Chocolate Rain
+
+427
+00:23:09,260 --> 00:23:11,939
+which is a YouTube sensation - well,
+
+428
+00:23:11,940 --> 00:23:15,849
+YouTube, one of these viral videos back in the day.
+
+429
+00:23:15,850 --> 00:23:18,309
+And it references office space and Obama
+
+430
+00:23:18,310 --> 00:23:19,774
+and xkcd and all these things.
+
+431
+00:23:19,990 --> 00:23:21,699
+But it was just me kind of deadpanning everything,
+
+432
+00:23:21,700 --> 00:23:22,979
+oh, this is how Dropbox works.
+
+433
+00:23:23,170 --> 00:23:26,359
+And the thing just like - and we put it - we get
+
+434
+00:23:26,360 --> 00:23:29,244
+a kind of a little bit of a link bait title,
+
+435
+00:23:29,530 --> 00:23:33,084
+I think it was Google Drive killer coming from MIT startup.
+
+436
+00:23:33,400 --> 00:23:35,964
+So, go big.
+
+437
+00:23:36,170 --> 00:23:41,949
+And so the thing just like absolutely took off,
+
+438
+00:23:41,950 --> 00:23:45,989
+it hit the top - it hit the top of Digg, it was like 12,000 Diggs,
+
+439
+00:23:46,220 --> 00:23:48,749
+hundreds of thousands of people visited
+
+440
+00:23:48,750 --> 00:23:50,809
+the - what used to be - getdropbox.com,
+
+441
+00:23:50,810 --> 00:23:54,334
+that was our first domain name, that's a whole other story.
+
+442
+00:23:54,720 --> 00:23:56,579
+But anyway, all these people visited the website
+
+443
+00:23:56,680 --> 00:23:59,929
+and like our beta waiting list went from 5,000
+
+444
+00:23:59,930 --> 00:24:01,869
+to 75,000 people overnight,
+
+445
+00:24:01,870 --> 00:24:04,449
+which is because we had been wringing our hands
+
+446
+00:24:04,450 --> 00:24:07,219
+about this kind of critical mass problem, and how do we get started,
+
+447
+00:24:07,220 --> 00:24:10,719
+and just that one kind of ghetto thing that
+
+448
+00:24:10,720 --> 00:24:13,209
+we did ended up working extremely well.
+
+449
+00:24:13,210 --> 00:24:17,449
+In fact, nothing well - it solved literally overnight,
+
+450
+00:24:17,450 --> 00:24:20,814
+our distribution problem or the at least the getting started problem.
+
+451
+00:24:21,180 --> 00:24:25,449
+And the lesson there is not to make a video and put it on Digg,
+
+452
+00:24:25,450 --> 00:24:29,589
+because that probably wouldn't work very well anymore,
+
+453
+00:24:29,590 --> 00:24:33,219
+but the - but really understand - there are
+
+454
+00:24:33,220 --> 00:24:34,669
+a couple of insights that came from that.
+
+455
+00:24:34,670 --> 00:24:37,809
+One is - another thing I learned from one these books,
+
+456
+00:24:37,810 --> 00:24:40,289
+called Crossing the Chasm is you have this technology adoption life
+
+457
+00:24:40,290 --> 00:24:44,319
+cycle and you have these people who - most people are not searching the
+
+458
+00:24:44,320 --> 00:24:46,849
+internet for like cool things that they can download on to their computer
+
+459
+00:24:46,850 --> 00:24:50,059
+or like want more buttons on their Blu-ray remote, right.
+
+460
+00:24:50,060 --> 00:24:51,844
+But there are some people who are like that,
+
+461
+00:24:52,090 --> 00:24:54,559
+and they're called early adopters and they kind
+
+462
+00:24:54,560 --> 00:24:56,324
+of seek out technology for its own sake.
+
+463
+00:24:56,410 --> 00:25:00,319
+And any service or any company has some kind of
+
+464
+00:25:00,320 --> 00:25:03,394
+early adopters whether it's fashion or cars or,
+
+465
+00:25:03,630 --> 00:25:05,954
+in our case it's really technology and kind of this tool,
+
+466
+00:25:06,220 --> 00:25:09,989
+or this utility, and Digg was - just happened to be
+
+467
+00:25:09,990 --> 00:25:11,479
+the kind of place where those people hung out,
+
+468
+00:25:11,590 --> 00:25:15,339
+and where those people would really take to something
+
+469
+00:25:15,340 --> 00:25:17,679
+like this even though they couldn't download it yet.
+
+470
+00:25:17,940 --> 00:25:21,199
+And so understanding our early customer was really valuable there,
+
+471
+00:25:21,200 --> 00:25:24,734
+and that's kind of - that's one way that we did that.
+
+472
+00:25:25,000 --> 00:25:26,949
+The other problem we discovered is that no one's
+
+473
+00:25:26,950 --> 00:25:29,474
+really searching for what we were building.
+
+474
+00:25:29,760 --> 00:25:32,149
+No one was like waking up in the middle of night,
+
+475
+00:25:32,150 --> 00:25:33,339
+you know like, oh my god,
+
+476
+00:25:33,340 --> 00:25:35,059
+I wish I didn't have to like email myself stuff,
+
+477
+00:25:35,060 --> 00:25:36,149
+or like carry it on the thumb drive,
+
+478
+00:25:36,150 --> 00:25:37,714
+that's just like how your computer works.
+
+479
+00:25:37,970 --> 00:25:41,909
+And I wish I had a washing machine I can put clothes in,
+
+480
+00:25:41,910 --> 00:25:42,689
+press a button, they're clean,
+
+481
+00:25:42,690 --> 00:25:45,299
+they come out but like I'm not like waking up the middle night,
+
+482
+00:25:45,300 --> 00:25:47,729
+you know, like man that really sucks, there's like this washer thing,
+
+483
+00:25:47,730 --> 00:25:49,389
+there is a dryer, and you have to like put it in one,
+
+484
+00:25:49,390 --> 00:25:56,534
+and wait, and put it in the other, but - that's just like how it works.
+
+485
+00:25:56,780 --> 00:26:00,319
+And so if - from that angle it's like well it doesn't matter how many,
+
+486
+00:26:00,320 --> 00:26:02,849
+you can buy all the AdWords in the world,
+
+487
+00:26:02,850 --> 00:26:06,169
+but if no-one's searching for what you're making then you have
+
+488
+00:26:06,170 --> 00:26:08,639
+a problem and so you have to find other ways of doing that.
+
+489
+00:26:08,650 --> 00:26:16,709
+And so the thing that really worked for us was first make a product
+
+490
+00:26:16,710 --> 00:26:19,409
+that people really love to use and there is all kinds of things,
+
+491
+00:26:19,410 --> 00:26:21,459
+elements that go into the craftsmanship and all these
+
+492
+00:26:21,460 --> 00:26:24,199
+little thousands of details that we had to sand down,
+
+493
+00:26:24,200 --> 00:26:25,699
+and all these things at some of the other companies didn't
+
+494
+00:26:25,700 --> 00:26:28,784
+really get quite right from an engineering standpoint.
+
+495
+00:26:29,040 --> 00:26:35,359
+But then if you're able to do that,
+
+496
+00:26:35,360 --> 00:26:37,519
+then Dropbox actually happened to fall in this category,
+
+497
+00:26:37,520 --> 00:26:39,989
+of sort of unusual category where it solves
+
+498
+00:26:39,990 --> 00:26:41,539
+a problem you don't even know you have,
+
+499
+00:26:42,500 --> 00:26:43,729
+and it actually works.
+
+500
+00:26:44,350 --> 00:26:45,809
+And unlike that Blu-ray player,
+
+501
+00:26:45,810 --> 00:26:47,319
+when you're just - all you're trying to do is like watch
+
+502
+00:26:47,320 --> 00:26:50,959
+Batman and you can't even plug it into your TV,
+
+503
+00:26:50,960 --> 00:26:53,709
+that's people's kind of average experience with technology,
+
+504
+00:26:53,710 --> 00:26:57,964
+and so one way to conceptualize what makes a good product is,
+
+505
+00:26:58,210 --> 00:27:00,829
+good engineering is part of it, good design is part of it,
+
+506
+00:27:00,830 --> 00:27:04,289
+but really it's - what I think about it,
+
+507
+00:27:04,290 --> 00:27:07,849
+at least is maximizing the probability that someone shows up at
+
+508
+00:27:07,850 --> 00:27:11,969
+the front door of your store or your website or whatever it is,
+
+509
+00:27:11,970 --> 00:27:13,634
+and ends up with a solved problem.
+
+510
+00:27:13,940 --> 00:27:18,389
+And that's why things like Craigslist, started in the '90s,
+
+511
+00:27:18,710 --> 00:27:20,509
+doesn't appear to have been updated since the '90s,
+
+512
+00:27:20,680 --> 00:27:25,279
+still by far the most successful website -
+
+513
+00:27:25,280 --> 00:27:27,744
+most successful business of its kind,
+
+514
+00:27:27,960 --> 00:27:30,749
+because you show up at craigslist.org
+
+515
+00:27:30,750 --> 00:27:34,069
+and you leave with your concert tickets or your casual encounter,
+
+516
+00:27:34,070 --> 00:27:38,069
+whatever you're looking for.
+
+517
+00:27:38,600 --> 00:27:40,819
+Even though the design isn't that great,
+
+518
+00:27:40,820 --> 00:27:42,369
+you know, maybe it's not that hard of an engineering problem,
+
+519
+00:27:42,370 --> 00:27:45,584
+different things, it's unbelievably successful.
+
+520
+00:27:45,600 --> 00:27:48,479
+So, anyway it starts with a good - in my opinion
+
+521
+00:27:48,480 --> 00:27:50,869
+it really starts with a great product,
+
+522
+00:27:50,870 --> 00:27:54,974
+and all the marketing or tricks in the world,
+
+523
+00:27:55,270 --> 00:27:59,379
+it's - you're not going to push a rock uphill.
+
+524
+00:27:59,380 --> 00:28:03,239
+And then the second thing where we - so once we understood that,
+
+525
+00:28:03,240 --> 00:28:05,619
+then it made it a lot easy for us to conceptualize this.
+
+526
+00:28:05,620 --> 00:28:10,709
+And so what we did instead, we were like okay, well we have all these
+
+527
+00:28:10,710 --> 00:28:15,264
+people who appear to really love Dropbox,
+
+528
+00:28:15,330 --> 00:28:17,609
+and the only reason we're like succeeding at all,
+
+529
+00:28:17,670 --> 00:28:19,869
+beside this sort of Digg maneuver we did in the beginning,
+
+530
+00:28:19,870 --> 00:28:21,639
+is because they're telling their friends about it.
+
+531
+00:28:21,640 --> 00:28:23,764
+So why don't we just like harness that?
+
+532
+00:28:23,950 --> 00:28:26,544
+And how can we get people tools to spread the word?
+
+533
+00:28:26,810 --> 00:28:30,829
+And so what we did was two things that drive the vast majority
+
+534
+00:28:30,830 --> 00:28:33,069
+of our - all of our traffic today or all of our sign ups,
+
+535
+00:28:33,280 --> 00:28:35,789
+which are one, we made this Incentive Referral
+
+536
+00:28:35,790 --> 00:28:38,209
+Program where if I tell you about Dropbox,
+
+537
+00:28:38,210 --> 00:28:40,559
+you get some extra space and I get some extra space,
+
+538
+00:28:40,680 --> 00:28:42,584
+and we have this kind of currency to work with,
+
+539
+00:28:42,780 --> 00:28:45,289
+and people were just doing that kind of for its own sake,
+
+540
+00:28:45,350 --> 00:28:48,439
+where people weren't even using that extra space,
+
+541
+00:28:48,440 --> 00:28:50,249
+they were just referring to friends because they like,
+
+542
+00:28:50,250 --> 00:28:50,969
+it's like points, right.
+
+543
+00:28:50,970 --> 00:28:53,829
+It's this whole - what we'd now call kind of a gamification
+
+544
+00:28:53,830 --> 00:28:56,299
+mechanic even though we didn't - I don't know if that
+
+545
+00:28:56,300 --> 00:28:57,949
+even - that word had been around back then,
+
+546
+00:28:57,950 --> 00:28:59,749
+but that's what it happened to be,
+
+547
+00:28:59,750 --> 00:29:03,499
+and then the other thing is we created this idea of shared folders,
+
+548
+00:29:03,720 --> 00:29:06,469
+where if I'm working on a project at work,
+
+549
+00:29:06,470 --> 00:29:08,419
+or I want to share these photos with my family,
+
+550
+00:29:08,560 --> 00:29:13,929
+then all these new - all these users are just by using the product,
+
+551
+00:29:13,930 --> 00:29:15,684
+you get bought into the fold.
+
+552
+00:29:15,900 --> 00:29:17,929
+And there is this whole,
+
+553
+00:29:17,930 --> 00:29:22,569
+you know, now there is this whole body of art and science on how to do
+
+554
+00:29:22,570 --> 00:29:25,779
+that and how consumer net companies grow and how viral growth works.
+
+555
+00:29:26,570 --> 00:29:28,009
+But anyway, it was - these things were
+
+556
+00:29:28,010 --> 00:29:31,179
+instrumental to how we got started.
+
+557
+00:29:31,180 --> 00:29:35,299
+And so there's all kind of things I could say about,
+
+558
+00:29:35,300 --> 00:29:37,339
+sort of the intervening years,
+
+559
+00:29:37,340 --> 00:29:39,509
+and sort of like the one of the frustrating things
+
+560
+00:29:39,510 --> 00:29:41,279
+about giving a talk that's like a half hour,
+
+561
+00:29:41,540 --> 00:29:42,544
+it's like you have to omit,
+
+562
+00:29:42,610 --> 00:29:46,139
+it's like the montage where you know Rocky's punching
+
+563
+00:29:46,140 --> 00:29:48,769
+or whatever and suddenly you're like,
+
+564
+00:29:49,030 --> 00:29:51,799
+you know, I don't know but then obvious -
+
+565
+00:29:51,800 --> 00:29:59,679
+but you're making a good product, finding ways to get distribution.
+
+566
+00:29:59,910 --> 00:30:02,849
+Then the last thing I'll really touch on is,
+
+567
+00:30:03,440 --> 00:30:05,619
+because I had a chance to ask Mike Morris,
+
+568
+00:30:05,620 --> 00:30:09,189
+like what really separates the great companies from
+
+569
+00:30:09,190 --> 00:30:12,229
+other companies that are out there in technology?
+
+570
+00:30:12,230 --> 00:30:16,929
+And he was like, one is he said, hiring the best engineers,
+
+571
+00:30:17,360 --> 00:30:21,809
+and two, the founders having a morbid fascination with the product.
+
+572
+00:30:22,010 --> 00:30:25,009
+And I'm not even going to try to do the whole Welsh accent thing,
+
+573
+00:30:25,280 --> 00:30:28,439
+but those two things will carry you a long way,
+
+574
+00:30:28,440 --> 00:30:31,904
+and then I'm sure he would add having a really big market
+
+575
+00:30:32,100 --> 00:30:34,139
+and all the other things that matter in a business.
+
+576
+00:30:34,140 --> 00:30:39,209
+But probably the most amazing thing for me is when it works out,
+
+577
+00:30:39,370 --> 00:30:41,849
+and the thing that attracted me to this
+
+578
+00:30:41,850 --> 00:30:44,254
+in the first place was really kind of,
+
+579
+00:30:44,560 --> 00:30:46,789
+never - like having a high learning curve,
+
+580
+00:30:46,790 --> 00:30:48,009
+so that part is taken care of,
+
+581
+00:30:48,010 --> 00:30:53,889
+is always, you're never bored there's never things to
+
+582
+00:30:53,890 --> 00:30:57,539
+- never a shortage of things to worry about or that are new.
+
+583
+00:30:57,780 --> 00:31:00,009
+But what's really exciting is now we
+
+584
+00:31:00,010 --> 00:31:01,689
+have this - from the starting point,
+
+585
+00:31:01,690 --> 00:31:04,159
+we have the canvas we're painting on as we've gone
+
+586
+00:31:04,160 --> 00:31:06,509
+from millions of users a couple of years ago,
+
+587
+00:31:06,740 --> 00:31:10,569
+to tens of millions of users, you know, soon we'll have a very clear
+
+588
+00:31:10,570 --> 00:31:12,179
+path to hundreds of millions of users.
+
+589
+00:31:12,470 --> 00:31:15,119
+Of all the people that have thought about kind
+
+590
+00:31:15,120 --> 00:31:17,219
+of like building the internet file system,
+
+591
+00:31:17,220 --> 00:31:20,099
+or this fabric that kind of connects all the
+
+592
+00:31:20,100 --> 00:31:21,979
+world's devices and services and apps.
+
+593
+00:31:21,980 --> 00:31:24,969
+We are actually the ones who get to build it,
+
+594
+00:31:25,100 --> 00:31:28,929
+and when you think about someone who builds things,
+
+595
+00:31:28,930 --> 00:31:31,959
+and who studies computer science,
+
+596
+00:31:31,960 --> 00:31:33,689
+you're probably not going to go to Super Bowl,
+
+597
+00:31:33,900 --> 00:31:38,379
+probably not going to be in Hollywood, in movies, but so for this,
+
+598
+00:31:38,380 --> 00:31:40,839
+this really is the Super Bowl and when it works out,
+
+599
+00:31:41,110 --> 00:31:41,949
+and you actually sit down,
+
+600
+00:31:41,950 --> 00:31:46,459
+you're like - you look over someone's shoulder at
+
+601
+00:31:46,460 --> 00:31:49,849
+a Starbucks and see a little blue box or you add up,
+
+602
+00:31:49,850 --> 00:31:52,479
+this many millions of people or tens of millions
+
+603
+00:31:52,480 --> 00:31:55,269
+of people or hundreds or millions of people,
+
+604
+00:31:55,270 --> 00:31:57,104
+time saving them like 10 minutes,
+
+605
+00:31:57,290 --> 00:31:59,239
+are making their life like 1% better or whatever,
+
+606
+00:31:59,240 --> 00:32:00,119
+suddenly it's like okay,
+
+607
+00:32:00,120 --> 00:32:03,529
+it's like lifetimes of pain that we're saving people every day.
+
+608
+00:32:03,780 --> 00:32:10,549
+And then it's just - this is the most like amazing path to actually,
+
+609
+00:32:10,720 --> 00:32:12,589
+you know, if it all works out, actually changing the world.
+
+610
+00:32:12,590 --> 00:32:15,749
+So, I promised to leave time for Q&A,
+
+611
+00:32:15,750 --> 00:32:17,699
+so I guess we will leave it at that.
+
+612
+00:32:29,716 --> 00:32:33,709
+How do you fend off competitors, like now Google Drive and SkyDrive?
+
+613
+00:32:34,670 --> 00:32:36,869
+Could you repeat the question? Yeah.
+
+614
+00:32:36,870 --> 00:32:39,879
+The question is how do you fend off competitors,
+
+615
+00:32:39,880 --> 00:32:43,929
+especially when they're the largest internet companies in the world.
+
+616
+00:32:46,340 --> 00:32:49,789
+We think about that from time to time.
+
+617
+00:32:49,790 --> 00:32:52,699
+The - another sort of bias is you always
+
+618
+00:32:52,700 --> 00:32:56,349
+kind of overestimate competition,
+
+619
+00:32:56,350 --> 00:33:03,859
+not that it should be underestimated, but for companies like ours,
+
+620
+00:33:04,060 --> 00:33:07,784
+and you think about any company that has gotten to sort of
+
+621
+00:33:07,850 --> 00:33:10,979
+- plenty of stories of companies where they got a really
+
+622
+00:33:10,980 --> 00:33:15,494
+great headstart and then somehow things went south.
+
+623
+00:33:15,540 --> 00:33:19,749
+You know, Netscape or MySpace or there are bunch of
+
+624
+00:33:19,750 --> 00:33:22,379
+companies that you could say fall in this category,
+
+625
+00:33:22,380 --> 00:33:26,254
+and when you talk to people in those companies,
+
+626
+00:33:26,420 --> 00:33:30,289
+there is a very clear trend, which is that suicide is a much more
+
+627
+00:33:30,290 --> 00:33:33,199
+common cause of death than homicide,
+
+628
+00:33:33,340 --> 00:33:41,819
+meaning often there is a - companies are getting built
+
+629
+00:33:41,820 --> 00:33:44,579
+faster than ever like in the history of the world.
+
+630
+00:33:44,580 --> 00:33:47,089
+And so along with that kind of hyper growth are
+
+631
+00:33:47,090 --> 00:33:49,014
+all these different cancers that you can get,
+
+632
+00:33:49,220 --> 00:33:52,659
+and so things are going to go wrong, you know.
+
+633
+00:33:52,670 --> 00:33:56,509
+My favorite analogy on this was Marc Andreessen and he is like okay,
+
+634
+00:33:56,510 --> 00:33:59,479
+so he was trying to build a bigger cake in five minutes.
+
+635
+00:33:59,670 --> 00:34:00,739
+Like no matter how good you are,
+
+636
+00:34:00,740 --> 00:34:03,589
+you've had egg on the ceiling there is stuff on the walls,
+
+637
+00:34:03,590 --> 00:34:05,539
+you can just pray when you pull the cake out,
+
+638
+00:34:05,540 --> 00:34:08,104
+maybe it's a little bit lopsided you can kind like squish it back.
+
+639
+00:34:08,350 --> 00:34:10,749
+But like if you forget the eggs, or you forget the sugar,
+
+640
+00:34:10,750 --> 00:34:12,319
+you can't like sprinkle them on later.
+
+641
+00:34:12,410 --> 00:34:16,644
+So, how do you figure out the stuff,
+
+642
+00:34:16,820 --> 00:34:21,139
+or how do you figure out what stuff you can't fix later.
+
+643
+00:34:21,410 --> 00:34:23,749
+I will come back to the competition thing in a second,
+
+644
+00:34:23,750 --> 00:34:25,739
+sorry for such a tangent.
+
+645
+00:34:26,480 --> 00:34:30,509
+And so, often what happens at those companies that screwed up,
+
+646
+00:34:30,510 --> 00:34:33,199
+if you talk to people inside them, they're like, well we - just,
+
+647
+00:34:33,200 --> 00:34:39,249
+we lost our focus or we hired people that weren't as good,
+
+648
+00:34:39,250 --> 00:34:41,399
+and then the talented people we got in the beginning looked
+
+649
+00:34:41,400 --> 00:34:43,659
+around and they were like I'm tired of fixing this person's
+
+650
+00:34:43,660 --> 00:34:45,939
+bugs or that they don't work as hard or all this stuff,
+
+651
+00:34:45,940 --> 00:34:47,989
+and life is short, I'm a talented person,
+
+652
+00:34:47,990 --> 00:34:50,669
+I want to go find the place that has a lot of talented people.
+
+653
+00:34:50,670 --> 00:34:55,379
+So, actually the point about hiring the very best
+
+654
+00:34:55,380 --> 00:34:57,269
+people is something we spend a ton of time on,
+
+655
+00:34:57,400 --> 00:35:00,579
+because that's again - that's the thing you can't sprinkle on later,
+
+656
+00:35:00,580 --> 00:35:02,069
+if you ever lose it, it's gone.
+
+657
+00:35:02,450 --> 00:35:04,939
+And then the other is really distraction,
+
+658
+00:35:05,200 --> 00:35:07,929
+some pretty heartbreaking stories out there
+
+659
+00:35:07,930 --> 00:35:10,549
+of companies that were really promising,
+
+660
+00:35:10,550 --> 00:35:15,944
+but then either start trying to do too many things or
+
+661
+00:35:16,180 --> 00:35:20,319
+Friendster the - that the founder complaining that his board
+
+662
+00:35:20,320 --> 00:35:22,549
+was trying to get him to chase all these deals with MTV
+
+663
+00:35:22,550 --> 00:35:24,899
+and all these like shiny objects when he is like,
+
+664
+00:35:25,220 --> 00:35:26,959
+guys the site won't even load,
+
+665
+00:35:26,960 --> 00:35:30,529
+it like - takes like 10 seconds for the web page to show up.
+
+666
+00:35:31,200 --> 00:35:36,399
+And so the power of focus is - the focus is really powerful.
+
+667
+00:35:36,580 --> 00:35:41,229
+And again, you try to figure out those elements as you sort of
+
+668
+00:35:41,230 --> 00:35:44,769
+start from like just coding to like designing and designing systems
+
+669
+00:35:44,770 --> 00:35:46,969
+of code and algorithms to designing systems of people,
+
+670
+00:35:46,970 --> 00:35:48,899
+and figuring out the things that other companies
+
+671
+00:35:48,900 --> 00:35:51,689
+have learned about that along the way.
+
+672
+00:35:51,690 --> 00:35:55,119
+And, so while it's something that's
+
+673
+00:35:55,120 --> 00:35:57,279
+really important to keep track of, you know, most of it,
+
+674
+00:35:57,280 --> 00:35:59,099
+if you actually look at all the data points it's
+
+675
+00:35:59,100 --> 00:36:02,439
+really more often the problems begin at home,
+
+676
+00:36:02,440 --> 00:36:04,809
+not because of some competition.
+
+677
+00:36:05,120 --> 00:36:07,259
+And so how - the way we will respond,
+
+678
+00:36:07,260 --> 00:36:09,599
+the kind of way we are responding,
+
+679
+00:36:09,600 --> 00:36:12,389
+competition is actually very little is changing,
+
+680
+00:36:12,390 --> 00:36:14,039
+like nothing in our roadmap actually changed.
+
+681
+00:36:14,040 --> 00:36:16,154
+Maybe a couple of things that got reordered,
+
+682
+00:36:16,430 --> 00:36:21,084
+but we just focus on maximizing the number of happy Dropbox users,
+
+683
+00:36:21,240 --> 00:36:24,469
+and figuring out problems, more problems, that people don't even know
+
+684
+00:36:24,470 --> 00:36:26,759
+they have and solving them, right.
+
+685
+00:36:26,800 --> 00:36:30,379
+So, lots of - we are never going to run out of examples of that, right.
+
+686
+00:36:30,380 --> 00:36:31,929
+You know you look at your iPhone,
+
+687
+00:36:32,250 --> 00:36:34,099
+and you're like wow it has like a whatever
+
+688
+00:36:34,100 --> 00:36:36,089
+megapixel camera and it takes HD video,
+
+689
+00:36:36,090 --> 00:36:38,394
+but then you know, how do I see that on my Samsung TV,
+
+690
+00:36:38,650 --> 00:36:42,489
+or why is it that - oh my god this is - I just discovered
+
+691
+00:36:42,490 --> 00:36:45,549
+I left my iPhone in a cab and now like oh my newborn
+
+692
+00:36:45,550 --> 00:36:47,239
+kid's pictures are like gone forever,
+
+693
+00:36:47,240 --> 00:36:49,769
+like it's a problem you never had to worry about before.
+
+694
+00:36:49,790 --> 00:36:52,139
+And so we think a lot about what kinds of problems
+
+695
+00:36:52,140 --> 00:36:54,539
+that people don't even know they have, and think about solving them,
+
+696
+00:36:54,540 --> 00:36:56,529
+and we think we're the only people that
+
+697
+00:36:56,530 --> 00:36:58,509
+really think about it this way and so,
+
+698
+00:36:58,510 --> 00:37:01,489
+keeping our users happy and hiring the best people,
+
+699
+00:37:01,750 --> 00:37:02,959
+those are the two main things,
+
+700
+00:37:02,960 --> 00:37:04,549
+and you can screw up all kinds of other
+
+701
+00:37:04,550 --> 00:37:06,119
+stuff if you get those two right.
+
+702
+00:37:08,160 --> 00:37:09,599
+How do you make good business decisions?
+
+703
+00:37:09,610 --> 00:37:16,579
+That's kind of a hard - it's a hard question to answer.
+
+704
+00:37:16,580 --> 00:37:19,859
+I think for - so there the question is how
+
+705
+00:37:19,860 --> 00:37:21,499
+do you make good business decisions,
+
+706
+00:37:21,500 --> 00:37:27,119
+and it's a kind of a hard question to provide a
+
+707
+00:37:27,120 --> 00:37:28,909
+pithy answer like how do you play guitar well.
+
+708
+00:37:28,910 --> 00:37:31,449
+I mean, there's a lot - there is a bunch of things going in,
+
+709
+00:37:31,450 --> 00:37:34,049
+it's a good question, but I think it's really about prioritizing
+
+710
+00:37:34,050 --> 00:37:37,539
+those things and thinking about just that,
+
+711
+00:37:37,540 --> 00:37:39,119
+how we get the best people into the company,
+
+712
+00:37:39,120 --> 00:37:42,469
+how do we build a great product, how we make our users really happy.
+
+713
+00:37:42,720 --> 00:37:47,569
+And then, especially as a first time CEO, how do, you have to,
+
+714
+00:37:47,570 --> 00:37:50,039
+like it was really helpful to me to just try and really
+
+715
+00:37:50,040 --> 00:37:54,254
+research how all of these companies worked, especially on the way up.
+
+716
+00:37:54,290 --> 00:37:57,929
+How did Google work, how did - and not just like internet companies,
+
+717
+00:37:57,930 --> 00:38:00,879
+how did Intel work, how did companies in the '70s work,
+
+718
+00:38:00,880 --> 00:38:05,849
+I mean what was the kind of - learned - kind of get as many lenses
+
+719
+00:38:05,850 --> 00:38:08,349
+on these different things from a - to view things from the sales
+
+720
+00:38:08,350 --> 00:38:11,619
+lens or a behavioral psychology lens or a management lens,
+
+721
+00:38:11,620 --> 00:38:12,269
+all these different things,
+
+722
+00:38:12,270 --> 00:38:14,789
+and so bringing those different kinds of perspectives -
+
+723
+00:38:14,790 --> 00:38:17,399
+giving yourself context around those things,
+
+724
+00:38:17,670 --> 00:38:20,149
+and having a lot of tools to kind of
+
+725
+00:38:20,150 --> 00:38:21,369
+deal with any business situation,
+
+726
+00:38:21,370 --> 00:38:25,039
+I think are one framework for making good decisions.
+
+727
+00:38:25,580 --> 00:38:27,459
+And hiring good - like great people into the
+
+728
+00:38:27,460 --> 00:38:30,394
+company that can help you with that stuff.
+
+729
+00:38:30,490 --> 00:38:33,804
+Could you tell a little more about the investment process like,
+
+730
+00:38:33,880 --> 00:38:36,079
+the first time you got investment from Sequoia,
+
+731
+00:38:36,290 --> 00:38:37,359
+was it like a no brainer,
+
+732
+00:38:37,470 --> 00:38:40,239
+did they offer, did you take whatever they offered to you,
+
+733
+00:38:40,240 --> 00:38:45,699
+negotiate or was it very simple? It's complicated.
+
+734
+00:38:45,700 --> 00:38:47,199
+I mean there is a lot of stuff,
+
+735
+00:38:47,200 --> 00:38:51,069
+that's sort of one of these - it's kind of a classic kind of pitfall
+
+736
+00:38:51,070 --> 00:38:56,104
+thing that you can spend a ton of time worrying about.
+
+737
+00:38:56,290 --> 00:38:58,289
+And - but I'm sure any venture capitalist
+
+738
+00:38:58,290 --> 00:39:01,549
+- you could be the worst negotiator in the world,
+
+739
+00:39:01,620 --> 00:39:04,649
+but if you're like, god, we're just getting so much traffic,
+
+740
+00:39:04,650 --> 00:39:06,709
+we just need money for servers, like can you please,
+
+741
+00:39:06,710 --> 00:39:08,684
+and we have all these people who are using it,
+
+742
+00:39:08,960 --> 00:39:09,939
+we just need some money,
+
+743
+00:39:09,940 --> 00:39:13,359
+you're going to get some pretty good venture capital investment
+
+744
+00:39:13,360 --> 00:39:15,539
+if that's the problem you actually have and how do you do that?
+
+745
+00:39:15,540 --> 00:39:16,369
+You get traction.
+
+746
+00:39:16,410 --> 00:39:19,579
+And so there is a whole body of knowledge on that,
+
+747
+00:39:19,580 --> 00:39:22,794
+it's actually pretty well spelled out in venturehacks.com
+
+748
+00:39:22,850 --> 00:39:25,289
+is the - is where I learned and I think
+
+749
+00:39:25,290 --> 00:39:27,489
+is probably the best site out there,
+
+750
+00:39:27,490 --> 00:39:30,679
+that goes over the nuts and bolts of venture investment
+
+751
+00:39:30,680 --> 00:39:32,179
+and a bunch of other interesting stuff.
+
+752
+00:39:33,800 --> 00:39:35,249
+Drew, fantastic service first of all,
+
+753
+00:39:35,250 --> 00:39:38,674
+I've been addicted to Dropbox for the last two years in grad school,
+
+754
+00:39:38,890 --> 00:39:42,459
+use it every day of my life and it's been fantastic. Thank you.
+
+755
+00:39:42,470 --> 00:39:44,319
+My question that leads up to that,
+
+756
+00:39:44,320 --> 00:39:48,359
+my usage is that I'm at my 5GB and I'm the
+
+757
+00:39:48,360 --> 00:39:50,739
+guy who doesn't like to pay for services,
+
+758
+00:39:51,330 --> 00:39:54,259
+that's the proof of the matter, right.
+
+759
+00:39:54,520 --> 00:39:56,699
+I do that from Netflix for $7.99
+
+760
+00:39:56,700 --> 00:39:59,209
+and that's pretty much it, and I try to feign the payment.
+
+761
+00:39:59,210 --> 00:40:01,199
+So what I do is I tell my mom to join,
+
+762
+00:40:01,200 --> 00:40:03,079
+my dad to join, who don't know anything about technology,
+
+763
+00:40:03,080 --> 00:40:07,079
+they're not going to be using Dropbox any time soon.
+
+764
+00:40:07,080 --> 00:40:10,159
+So how do you make this happen, because I'm kind of,
+
+765
+00:40:10,160 --> 00:40:12,419
+for now I'm actually using Amazon Drive,
+
+766
+00:40:12,420 --> 00:40:15,574
+I'm using a little bit of Microsoft, and I'm using Dropbox.
+
+767
+00:40:15,680 --> 00:40:18,529
+How do you get people to pay money and make money for
+
+768
+00:40:18,530 --> 00:40:20,689
+your business because valuations are all right,
+
+769
+00:40:21,540 --> 00:40:25,349
+but money needs to come in? Question is how do we actually convince
+
+770
+00:40:25,350 --> 00:40:28,829
+people to pay for what we're making?
+
+771
+00:40:28,830 --> 00:40:32,069
+And actually even for Dropbox
+
+772
+00:40:32,070 --> 00:40:34,199
+as it is - there is all kinds of ways that,
+
+773
+00:40:34,400 --> 00:40:38,479
+that you can use the service without actually paying for it.
+
+774
+00:40:38,480 --> 00:40:42,314
+And then there are even things you can do around,
+
+775
+00:40:42,350 --> 00:40:46,189
+using a sort of putting this stuff on Amazon, this stuff on Google,
+
+776
+00:40:46,190 --> 00:40:48,169
+this stuff on Dropbox and so on.
+
+777
+00:40:48,420 --> 00:40:50,909
+I mean, our fundamental value proposition is that
+
+778
+00:40:50,910 --> 00:40:54,929
+like we keep all of your stuff in one place and
+
+779
+00:40:54,930 --> 00:40:59,919
+we do a better job with that than anybody else,
+
+780
+00:40:59,920 --> 00:41:01,799
+and we have - you're free to not have
+
+781
+00:41:01,800 --> 00:41:03,109
+to worry about all this stuff like,
+
+782
+00:41:03,110 --> 00:41:05,459
+you know, is it going to work with my phone,
+
+783
+00:41:05,460 --> 00:41:06,929
+is it going to work with my computer,
+
+784
+00:41:06,930 --> 00:41:08,639
+we support all these different platforms,
+
+785
+00:41:08,890 --> 00:41:12,409
+and provide - what we hope is a uniformly great experience.
+
+786
+00:41:12,410 --> 00:41:16,599
+And a lot of people just want to solve problem and rather
+
+787
+00:41:16,600 --> 00:41:20,089
+than going to all that trouble of sort of partitioning
+
+788
+00:41:20,090 --> 00:41:21,674
+your stuff across all these different places,
+
+789
+00:41:21,830 --> 00:41:25,694
+that's actually the point of Dropbox is to bring it all together,
+
+790
+00:41:25,740 --> 00:41:30,489
+and they would rather have that than $10 a month or $100 a year.
+
+791
+00:41:30,500 --> 00:41:35,169
+So, fortunately that goes back to the technology and option curve,
+
+792
+00:41:35,170 --> 00:41:38,269
+like some people just - people just have different
+
+793
+00:41:38,270 --> 00:41:40,079
+proclivities for like paying for things or not,
+
+794
+00:41:40,080 --> 00:41:42,894
+and so we just make sure that we're solving a problem that's
+
+795
+00:41:43,100 --> 00:41:47,259
+big enough for people that would rather pay for it than just
+
+796
+00:41:47,260 --> 00:41:50,129
+then have to like deal with all these other hurdles.
+
+797
+00:41:50,730 --> 00:41:53,779
+Do you see enough people paying for it?
+
+798
+00:41:53,790 --> 00:41:57,289
+Yes, the paid services are popular and I can't - I make
+
+799
+00:41:57,290 --> 00:41:59,624
+everybody else be quiet about that, so I have to too.
+
+800
+00:41:59,660 --> 00:42:03,969
+Can you tell us about a few of the things that crossed
+
+801
+00:42:04,069 --> 00:42:06,529
+your path that you guys decided not to go with?
+
+802
+00:42:06,629 --> 00:42:08,246
+The things that seemed like good ideas
+
+803
+00:42:08,346 --> 00:42:10,601
+but then you decided to discard them.
+
+804
+00:42:11,981 --> 00:42:16,157
+So the question is, are the things that seemed like
+
+805
+00:42:16,257 --> 00:42:18,714
+a promising path that we decided not to do,
+
+806
+00:42:18,814 --> 00:42:21,149
+there are all kinds of things.
+
+807
+00:42:21,150 --> 00:42:24,149
+I mean that is almost the essence of what makes the job difficult.
+
+808
+00:42:24,150 --> 00:42:27,369
+There is these thousands of things that we could go do,
+
+809
+00:42:27,370 --> 00:42:31,439
+and all these shiny objects and usually most of the things,
+
+810
+00:42:31,440 --> 00:42:33,189
+we look back on and like that was a dead end,
+
+811
+00:42:33,190 --> 00:42:37,169
+a lot of them, we tried to get Dropbox sort of preinstalled on PCs,
+
+812
+00:42:37,170 --> 00:42:39,819
+and all these different things and do deals very early on,
+
+813
+00:42:39,820 --> 00:42:45,069
+and the problem was just sort of classic negotiation,
+
+814
+00:42:45,070 --> 00:42:45,799
+we had no leverage.
+
+815
+00:42:45,800 --> 00:42:47,979
+So they're going to just push us around,
+
+816
+00:42:47,980 --> 00:42:49,209
+they made all these ridiculous demands,
+
+817
+00:42:49,210 --> 00:42:52,859
+and we kind of, it's like harpooning this whale,
+
+818
+00:42:52,860 --> 00:42:55,029
+it is like taking you all over the place.
+
+819
+00:42:55,040 --> 00:43:00,349
+And now it's a completely different story,
+
+820
+00:43:00,350 --> 00:43:04,249
+we have a big audience and a brand and all these different things,
+
+821
+00:43:04,250 --> 00:43:06,769
+but, yeah I will give you an example.
+
+822
+00:43:06,770 --> 00:43:11,279
+The number one thing our users are, more power users ask for,
+
+823
+00:43:11,280 --> 00:43:15,409
+which is the ability to watch multiple folders with your Dropbox.
+
+824
+00:43:15,410 --> 00:43:19,009
+And they're like why, you guys can see it on Votebox,
+
+825
+00:43:19,100 --> 00:43:20,804
+which is our - our sort of way of,
+
+826
+00:43:20,990 --> 00:43:24,299
+that we let our users vote on different features
+
+827
+00:43:24,300 --> 00:43:25,459
+that they want and make requests,
+
+828
+00:43:25,460 --> 00:43:28,319
+like why the hell haven't you guys let me - why don't you let me
+
+829
+00:43:28,320 --> 00:43:31,129
+watch multiple folders because I want to watch my documents,
+
+830
+00:43:31,130 --> 00:43:34,094
+I want to watch, map all these different things,
+
+831
+00:43:34,420 --> 00:43:39,524
+and the reason is, well the initial reason was like,
+
+832
+00:43:39,670 --> 00:43:40,849
+we built something simple because we didn't
+
+833
+00:43:40,850 --> 00:43:42,614
+have time to build something complicated.
+
+834
+00:43:42,780 --> 00:43:45,479
+So, it was more technically complicated, there was a lot of UI code,
+
+835
+00:43:45,480 --> 00:43:46,659
+there was all this different stuff,
+
+836
+00:43:46,660 --> 00:43:49,154
+that I would have had to go - I would have gone and had,
+
+837
+00:43:49,220 --> 00:43:51,689
+have built and we just didn't have time to build it
+
+838
+00:43:51,690 --> 00:43:53,669
+because we wanted to get something out the door.
+
+839
+00:43:53,680 --> 00:43:57,399
+But then we realized this is this great benefit to the simplicity of
+
+840
+00:43:57,400 --> 00:44:00,769
+the model where your Dropbox will look the same on your phone as it
+
+841
+00:44:00,770 --> 00:44:04,439
+does it on your computer and it's pretty easy to explain to people
+
+842
+00:44:04,440 --> 00:44:07,649
+that you have this magic folder and anything you save in here saves
+
+843
+00:44:07,650 --> 00:44:11,649
+everywhere and all these different benefits and conventionally,
+
+844
+00:44:11,650 --> 00:44:14,909
+playing with the other products is sort of like,
+
+845
+00:44:14,910 --> 00:44:17,689
+well welcome into this and please configure your folder
+
+846
+00:44:17,690 --> 00:44:22,254
+mapping and some people love that and that's great.
+
+847
+00:44:22,370 --> 00:44:23,919
+But most people are very,
+
+848
+00:44:23,920 --> 00:44:28,129
+very confused and if you're already skeptical enough that here's
+
+849
+00:44:28,130 --> 00:44:30,849
+this like new thing that you've never seen before and now they're
+
+850
+00:44:30,850 --> 00:44:35,829
+asking you about folder mappings and you know you don't spend your
+
+851
+00:44:35,830 --> 00:44:38,609
+time worrying about folders and files and things like that,
+
+852
+00:44:38,610 --> 00:44:39,944
+and you're going to be pretty turned off.
+
+853
+00:44:39,990 --> 00:44:42,989
+And we would find, when we did the usability test,
+
+854
+00:44:42,990 --> 00:44:45,959
+people couldn't even figure out how to install Dropbox to begin with,
+
+855
+00:44:45,960 --> 00:44:49,884
+like they would - we brought five people in literally
+
+856
+00:44:50,260 --> 00:44:52,419
+off the street and keep zero of five,
+
+857
+00:44:52,420 --> 00:44:54,399
+we kept a tally of all these things,
+
+858
+00:44:54,400 --> 00:44:56,009
+zero out of five people even discovered that there
+
+859
+00:44:56,010 --> 00:44:59,779
+is a tray icon or a little menu bar icon.
+
+860
+00:45:00,310 --> 00:45:03,599
+And if you don't know that then you're going to have a lot of trouble
+
+861
+00:45:03,600 --> 00:45:06,004
+getting back to your Dropbox folder and all kinds of other things,
+
+862
+00:45:06,104 --> 00:45:07,340
+you'll not going to have a good experience
+
+863
+00:45:07,440 --> 00:45:10,084
+and we were like wow zero percent.
+
+864
+00:45:10,957 --> 00:45:15,229
+All right, because we get these emails,
+
+865
+00:45:15,230 --> 00:45:17,259
+we get these emails to feedback to our
+
+866
+00:45:17,260 --> 00:45:19,659
+feedback alias and one would be like,
+
+867
+00:45:19,660 --> 00:45:21,884
+oh my god, Dropbox is amazing, I love it;
+
+868
+00:45:22,210 --> 00:45:23,719
+and the next one would be like,
+
+869
+00:45:23,720 --> 00:45:28,439
+I don't understand how you MIT nerds have - I got a PhD in physics,
+
+870
+00:45:28,440 --> 00:45:30,019
+so I can't even understand this thing and there is
+
+871
+00:45:30,020 --> 00:45:34,204
+like this diatribe like one right after the other.
+
+872
+00:45:34,580 --> 00:45:39,729
+And we were like that's interesting and so we brought people in
+
+873
+00:45:39,730 --> 00:45:41,809
+off the street and then we started seeing all these things,
+
+874
+00:45:41,810 --> 00:45:44,139
+like okay the people are clicking,
+
+875
+00:45:44,140 --> 00:45:46,589
+the screenshots in the tour because they think it's their computer.
+
+876
+00:45:46,590 --> 00:45:51,829
+Well, you know you laugh but it's actually our problem right,
+
+877
+00:45:51,830 --> 00:45:53,269
+these are people that,
+
+878
+00:45:53,440 --> 00:46:00,389
+that would be paying us if they actually have a got experience.
+
+879
+00:46:00,390 --> 00:46:03,319
+And all kind of it, they would click on Internet Explorer
+
+880
+00:46:03,320 --> 00:46:04,549
+and it would obscure the download window,
+
+881
+00:46:04,550 --> 00:46:06,839
+so they couldn't figure out where the download actually went.
+
+882
+00:46:06,840 --> 00:46:09,389
+I mean it's just a list of dozens and dozens and
+
+883
+00:46:09,390 --> 00:46:11,299
+dozens of things and we just sanded them down,
+
+884
+00:46:11,300 --> 00:46:11,949
+we were just like, okay,
+
+885
+00:46:11,950 --> 00:46:16,529
+well we're going to get to thing number 71 today and that,
+
+886
+00:46:16,530 --> 00:46:18,149
+now if you actually install Dropbox you see this
+
+887
+00:46:18,150 --> 00:46:20,569
+big bouncing green arrow whenever you - hey,
+
+888
+00:46:20,570 --> 00:46:22,599
+this is the icon you have to click on to get to
+
+889
+00:46:22,600 --> 00:46:27,969
+your Dropbox and so kind of a long answer to,
+
+890
+00:46:27,970 --> 00:46:34,139
+it's amazing even just like 10% more friction might
+
+891
+00:46:34,140 --> 00:46:37,414
+cut your audience in half and it's exponential.
+
+892
+00:46:37,540 --> 00:46:42,199
+So we decided that it just was not worth the complexity to
+
+893
+00:46:42,200 --> 00:46:44,659
+build that and just wasn't worth the engineering tradeoff.
+
+894
+00:46:49,012 --> 00:46:52,234
+I have a start-up and we use Dropbox every day and I don't know
+
+895
+00:46:52,334 --> 00:46:56,489
+if it's a preference or not but why did you go with an interface
+
+896
+00:46:56,490 --> 00:47:01,115
+where if you remove the file but you're not removing a copy,
+
+897
+00:47:01,214 --> 00:47:05,294
+that drives us crazy, is that a preference?
+
+898
+00:47:06,330 --> 00:47:09,389
+So the question is, why is it when you - when someone moves
+
+899
+00:47:09,390 --> 00:47:14,049
+something from a shared folder it moves and doesn't copy,
+
+900
+00:47:14,350 --> 00:47:17,409
+and you know unfortunately that's just that we only
+
+901
+00:47:17,410 --> 00:47:19,519
+have so much control over the underlying operating
+
+902
+00:47:19,520 --> 00:47:22,419
+system or the Finder or Explorer on Windows,
+
+903
+00:47:23,030 --> 00:47:25,079
+and that's just the way those things were designed and sort
+
+904
+00:47:25,080 --> 00:47:28,644
+of the extra magic that get sprinkled on that Dropbox does,
+
+905
+00:47:28,830 --> 00:47:31,139
+you know just isn't aware of it and so I mean there's
+
+906
+00:47:31,140 --> 00:47:33,129
+probably some kinds of hacks that we can do to like,
+
+907
+00:47:33,130 --> 00:47:34,869
+if you move something out of shared folder,
+
+908
+00:47:35,050 --> 00:47:39,699
+warn you about it or maybe do different schemes
+
+909
+00:47:39,700 --> 00:47:41,669
+to make things read only or things like that,
+
+910
+00:47:41,880 --> 00:47:45,739
+but yeah we're aware it's a problem and that
+
+911
+00:47:45,740 --> 00:47:48,347
+we should do something and make it better.
+
+912
+00:47:51,490 --> 00:47:55,769
+It's just a limitation of the - or it's just a constraint where we
+
+913
+00:47:55,770 --> 00:47:58,489
+don't actually make the underling operating system so we can only
+
+914
+00:47:58,490 --> 00:48:01,119
+have so much control over certain aspects of how it behaves.
+
+915
+00:48:05,418 --> 00:48:07,840
+So you got really lucky finding a cofounder,
+
+916
+00:48:07,940 --> 00:48:09,989
+what advice would you have for trying to find a cofounder?
+
+917
+00:48:09,990 --> 00:48:13,334
+So what particular skills do you value looking back?
+
+918
+00:48:13,710 --> 00:48:16,879
+So the question is what do you look for in a cofounder?
+
+919
+00:48:17,720 --> 00:48:19,819
+And I think first and foremost there has
+
+920
+00:48:19,820 --> 00:48:22,324
+to be someone where you just really,
+
+921
+00:48:22,430 --> 00:48:28,129
+really respect their judgment, and just sort of respect,
+
+922
+00:48:28,130 --> 00:48:32,049
+just to have absolute faith and trust in them as a person.
+
+923
+00:48:32,130 --> 00:48:37,699
+It doesn't mean they have to be good at everything in fact it's actually
+
+924
+00:48:37,700 --> 00:48:41,219
+good if there's some complementarity and that there's some,
+
+925
+00:48:41,480 --> 00:48:43,529
+there'll be things that you're both interested in and in mine and
+
+926
+00:48:43,530 --> 00:48:46,299
+Arash' case we're both very passionate about the technology and
+
+927
+00:48:46,300 --> 00:48:49,859
+the product design and are very opinionated about those things,
+
+928
+00:48:50,000 --> 00:48:52,604
+and fortunately our tastes are pretty similar on that front.
+
+929
+00:48:52,820 --> 00:48:55,519
+But then there's stuff where it completely diverges,
+
+930
+00:48:55,520 --> 00:48:58,239
+I find the whole business side of the house absolutely fascinating,
+
+931
+00:48:58,240 --> 00:49:01,549
+I think a lot about the broader strategy of how do we end up,
+
+932
+00:49:01,550 --> 00:49:04,589
+we have the potential to be this really great company,
+
+933
+00:49:04,590 --> 00:49:06,519
+but how do we actually get there given all that
+
+934
+00:49:06,520 --> 00:49:12,139
+sort of minefield in the way and he does,
+
+935
+00:49:12,230 --> 00:49:16,169
+is not at all interested in any of that stuff.
+
+936
+00:49:16,170 --> 00:49:20,229
+He is happiest when he is like shaking an Android phone and
+
+937
+00:49:20,230 --> 00:49:22,369
+discovering that when you long hold it like this and then rotate
+
+938
+00:49:22,370 --> 00:49:26,199
+it and then shake it like you know there's some bug and he'll
+
+939
+00:49:26,200 --> 00:49:30,924
+be responding to questions on the forums on his death bed and
+
+940
+00:49:30,990 --> 00:49:38,069
+while I am capable of doing that like and I think it's important
+
+941
+00:49:38,070 --> 00:49:40,349
+for everybody to do some element of that,
+
+942
+00:49:40,350 --> 00:49:42,719
+I can focus on other areas but I know that he has like
+
+943
+00:49:42,720 --> 00:49:48,519
+got that under control and so I think yeah it's really,
+
+944
+00:49:48,800 --> 00:49:53,394
+you and your cofounder that's like you can't even really,
+
+945
+00:49:53,700 --> 00:49:55,719
+I mean you could have some kind of horrible situation where like
+
+946
+00:49:55,720 --> 00:49:59,909
+someone gets kicked out of these different things but they say,
+
+947
+00:49:59,910 --> 00:50:02,749
+you can't divorce your investors and in most cases you can't
+
+948
+00:50:02,750 --> 00:50:04,739
+really divorce your cofounder without pretty horrible things
+
+949
+00:50:04,740 --> 00:50:10,249
+happening and if more important than that is really,
+
+950
+00:50:10,410 --> 00:50:13,019
+you and your cofounder are kind of the seed crystal for
+
+951
+00:50:13,020 --> 00:50:15,339
+the early team that's going to assemble around you,
+
+952
+00:50:15,340 --> 00:50:17,539
+you know the first 10 people.
+
+953
+00:50:17,690 --> 00:50:21,839
+Those first 10 people are going to be the seed crystal for the next
+
+954
+00:50:21,920 --> 00:50:27,539
+100 and it keeps going out from there and in general talented people
+
+955
+00:50:27,540 --> 00:50:31,169
+are not going to like join people that are like less talented but there's
+
+956
+00:50:31,170 --> 00:50:34,499
+often a lot of pressure you can sort of let the hiring bar go where
+
+957
+00:50:34,500 --> 00:50:37,199
+you're like well we really need someone to solve this problem and it's
+
+958
+00:50:37,200 --> 00:50:39,149
+really hurting us that no one is like building this thing.
+
+959
+00:50:39,380 --> 00:50:40,594
+And so is it really,
+
+960
+00:50:40,710 --> 00:50:42,509
+the big a deal that this engineer kind of bombed that
+
+961
+00:50:42,510 --> 00:50:46,529
+question or like wasn't really that excited about Dropbox
+
+962
+00:50:46,530 --> 00:50:51,134
+or isn't really going to work that hard, you know you have to say no.
+
+963
+00:50:51,270 --> 00:50:53,369
+And so it's really just kind of finding
+
+964
+00:50:53,370 --> 00:50:56,009
+someone that matches you in that way.
+
+965
+00:50:56,300 --> 00:50:57,549
+How you do that is a much,
+
+966
+00:50:57,550 --> 00:51:02,089
+you know it's like how do you find a spouse, it's like this.
+
+967
+00:51:02,820 --> 00:51:05,302
+You'll spend more time with your cofounder than your spouse.
+
+968
+00:51:10,751 --> 00:51:13,389
+How do you react to somebody telling you that
+
+969
+00:51:13,390 --> 00:51:17,984
+it's just a feature and not a company?
+
+970
+00:51:18,110 --> 00:51:21,369
+Question is, how do you respond to someone telling you
+
+971
+00:51:21,370 --> 00:51:25,044
+that what you're making is a feature and not a product.
+
+972
+00:51:25,220 --> 00:51:28,309
+So Steve Jobs was giving us a little bit of hard
+
+973
+00:51:28,310 --> 00:51:30,769
+time saying that we were a feature and not a product
+
+974
+00:51:30,770 --> 00:51:33,049
+when we didn't wanted to sell our company.
+
+975
+00:51:33,050 --> 00:51:36,834
+And so I mean everybody has got an opinion.
+
+976
+00:51:41,327 --> 00:51:43,238
+You mentioned that hiring great people is
+
+977
+00:51:43,337 --> 00:51:45,733
+a very valuable aspect of your company,
+
+978
+00:51:45,833 --> 00:51:48,285
+but how do you spot great people?
+
+979
+00:51:50,020 --> 00:51:54,869
+So the question is hiring great people is an important aspect of
+
+980
+00:51:54,870 --> 00:51:59,499
+building a great company but how do you spot great people and it's
+
+981
+00:52:00,180 --> 00:52:05,589
+actually a really good question because some of these things are
+
+982
+00:52:05,590 --> 00:52:10,559
+more intuitive than other things because like for an engineer,
+
+983
+00:52:11,080 --> 00:52:17,999
+a good engineer can generally recognize another good engineer because
+
+984
+00:52:18,000 --> 00:52:20,309
+you can sort of analyze their code and have all these technical discussions
+
+985
+00:52:20,310 --> 00:52:22,319
+and you're both very kind of versed in the same thing,
+
+986
+00:52:22,660 --> 00:52:24,129
+but think about it, it's like okay,
+
+987
+00:52:24,130 --> 00:52:30,129
+well if you don't play guitar and you see
+
+988
+00:52:30,130 --> 00:52:31,839
+someone playing like a Beatles song,
+
+989
+00:52:32,040 --> 00:52:34,769
+you're like oh my god that's amazing this person is like playing
+
+990
+00:52:34,770 --> 00:52:40,109
+music and I can't even get my like fingers on the strings,
+
+991
+00:52:40,110 --> 00:52:41,854
+you are like wow it's amazing.
+
+992
+00:52:41,880 --> 00:52:47,204
+And this is the same way that someone who doesn't know anything
+
+993
+00:52:47,320 --> 00:52:52,764
+about computers is like I need a website for my mortgage firm
+
+994
+00:52:52,860 --> 00:52:57,909
+and I met this kid and he's typing all these symbols and he's
+
+995
+00:52:57,910 --> 00:53:00,524
+so like building this amazing website and wow.
+
+996
+00:53:00,770 --> 00:53:04,349
+But then after you meet more of these people,
+
+997
+00:53:04,350 --> 00:53:09,039
+then you meet Jimi Hendrix you know like okay,
+
+998
+00:53:09,190 --> 00:53:11,729
+but you can't tell or you can sort of tell but like,
+
+999
+00:53:11,930 --> 00:53:15,209
+the point is by just having that one data point you
+
+1000
+00:53:15,210 --> 00:53:16,859
+know there's nothing to extrapolate from that,
+
+1001
+00:53:16,860 --> 00:53:18,869
+other than that oh my god this person knows so much
+
+1002
+00:53:18,870 --> 00:53:21,114
+about this area that I don't know anything about.
+
+1003
+00:53:21,380 --> 00:53:23,809
+And this is really important as a really important
+
+1004
+00:53:23,810 --> 00:53:26,419
+subject because as a founder you might be a good engineer
+
+1005
+00:53:26,420 --> 00:53:28,449
+but you're not good at all that other stuff,
+
+1006
+00:53:28,450 --> 00:53:31,129
+and pretty much anybody who has made their background in some
+
+1007
+00:53:31,130 --> 00:53:33,709
+of their area like business development person or a finance person
+
+1008
+00:53:33,710 --> 00:53:36,509
+has got to know a whole lot more about that than you,
+
+1009
+00:53:36,510 --> 00:53:40,189
+and so one interesting thing we did is
+
+1010
+00:53:40,190 --> 00:53:41,589
+well we screwed it up a few times,
+
+1011
+00:53:41,590 --> 00:53:46,769
+we hired people that just didn't work out, a very painful experience.
+
+1012
+00:53:47,030 --> 00:53:49,899
+A lot of our, probably all of our early business people
+
+1013
+00:53:49,900 --> 00:53:52,714
+for the first couple of years we hired as consultants,
+
+1014
+00:53:52,850 --> 00:53:54,569
+which is kind of strange,
+
+1015
+00:53:54,570 --> 00:53:57,749
+I don't, it's hard to play it the other way so I don't know
+
+1016
+00:53:57,750 --> 00:54:00,779
+if it's a net good thing or a bad thing but it worked well,
+
+1017
+00:54:00,780 --> 00:54:04,659
+so that we sort of got - we learned a lot in the process of kind
+
+1018
+00:54:04,790 --> 00:54:09,034
+of getting a brain dump from this person and then we also,
+
+1019
+00:54:09,190 --> 00:54:12,859
+we talked to large numbers of - a lot of marketing people or
+
+1020
+00:54:12,860 --> 00:54:15,749
+a lot of finance people or a lot of business development people
+
+1021
+00:54:15,750 --> 00:54:18,879
+and over time you get more and more context that says okay,
+
+1022
+00:54:18,880 --> 00:54:22,509
+well what's really important in this field and then who is the
+
+1023
+00:54:22,510 --> 00:54:26,299
+best person I have ever met on this stuff and there's another area
+
+1024
+00:54:26,300 --> 00:54:28,789
+if you get sort of the best possible investors that you can,
+
+1025
+00:54:29,000 --> 00:54:32,419
+then they'll have really great networks of talented people in all
+
+1026
+00:54:32,420 --> 00:54:34,549
+these different fields and that's something where you can help
+
+1027
+00:54:34,550 --> 00:54:39,589
+lean on them to interview these candidates on your behalf but that
+
+1028
+00:54:39,590 --> 00:54:43,839
+is actually one of the harder things about doing this is,
+
+1029
+00:54:43,840 --> 00:54:47,299
+how do you judge people who you have no context for what they do.
+
+1030
+00:54:49,020 --> 00:54:51,789
+What do you as a CEO focus on on a daily basis?
+
+1031
+00:54:52,540 --> 00:54:57,769
+So the question is, what as a CEO do I focus on on a daily basis.
+
+1032
+00:54:57,990 --> 00:55:02,859
+Another hard question to answer but certainly what is the
+
+1033
+00:55:02,860 --> 00:55:07,169
+highest leverage use my time is one kind of framing,
+
+1034
+00:55:07,290 --> 00:55:12,709
+okay how can, I think it's sort of,
+
+1035
+00:55:12,710 --> 00:55:15,129
+there's a very long answer to that question,
+
+1036
+00:55:15,130 --> 00:55:19,549
+it's really how do we make sure we're doing the core things really,
+
+1037
+00:55:19,550 --> 00:55:21,769
+really well, like making sure we hiring really good people,
+
+1038
+00:55:21,990 --> 00:55:23,739
+making sure we're building a great product
+
+1039
+00:55:23,740 --> 00:55:25,314
+and making sure our users are happy.
+
+1040
+00:55:25,520 --> 00:55:28,589
+And then there's a whole bunch of other things that you have
+
+1041
+00:55:28,590 --> 00:55:31,759
+to worry more or less about over time and then there's a lot,
+
+1042
+00:55:31,760 --> 00:55:34,329
+then you build a team around you and then have to make sure
+
+1043
+00:55:34,330 --> 00:55:38,489
+that they are happy and effective and all kind of running
+
+1044
+00:55:38,490 --> 00:55:42,169
+in the same direction and then there's invariably fires that
+
+1045
+00:55:42,170 --> 00:55:49,529
+have to be put out and so it's actually - it's surprisingly
+
+1046
+00:55:49,530 --> 00:55:51,629
+complicated question to answer because many days,
+
+1047
+00:55:51,630 --> 00:55:54,759
+but especially when people make the transition from
+
+1048
+00:55:54,990 --> 00:55:57,004
+being an individual contributor to being a manager,
+
+1049
+00:55:57,150 --> 00:55:58,699
+so many days pass, you're like oh my
+
+1050
+00:55:58,700 --> 00:56:00,709
+god what did I even get done today.
+
+1051
+00:56:00,710 --> 00:56:02,139
+I am just like talking and I was just like
+
+1052
+00:56:02,140 --> 00:56:04,974
+responding to email and I am like. Do you focus on culture?
+
+1053
+00:56:05,180 --> 00:56:07,789
+It's the follow up question, do I focus on culture?
+
+1054
+00:56:07,790 --> 00:56:10,799
+Like absolutely, Arash my co-founder is
+
+1055
+00:56:10,800 --> 00:56:12,694
+even more opinionated about this stuff.
+
+1056
+00:56:12,780 --> 00:56:17,424
+One of my weaknesses was sort of double edge sword
+
+1057
+00:56:17,600 --> 00:56:19,504
+because I tend to be optimistic in general,
+
+1058
+00:56:19,550 --> 00:56:21,229
+and some are always like optimistic about people.
+
+1059
+00:56:21,230 --> 00:56:23,479
+So I am like, oh you know I'll give people to benefit
+
+1060
+00:56:23,480 --> 00:56:26,569
+the doubt and he's the other way around.
+
+1061
+00:56:26,570 --> 00:56:29,039
+So it's actually a good kind of counterbalance.
+
+1062
+00:56:30,160 --> 00:56:33,639
+So how you deal with cofounder share and why did
+
+1063
+00:56:33,640 --> 00:56:36,524
+Steve Jobs pick your company other than your competitors?
+
+1064
+00:56:36,580 --> 00:56:38,664
+Say the first part of the question.
+
+1065
+00:56:38,730 --> 00:56:42,689
+First question is how you deal with cofounder share. Cofounders.
+
+1066
+00:56:42,740 --> 00:56:46,219
+Like share percentage. Oh, share okay, dividing equity.
+
+1067
+00:56:46,230 --> 00:56:48,319
+The second is why did Steve Jobs pick your
+
+1068
+00:56:48,320 --> 00:56:52,459
+company rather than your competitors?
+
+1069
+00:56:52,470 --> 00:56:54,039
+So, I'll answer both questions quickly.
+
+1070
+00:56:54,040 --> 00:56:56,334
+So how do you divide up equity with your cofounder,
+
+1071
+00:56:56,390 --> 00:57:01,949
+and again a very nuanced subject,
+
+1072
+00:57:01,950 --> 00:57:05,589
+without, but people have written great things about that,
+
+1073
+00:57:05,590 --> 00:57:08,409
+and actually it's one of those things where if you look it up on Quora
+
+1074
+00:57:08,410 --> 00:57:14,559
+or you search for things on Google to get some very knowledgeable responses
+
+1075
+00:57:14,790 --> 00:57:18,689
+and so I don't really have anything beyond that to add.
+
+1076
+00:57:18,690 --> 00:57:21,799
+And then to be honest it's one of the basic things
+
+1077
+00:57:21,800 --> 00:57:23,539
+around make sure it's subject to vesting,
+
+1078
+00:57:23,540 --> 00:57:24,869
+meaning that they get it over time,
+
+1079
+00:57:24,870 --> 00:57:26,509
+so that if you have some disaster situation
+
+1080
+00:57:26,510 --> 00:57:28,219
+you don't have to deal with that.
+
+1081
+00:57:28,450 --> 00:57:31,549
+And the second question was why did Steve
+
+1082
+00:57:31,550 --> 00:57:34,189
+Jobs pick our company over competitors?
+
+1083
+00:57:34,190 --> 00:57:39,549
+I think any company that does something interesting on their way up,
+
+1084
+00:57:39,550 --> 00:57:41,209
+that gets all kinds of conversations like that,
+
+1085
+00:57:41,210 --> 00:57:43,064
+that happen and I think,
+
+1086
+00:57:43,250 --> 00:57:48,329
+the start of the conversation was a complement that we had
+
+1087
+00:57:48,330 --> 00:57:53,314
+a great product and which is high praise, I'll take it.
+
+1088
+00:57:53,580 --> 00:57:58,999
+Anyway I presume it's - I can't answer that on his behalf but presumably
+
+1089
+00:57:59,000 --> 00:58:02,299
+they've clearly understood that this is something important.
+
+1090
+00:58:02,300 --> 00:58:08,024
+All right. Thanks a bunch. We got a basis of an agreement.
+

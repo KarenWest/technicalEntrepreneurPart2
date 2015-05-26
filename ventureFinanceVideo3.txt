@@ -1,0 +1,1412 @@
+1
+00:00:00,010 --> 00:00:04,108
+So welcome back to the Venture Finance Series in E145
+欢迎来到E145科技创业”企业融资“系列。
+2
+00:00:04,118 --> 00:00:08,028
+Technology Entrepreneurship. In the last couple of videos, I
+在前面的几节课中，
+3
+00:00:08,048 --> 00:00:12,207
+was introducing venture fundraising for startup firms. And
+我介绍了如何为一个创业公司融资。
+4
+00:00:12,227 --> 00:00:16,416
+we spoke a bit about the multiple stages of financing. How
+我们也讲了一点融资的不同阶段，
+5
+00:00:16,435 --> 00:00:19,503
+to think about the amounts and sources of funding you need,
+怎么思考你需要多少钱和从哪找到这些钱，
+6
+00:00:19,522 --> 00:00:22,148
+How to think about the deal structure. And then we took a
+怎么思考交易结构（deal structure）。
+7
+00:00:22,148 --> 00:00:26,297
+look at the impact of multiple fundraising rounds on the
+然后我们看了不同阶段融资对创业者股份的稀释，
+8
+00:00:26,317 --> 00:00:29,183
+dilution of the entrepreneurs, and the overall valuation of
+以及整个公司的估值。
+9
+00:00:29,203 --> 00:00:32,502
+the company. We also introduced some financial terms, such
+我们还介绍了一些融资的专有名词，
+10
+00:00:32,522 --> 00:00:36,822
+as the price to earnings ratio, the share price, and the
+比如市盈率，股价，股价与销售额比率，
+11
+00:00:36,842 --> 00:00:41,743
+price to sales ratio. So, in this video, I want to bring it
+所以，在这一讲中，
+12
+00:00:41,763 --> 00:00:45,751
+all back down to Earth, and give a few more practical tips
+我们从实际出发，讲一下怎么接触风险投资。
+13
+00:00:45,771 --> 00:00:48,087
+on how to think about pitching VCs.
+
+14
+00:00:48,107 --> 00:00:51,357
+And so before we do that, I want to help you understand a
+在讲这个之前，我想要帮你稍微了解一下风投公司的结构。
+15
+00:00:51,357 --> 00:00:53,857
+little bit more about the structure of a venture capital
+
+16
+00:00:53,857 --> 00:00:57,098
+firm. And one important thing to know is that I certainly
+一个你需要了解的是就是，
+17
+00:00:57,118 --> 00:01:00,460
+don't have in mind that all of you are going to go out and
+我肯定没有认为你们每一个人都要出去找风投投钱。
+18
+00:01:00,460 --> 00:01:02,460
+raise money from venture capital investors. The vast
+大多数的创业企业都不会这么做。
+19
+00:01:02,469 --> 00:01:06,430
+majority of startups aren't going to. But, learning how
+
+20
+00:01:06,450 --> 00:01:10,558
+venture capital works is a good set of tools to enable you
+但是了解风投是怎么运作的可以让你更清楚，
+21
+00:01:10,578 --> 00:01:13,525
+to think more clearly about raising capital from other
+如何从其他的渠道去融资。
+22
+00:01:13,545 --> 00:01:17,864
+sources. Because many of the same issues and deal structures
+因为很多其他的交易都会包括在其中。
+23
+00:01:17,884 --> 00:01:25,141
+can be involved. So the typical economics of the VC firm
+一个典型的风投公司看起来是这样的：
+24
+00:01:25,161 --> 00:01:29,451
+look something like this. The VC firm raises a fund; that
+风投公司集资；
+25
+00:01:29,471 --> 00:01:33,501
+fund might last somewhere between five and ten years. The
+这笔资金可能持续掌管大约5到10年。
+26
+00:01:33,521 --> 00:01:36,918
+partners in the VC firm get to draw what's called a
+这家风投的合伙人要收取管理费，
+27
+00:01:36,938 --> 00:01:40,674
+management fee, typically two percent or two one-half
+通常是管理资金的2%到2.5%。
+28
+00:01:40,694 --> 00:01:45,457
+percent of the funds under management. Or the assets under
+也可能是风投管理资产（的2%到2.5%）
+29
+00:01:45,477 --> 00:01:49,956
+management They also get a piece of the carried interest, so
+他们也可以得到一部分的附带权益，
+30
+00:01:49,976 --> 00:01:53,816
+they have some incentive to invest in profitable companies.
+所以他们有动力去投一些盈利型公司。
+31
+00:01:53,835 --> 00:01:57,685
+Carried interest denotes that profit that comes out of
+附带权利指出，来自于
+32
+00:01:57,704 --> 00:02:00,792
+splitting the proceeds from selling these entrepreneurial
+从创业型企业被卖出，
+33
+00:02:00,811 --> 00:02:05,441
+firms or having them go through an initial public offering
+或者是他们首次公开发行产生的（股票）增加发行，
+34
+00:02:05,461 --> 00:02:09,128
+that flows back to both the institutional investors in the
+这些通过风投公司回到机构投资者的利润，
+35
+00:02:09,149 --> 00:02:12,949
+VC Firm, but the partners in the firm also tend get twenty
+风投公司的合伙人通常可以得到利润的20%到25%，
+36
+00:02:12,969 --> 00:02:17,078
+to 25 percent of those profits, So the money that they
+这都是他们投资产生的利润。
+37
+00:02:17,098 --> 00:02:20,867
+generate from their investments. And so is a simple example,
+这有一个简单的例子，
+38
+00:02:20,888 --> 00:02:25,137
+imagine that a VC firm raises a hundred million dollar fund.
+假设一个风投公司融了1千万的资金，
+39
+00:02:25,157 --> 00:02:29,066
+They get a 4x return And they get two percent of the assets
+他们得到了4倍的回报，他们得到所管理资产的2%，
+40
+00:02:29,086 --> 00:02:33,245
+under management and twenty percent of the carry. They would
+还有20%的附带权益。
+41
+00:02:33,265 --> 00:02:36,964
+then get two million dollars per year in management fees.
+他们就会获得2百万每年的管理费。
+42
+00:02:36,984 --> 00:02:41,153
+And they would also get twenty percent of the profits. So,
+他们还会获得利润的20%。
+43
+00:02:41,174 --> 00:02:45,413
+if you have a $100,000,000 fund, we get a 4x return. They
+所以如果你有$100，000，000的资本，你得到4倍的返还，
+44
+00:02:45,433 --> 00:02:48,600
+have to give back the initial $100,000,000.00 to the
+他们需要给机构投资者最初的$100，000，000本金。
+45
+00:02:48,620 --> 00:02:52,248
+institutional investors. They get twenty percent then of the
+他们得到利润的20%，
+46
+00:02:52,269 --> 00:02:57,871
+profits, is going to translate into $60,000,000 in carried
+即为附带权益中的$60,000,000.
+47
+00:02:57,891 --> 00:03:02,241
+interest from the fund. So in addition to the $2,000,000 per
+除此之外还有每年$2,000,000每年的管理费，
+48
+00:03:02,262 --> 00:03:05,048
+year that they get in management fees, At the end they would
+最终他们会得到$60,000,000的附带权益。
+49
+00:03:05,048 --> 00:03:08,154
+come away with $60,000,000 in carried interest. So this is
+
+50
+00:03:08,174 --> 00:03:15,040
+essentially how venture capital partners make their money.
+所以基本上这就是风投公司合伙人怎么赚钱。
+51
+00:03:15,060 --> 00:03:17,810
+So what does the structure of the firm look like? Your
+这个公司的结构是怎么样的呢？
+52
+00:03:17,826 --> 00:03:20,773
+typical venture capital fund is going to vary somewhat in
+通常风投公司的结构会有一些变化。
+53
+00:03:20,793 --> 00:03:25,443
+structure. But you would have some general partners. Each of
+但是基本应该有几个合伙人。
+54
+00:03:25,463 --> 00:03:28,229
+these general partners might have between six and eight
+他们每一个通常都会有6到8个活跃的项目在进行。
+55
+00:03:28,250 --> 00:03:31,375
+active deals going at a time. So the start-ups that they've
+他们感兴趣的那些创业公司会在会上被讨论。
+56
+00:03:31,375 --> 00:03:34,885
+invested in were there on the board. They also might have
+他们可能还会有一些主要负责人或者联系人。
+57
+00:03:34,905 --> 00:03:36,529
+some principals or associates.
+
+58
+00:03:36,549 --> 00:03:39,275
+These principals and associates, it's their job to help with
+这些负责人和联系人，他们的主要工作就是协助
+59
+00:03:39,275 --> 00:03:43,644
+due diligence, to help drive new deal flow, that is, new
+尽职调查，协助开发新的项目，具体的说，
+60
+00:03:43,664 --> 00:03:46,918
+start-ups coming in, pitching to the firm. It's their job to
+就是新进入的创业公司，和这些公司接触。他们的工作就是走出去，
+61
+00:03:46,938 --> 00:03:50,188
+go out and find some of these, convince them to come in and
+找到这些公司，说服他们来，然后说服风投投他们。
+62
+00:03:50,188 --> 00:03:55,492
+pitch this VC firm on investing. They also might help some
+他们也可能协助一些投资组合（portfolio company)的进展，
+63
+00:03:55,512 --> 00:04:00,082
+with portfolio company development. So assisting with the
+就是协助一些风投已经投资的企业发展。
+64
+00:04:00,102 --> 00:04:04,221
+existing companies that the VC firm has invested in. There
+
+65
+00:04:04,241 --> 00:04:07,307
+might be some staff that helps with finance, marketing,
+所以会有一些职员协助资本，市场，人力等等。
+66
+00:04:07,328 --> 00:04:11,869
+human resources. And then the decision making process also
+然后决策的过程也会因为不同家风投公司而不同。
+67
+00:04:11,889 --> 00:04:15,074
+can vary from one VC firm to the next. But typically the
+但是通常来说，
+68
+00:04:15,094 --> 00:04:17,752
+partners would get together and have some kind of voting
+合伙人会聚到一起，投票决定，
+69
+00:04:17,772 --> 00:04:21,620
+process or perhaps a unanimous decision making process.
+或者是一个无记名投票的过程。
+70
+00:04:21,640 --> 00:04:24,608
+Individual partners would champion a deal that they want to
+合伙人个人会为自己想投资的项目向其他成员摇旗呐喊。
+71
+00:04:24,627 --> 00:04:30,230
+invest in to the rest of the group. And the, deal, the deal
+然后这个项目组，
+72
+00:04:30,250 --> 00:04:33,809
+team, so the partner and the principals or associates who
+这个合伙人和在这个组的主要负责人，以及其他联系人
+73
+00:04:33,829 --> 00:04:37,086
+are working on this would do the background due diligence
+会做背景调查和调研，
+74
+00:04:37,105 --> 00:04:40,213
+and research to build the case for investing in this
+来决定到底是不是投这个创业公司。
+75
+00:04:40,233 --> 00:04:42,418
+particular startup.
+
+76
+00:04:42,438 --> 00:04:45,915
+And then the rest of the partnership, would then that act as
+然后剩下的合伙人，他们的作用是，有一点像，
+77
+00:04:45,935 --> 00:04:50,146
+a kind of, check and balance, to ensure that, there's
+制约与平衡，来保证每一个决定都是小心谨慎的。
+78
+00:04:50,165 --> 00:04:53,300
+careful decision making. And that, that they'll then ask the
+他们会向这个合伙人和他的团队提出一些难回答的问题，
+79
+00:04:53,320 --> 00:04:56,620
+tough questions of this partner and his team of asso-,
+
+80
+00:04:56,640 --> 00:04:59,855
+associates, and/or principals, that they've really done
+以确保他们却是做足了功课，
+81
+00:04:59,875 --> 00:05:02,715
+their homework, and, and that this deal is, is worth
+确保这笔生意确实值得做。
+82
+00:05:02,735 --> 00:05:08,417
+investing in. So one important thing to know is there is
+一件应该知道的事情是
+83
+00:05:08,437 --> 00:05:12,766
+many different flavors of VC's. So VC's can segment in one
+风投公司有很多种，风投公司由此被分成很多种，
+84
+00:05:12,786 --> 00:05:16,716
+of a number of different ways. So, some VC's will focus on a
+一些风投公司会主要关注一个特别的产业，
+85
+00:05:16,735 --> 00:05:21,225
+particular sector, say, health care, IT, clean energy. So
+比方说健康医疗，IT，新能源。
+86
+00:05:21,245 --> 00:05:23,846
+you want to be sure that you're pitching a venture capital
+所以你应该知道你想要去找的那家公司主要投哪个行业，
+87
+00:05:23,846 --> 00:05:26,768
+firm that invests in the industry sector that your start up
+你的公司是不是属于它投的范围。
+88
+00:05:26,788 --> 00:05:30,865
+is in. They also vary in terms of size. There are some small
+他们也根据公司大小而变化。
+89
+00:05:30,885 --> 00:05:33,841
+funds that would invest in a very early stage. There are
+有一些小钱是投在初期，
+90
+00:05:33,860 --> 00:05:36,990
+also some very large funds that might tend to invest more at
+一些大钱在后期进来，
+91
+00:05:37,010 --> 00:05:41,733
+a later stage. So in terms of geography we see funds tend to
+从地理位置上说，
+92
+00:05:41,752 --> 00:05:46,221
+invest more in their geographic region. So if you are
+资本的投入是有地域性的，他们更喜欢投自己地盘上的初创企业。
+93
+00:05:46,241 --> 00:05:48,491
+raising money in California or in Silicon Valley you
+所以，如果你在加州找钱，在硅谷找钱，
+94
+00:05:48,491 --> 00:05:51,241
+probably want to pitch funds that are in Silicon Valley. On
+你可能更应该从硅谷找风投。
+95
+00:05:51,241 --> 00:05:54,241
+the other hand if you are in Boston you might pitch receive
+如果你在波士顿，你应该主要去找集中在波士顿地区的风投。
+96
+00:05:54,241 --> 00:05:58,180
+firms that are primarily based in Boston. And so you also
+你还应该注意去找那些适合你公司本阶段的投资的风投公司。
+97
+00:05:58,199 --> 00:06:01,807
+wanna be careful that you are pitching a fund or perching a
+
+98
+00:06:01,827 --> 00:06:05,826
+fund that invests in the stage of your company.
+
+99
+00:06:05,846 --> 00:06:09,093
+So if you're at the seed stage or early stage, meaning
+如果你在种子或者早期，
+100
+00:06:09,113 --> 00:06:12,841
+perhaps you're just a couple of people and you have a demo
+意思是，你可能只有几个人，你只有一个点子的草图，
+101
+00:06:12,861 --> 00:06:16,410
+or prototype or just an idea, then you wanna make sure does
+那么你就应该搞清楚这家风投到底投不投种子阶段的公司。
+102
+00:06:16,430 --> 00:06:19,297
+this VC firm actually invest at the seed stage or early
+
+103
+00:06:19,317 --> 00:06:23,326
+stage. Because some might only invest at the later stage.
+因为一些风投只投后期。
+104
+00:06:23,346 --> 00:06:25,939
+And so they might be happy to talk to you and learn from
+所以他们可能只是和你聊，了解你，
+105
+00:06:25,939 --> 00:06:32,956
+you, but less willing to make an investment. So one of the
+但是并不想投你。
+106
+00:06:32,976 --> 00:06:36,396
+difficult things about pitching a venture capital investment
+接触风投公司时的一个难点是，
+107
+00:06:36,415 --> 00:06:40,204
+firm is that you have to do two things at once. One thing is
+你需要一次做两件事。
+108
+00:06:40,223 --> 00:06:43,411
+to pat your head, the other is to rub your tummy. So what
+一是拍你的脑袋，二是摸你的肚子。这是什么意思呢？
+109
+00:06:43,411 --> 00:06:47,711
+does this mean? Pat your head is to talk about the very
+拍你的脑袋指讨论最初的产品，
+110
+00:06:47,731 --> 00:06:50,377
+first product, the very first customer need that you're
+最初的用户需求，这些都是你早期关注的。
+111
+00:06:50,397 --> 00:06:54,684
+going to be focusing on. So you have to show that you have
+所以你要表现出你很专注在某一个领域，
+112
+00:06:54,704 --> 00:06:58,495
+some narrow focus. One particular market, one particular
+一个具体的市场，一个具体的用户需求上，
+113
+00:06:58,515 --> 00:07:03,115
+customer need that you can achieve. On the other hand. You
+这是能让你成功的那个点。另一方面，
+114
+00:07:03,135 --> 00:07:07,175
+also have to paint a broader picture and show that what you'
+你也要规划蓝图，以显示出你想做的不只是一个小小的性能，
+115
+00:07:07,194 --> 00:07:11,615
+re pitching is not just a single feature or a single product
+或者是一个独立的产品，
+116
+00:07:11,634 --> 00:07:14,130
+that would go better with a large company.
+一个大公司能做的更好的东西，
+117
+00:07:14,150 --> 00:07:16,736
+But that you're really pitching something that could be an
+你要展示的是，你可以做成一个独立的公司
+118
+00:07:16,736 --> 00:07:19,944
+independent company, that can appeal to a broad enough
+你可以吸引一个足够大的市场，
+119
+00:07:19,963 --> 00:07:24,052
+market and has some future beyond just this particular
+你不只是想做这个性能或者这个产品，
+120
+00:07:24,072 --> 00:07:31,240
+feature or just this first product. So what is that VC's are
+你有对未来的远景规划。风投公司到底想要什么？
+121
+00:07:31,259 --> 00:07:34,899
+looking for? This depends somewhat on the stage but
+这取决于你的公司处于哪个阶段？
+122
+00:07:34,918 --> 00:07:38,646
+imagining that most of you are probably at the early stage,
+假设你的公司处于非常初级的阶段，
+123
+00:07:38,666 --> 00:07:42,214
+VC's are going to tend to focus very heavily on the team.
+风投一般会关注你的团队，
+124
+00:07:42,234 --> 00:07:46,053
+And so they want a team that has the mean expertise perhaps
+他们想看到这个团队有各种（初创团队所需的）专业技能，或者
+125
+00:07:46,073 --> 00:07:50,552
+have some history of success and collaboration but also has
+有成功创业的经验和合作，
+126
+00:07:50,572 --> 00:07:54,743
+the willingness to let the VC's build out the team. They're
+也有意愿让风投增建团队。
+127
+00:07:54,763 --> 00:07:57,759
+also going to be very concerned about the market. And so
+他们要对市场非常关注。
+128
+00:07:57,779 --> 00:08:00,132
+they want to know this is an emerging and fast growing
+他们想知道这是一个新兴的，并且快速发展的市场。
+129
+00:08:00,132 --> 00:08:03,764
+market. So the market might have to be, a potential target
+所以这个市场应该是一个具有巨大潜力的市场，
+130
+00:08:03,783 --> 00:08:06,784
+market might have to be over a certain size. It's a billion
+并将会成长到一定的规模，它是一个十亿的市场，
+131
+00:08:06,784 --> 00:08:10,517
+dollar market or at least a $500,000,000 market. And it must
+或者至少是一个$500，000，000的市场。
+132
+00:08:10,537 --> 00:08:14,788
+be a market that's growing quickly. So you'll also by this
+它还必须是一个快速成长的市场。你们稍后会看到
+133
+00:08:14,808 --> 00:08:18,795
+point or, or shortly after this see, Henry Wong, who's one
+Henry Wong，他是Garage Ventures的一名风投，
+134
+00:08:18,815 --> 00:08:21,362
+venture capitalist with garage ventures, talk about what he
+他会谈一谈他会怎么去找他想要的初创企业，
+135
+00:08:21,382 --> 00:08:24,463
+looks for in a start-up. And so you'll see some of these
+你会看到我们上面讲的都会在他的谈话中呼应。
+136
+00:08:24,463 --> 00:08:27,004
+themes echoed there. We also want to know about the business
+（他）我们也想要知道你的盈利模式。
+137
+00:08:27,004 --> 00:08:28,004
+model.
+
+138
+00:08:28,004 --> 00:08:31,004
+How is it exactly that you're gonna make money? How does a
+你到底怎么赚钱？
+139
+00:08:31,004 --> 00:08:35,446
+dollar move from the customer's pocket into your pocket? And
+钱到底怎么从消费者的口袋到你的口袋中来？
+140
+00:08:35,466 --> 00:08:37,370
+then finally they're gonna wanna something about the
+最后他们想知道点科技方面的东西。
+141
+00:08:37,370 --> 00:08:41,328
+technology. What is it that you have that can form a
+你的不被别人容易复制的竞争优势到底是什么？
+142
+00:08:41,348 --> 00:08:47,913
+competitive barrier over time? So here's the suggested
+所以这是我建议的剧本，
+143
+00:08:47,933 --> 00:08:51,350
+playbook. First of all you have to be committed. Raising
+首先，你得锁定一个。
+144
+00:08:51,370 --> 00:08:54,378
+venture capital is a long process. Often it can take six to
+融资是一个非常漫长的过程。一般从开始到结束需要6到9个月的时间。
+145
+00:08:54,398 --> 00:08:58,736
+nine months from start to finish. It can help to hire a
+如果你雇一个律师会很有帮助。
+146
+00:08:58,756 --> 00:09:01,269
+great lawyer. If you're in Silicon Valley there are a lot
+如果你在硅谷，会有很多针对初创公司的律师，
+147
+00:09:01,269 --> 00:09:04,298
+lawyers that work with startup firms and that have a good
+他们和风投以及天使投资人都有很好的关系。
+148
+00:09:04,317 --> 00:09:06,645
+network with V.C.'s and angel investors.
+
+149
+00:09:06,665 --> 00:09:11,395
+So bringing in a lawyer early on can often help. You have to
+所以前期请一个律师对你会很有帮助。
+150
+00:09:11,415 --> 00:09:14,312
+figure out what stage and what sector you're in. Identify
+你要想清楚你的公司在哪个阶段和哪行。
+151
+00:09:14,332 --> 00:09:18,543
+let's say, four to five, or maybe even eight to ten venture
+找出4到5个，甚至7到8个投这个阶段的投这个行业的风投。
+152
+00:09:18,562 --> 00:09:22,602
+capital firms that focus on this stage and this sector. You
+
+153
+00:09:22,622 --> 00:09:26,279
+then wanna think about which partner within the firm is
+然后你应该想这和公司哪个合伙人是相关的。
+154
+00:09:26,299 --> 00:09:31,361
+relevant. So which, which specific partner or principal,
+这个风投公司哪个具体的合伙人或者主要负责人
+155
+00:09:31,381 --> 00:09:34,970
+within the VC firm has invested in companies like yours in
+过去曾经对你这行的创业公司有兴趣？
+156
+00:09:34,990 --> 00:09:38,708
+the past, or is interested in companies like yours. You then
+
+157
+00:09:38,728 --> 00:09:41,615
+want to get some kind of introduction to that partner. This
+然后你应该找一些人介绍你认识他。
+158
+00:09:41,634 --> 00:09:44,028
+might be through a lawyer, it might be through your
+这个可能要通过律师介绍，也可以通过你的大学教授，
+159
+00:09:44,028 --> 00:09:47,148
+university professor, it might be through another
+或者通过另一个创业者，以前这个投资人对他的项目感兴趣。
+160
+00:09:47,168 --> 00:09:51,958
+entrepreneur that this partner has invested in previously.
+
+161
+00:09:51,978 --> 00:09:55,927
+You wanna prepare a short one to two page overview. And you
+你应该准备一个一到两页的概述，
+162
+00:09:55,947 --> 00:09:59,876
+also wanna probably prepare a short 30 to 45 minute
+你也应该准备一个30到45分钟的介绍，
+163
+00:09:59,896 --> 00:10:04,427
+presentation if they invite you in to, pitch at the VC firm.
+如果他邀请你到他的公司做介绍。
+164
+00:10:04,447 --> 00:10:08,505
+And so, it's important to keep in mind that the goal of the
+所以，很重要的需要记住的一点是第一次见面的目的只是为了有第二次的见面。
+165
+00:10:08,525 --> 00:10:11,591
+first meeting is to get a second meeting only. So if you
+
+166
+00:10:11,610 --> 00:10:14,931
+meet this VC partner at a conference or some kind of event,
+所以如果你在一个会上或者一个活动碰到这个投资人，
+167
+00:10:14,951 --> 00:10:17,596
+you wanna give them the short elevator pitch, and get them
+你应该在电梯里简单认识他一下，
+168
+00:10:17,596 --> 00:10:20,182
+to agree to a longer phone call or a longer meeting.
+争取让他们答应给你一个长一点的见面或者电话交谈机会。
+169
+00:10:20,182 --> 00:10:23,216
+Don't dive straight into the details right at, right at the
+不要立刻就切入主题，在刚一开始的时候。
+170
+00:10:23,235 --> 00:10:28,591
+very outset. So what should you expect in this process? It's
+在这个过程中你应该有怎样的预期呢？
+171
+00:10:28,610 --> 00:10:32,881
+important to get the expectations right. So first of all,
+有一个合理的预期是非常重要的。首先，
+172
+00:10:32,901 --> 00:10:36,649
+expect perhaps twelve to sixteen week process from the first
+除了大约12到16个周的从开始接触到结束的这个过程之外，
+173
+00:10:36,669 --> 00:10:40,879
+meeting to the close. It might even be longer than that. So
+之后持续的时间可能比这个还更长。
+174
+00:10:40,899 --> 00:10:43,684
+you'll have a first meeting. The VCs, if they're still
+所以你首先要开始第一次的约见。如果风投对你感兴趣，
+175
+00:10:43,684 --> 00:10:47,183
+interested, will do some due diligence. They might bring up
+他们会做一些尽职调查。
+176
+00:10:47,203 --> 00:10:51,712
+your startup at the partner meeting. If they continue to be
+他们会把你的项目在合伙人会议上提出来，如果他们都感兴趣，
+177
+00:10:51,732 --> 00:10:54,232
+interested, they might give you a term sheet. There would
+他们可能会给你一个条款书，然后会有一些针对条款书中条款的磋商，
+178
+00:10:54,232 --> 00:10:56,982
+then be some negotiation over the terms in that term sheet,
+
+179
+00:10:56,982 --> 00:11:01,875
+and then you would close. They are you also might think
+然后才能结束。
+180
+00:11:01,895 --> 00:11:05,812
+about preparing an investor package. So you might start
+你也应该考虑准备一个（给）投资人档案。
+181
+00:11:05,832 --> 00:11:08,481
+assembling all the documents of your presentation, your
+你应该开始整理所有的演示文稿，你的商业计划书，
+182
+00:11:08,501 --> 00:11:13,062
+financial plans, some references who can speak to you or
+一些你该见的人，
+183
+00:11:13,081 --> 00:11:16,024
+some potential customers who are interested in buying your
+一些可能对你的商品感兴趣的客户。
+184
+00:11:16,044 --> 00:11:19,937
+product. You want to assemble some materials that verifies
+你应该整理一些材料证实你对于市场规模的计算。
+185
+00:11:19,957 --> 00:11:24,136
+your calculations on the size of the market, Your cap table.
+你的市场规模表
+186
+00:11:24,156 --> 00:11:26,101
+Who is it that owns stock in the company?
+谁拥有公司股票？
+187
+00:11:26,101 --> 00:11:30,061
+Who owns equity so far? Any market research you've done they
+谁拥有公司资产？你对市场做出的调研。
+188
+00:11:30,081 --> 00:11:34,098
+might ask for. Any documentation on the product, and, you
+任何关于产品的文档，还有，
+189
+00:11:34,118 --> 00:11:37,626
+know, your IP they could potentially ask for. And they could
+他们可以去求证的联系人。
+190
+00:11:37,646 --> 00:11:40,533
+also potentially ask for some competitive analysis. How are
+他们可能也会问你要你的竞争对手的分析。
+191
+00:11:40,553 --> 00:11:46,548
+you different from your competitors? The investors, just to
+你和他们究竟有什么不同？投资人只是为了让你对自己有一个合理的预期，
+192
+00:11:46,567 --> 00:11:49,173
+get your expectations right might ask from anywhere from
+所以他们会问你20%到50%的关于公司各个方面的问题。
+193
+00:11:49,193 --> 00:11:53,754
+twenty to 50 percent of the company. The valuation that they
+他们对公司的估值将会是你想要融的钱的函数，
+194
+00:11:53,774 --> 00:11:56,660
+give is going to be some function of how much money you're
+
+195
+00:11:56,660 --> 00:12:02,052
+looking to raise, the ownership that's already there, what
+公司现有的所有权，公司处于的阶段，
+196
+00:12:02,072 --> 00:12:05,178
+stage you're at, what milestones you've made it through so
+公司到现在为止的重大里程碑事件。
+197
+00:12:05,198 --> 00:12:09,249
+far. And so a few key terms that are gonna come along with
+一些重要的条款都会由此相应而来，
+198
+00:12:09,269 --> 00:12:11,754
+this, I mentioned before that it's important not only to
+我之前提过思考（投资者）对公司所有权很重要，
+199
+00:12:11,754 --> 00:12:14,662
+think about the percentage of equity ownership but also to
+但是更重要的是要考虑那些附加条款。
+200
+00:12:14,682 --> 00:12:17,808
+think about some of the terms that come along with that. So
+
+201
+00:12:17,828 --> 00:12:21,295
+this could include the number of board of director seats,
+这包括，董事会董事的席位，
+202
+00:12:21,315 --> 00:12:25,986
+Any liquidation preferences. So if there is an acquisition,
+任何清算优先权。如果有收购的机会，
+203
+00:12:26,006 --> 00:12:29,364
+then your venture capitalist investors might get a
+你的投资者可能得到清算优先权。
+204
+00:12:29,384 --> 00:12:32,471
+liquidation preference. They might be able to sell their
+他们可能会在你这个公司创办人之前优先卖出股票，
+205
+00:12:32,490 --> 00:12:35,655
+stock before you as the founder, or before the early
+或者其他早期员工。
+206
+00:12:35,675 --> 00:12:39,769
+employees are able to sell your stock. Particularly in the
+特别是在一些情况下，
+207
+00:12:39,788 --> 00:12:46,702
+case where, there's a, a, a acquisition where, you know, it'
+情况不太好的收购情况下。
+208
+00:12:46,722 --> 00:12:48,972
+s kind of a bad outcome for the startup.
+
+209
+00:12:48,972 --> 00:12:52,086
+And then, particularly in those cases, VCs might, exercise
+特别是在那样的情况下，风投可能希望得到优先清算权。
+210
+00:12:52,105 --> 00:12:56,564
+their liquidation preferences. There also might be terms for
+也可能会有关于反稀释保护的条款。
+211
+00:12:56,584 --> 00:13:00,404
+anti dilution protection. So if the first stage VC wants to
+如果第一轮进入公司的风投，
+212
+00:13:00,424 --> 00:13:03,822
+put in place some terms where if there's a second or third
+他们想要增加一些条款，如果有2轮或者3轮的资本注入，
+213
+00:13:03,842 --> 00:13:07,711
+stage VC, such that their shares don't get diluted by as
+他们的股份会不会被稀释掉。
+214
+00:13:07,731 --> 00:13:13,434
+much. Participation and future rounds of fund raising might
+所以参与下一轮的融资会成为其中一个条款，
+215
+00:13:13,454 --> 00:13:18,125
+be a term. Proradirights in case of participating in those
+为自己在公司接下来的几轮融资中获取优先。
+216
+00:13:18,144 --> 00:13:22,725
+future rounds. Other protective provisions in case things
+还有一些保护性条款包括，
+217
+00:13:22,745 --> 00:13:26,332
+don't go well in the start up, then more control rates or
+一旦风投和创业公司合作不好，那么更多的控制权或者
+218
+00:13:26,352 --> 00:13:29,871
+other decision making will tend to revert back to the VC's
+决策权会更多地回到投资公司这边。
+219
+00:13:29,891 --> 00:13:33,078
+And also vesting terms for both the founders and for the
+当然还有针对创始人和员工的特别保护权。
+220
+00:13:33,098 --> 00:13:34,422
+employees.
+
+221
+00:13:34,442 --> 00:13:37,007
+So these are all things that there's some efforts to
+所有这些都是需要提前讲清楚定下来的，
+222
+00:13:37,007 --> 00:13:40,194
+standardize, but are going to vary somewhat across venture
+但是根据投资公司的不同会略有不同。
+223
+00:13:40,214 --> 00:13:43,281
+capital firms. And so you can't just think that things are
+所以你不能指望事情像你想象地那么一帆风顺。
+224
+00:13:43,301 --> 00:13:46,889
+going to go well. You also have to pay close attention with
+你必须和你的律师一起关注整个进展，
+225
+00:13:46,909 --> 00:13:50,477
+your lawyer, to some of these other terms about what happens
+去关注那些一旦公司发展不顺利需要考虑的条款。
+226
+00:13:50,497 --> 00:13:54,437
+when things start to go wrong in the startup. And which
+以及
+227
+00:13:54,457 --> 00:13:57,303
+aspects of control are going to revert to the VCs in that
+在哪种情况下公司的掌控权会到风投那边？
+228
+00:13:57,303 --> 00:14:03,807
+case? So, here's one version of your pitch and, and ten
+这有一个10页的样本。
+229
+00:14:03,827 --> 00:14:08,328
+slides. I'll let you read this in the interest of time. If
+你可以在任何感兴趣的时候去读。
+230
+00:14:08,348 --> 00:14:11,596
+you had to shorten it and only do seven slides, you might
+如果你需要把它压缩到7页，
+231
+00:14:11,615 --> 00:14:13,230
+cut out the financials.
+你可能需要删去资本这部分。
+232
+00:14:13,250 --> 00:14:16,596
+Perhaps you might cut out an extended demo. So you could
+也许你应该删去延伸的展示。
+233
+00:14:16,616 --> 00:14:20,967
+shorten the presentation even if you had less time. So what
+所以你应该再缩短你的演示如果你时间更少的话。
+234
+00:14:20,987 --> 00:14:24,264
+to consider? You want to think about whether your idea is
+那么你应该考虑什么？你应该考虑你的点子是不是足够成熟？
+235
+00:14:24,283 --> 00:14:28,072
+sufficiently baked. You want to pick your co-founders very
+你应该谨慎地选择你的合伙人，
+236
+00:14:28,092 --> 00:14:30,935
+carefully since that's gonna have a lot to do with your
+因为这对你融资成功与否至关重要。
+237
+00:14:30,935 --> 00:14:34,086
+success in fundraising. You also wanna think about your fit
+你还应该考虑你和你的风投契合度，
+238
+00:14:34,106 --> 00:14:38,606
+with the venture capitalists, And accepting venture capital.
+把风投引入你的公司带来的不仅仅是钱，
+239
+00:14:38,626 --> 00:14:41,492
+Into your startup, you're not only getting money, you're
+
+240
+00:14:41,512 --> 00:14:44,762
+also getting a set of partners. And so this is much like a
+你还等于引入了一个合伙人，所以这其实就像一段婚姻，
+241
+00:14:44,770 --> 00:14:47,857
+marriage, or much like a co-founder. You wanna think
+或者一个联合创始人。
+242
+00:14:47,877 --> 00:14:50,463
+carefully about whether your personality, values, and
+你应该谨慎地考虑你们的个性，价值观，
+243
+00:14:50,483 --> 00:14:53,912
+knowledge fit well with the venture capitalist partners you'
+和知识层次的契合度。
+244
+00:14:53,932 --> 00:14:57,890
+re bringing in. You want to optimize not only for the best
+你应该不但希望将这次交易用最好的价钱做成，
+245
+00:14:57,910 --> 00:15:01,018
+deal and for the best price. But ideally you want partners
+更希望投资人会能帮助你，给你的企业一些建议和带给你更多的资源。
+246
+00:15:01,038 --> 00:15:04,538
+and V C's that are gonna be able to help you and give advice
+
+247
+00:15:04,538 --> 00:15:07,161
+and connections with your venture. And you also want to
+你还应该考虑资金的下流影响。
+248
+00:15:07,181 --> 00:15:11,211
+consider the downstream effects of your financing. If you
+
+249
+00:15:11,230 --> 00:15:15,812
+get a very high post money evaluation this can become
+如果你得到了一个很高的（融资）后估值，
+250
+00:15:15,831 --> 00:15:18,938
+problematic later on if you run into stumbling blocks or
+这在后面可能会是一个问题，如果你经营状况不佳或者
+251
+00:15:18,958 --> 00:15:22,086
+things take longer than you thought. It's very difficult to
+事情进展地没你预期的那么顺利。
+252
+00:15:22,105 --> 00:15:25,232
+have a down round where the next set of investors, doesn't
+当你的公司看上去不太好的时候，下一轮的投资者
+253
+00:15:25,252 --> 00:15:28,502
+want to give you as high of evaluation as you had in the
+不想给你一个像上一轮那么高的估值。
+254
+00:15:28,502 --> 00:15:30,794
+last round. That's just painful for everyone. So actually
+这对双方都会是很痛苦的。所以，事实上，
+255
+00:15:30,794 --> 00:15:34,602
+having more of a normal trajectory where you have a low post
+所以最开始的估值最好是在一个合理的轨道上。
+256
+00:15:34,622 --> 00:15:36,025
+money evaluation at the beginning.
+
+257
+00:15:36,045 --> 00:15:38,872
+Gradually build it can be better from the startup's
+让它逐渐地增加。这即使是在创业公司的角度看也是有利的。
+258
+00:15:38,892 --> 00:15:40,668
+perspective even.
+
+259
+00:15:40,687 --> 00:15:43,473
+[sound] And then you also wanna be careful about angel
+你还要对天使资本足够谨慎。
+260
+00:15:43,493 --> 00:15:46,390
+financing. If your angel investors aren't experienced and
+如果你的天使投资人不是很有经验，不是很老道，
+261
+00:15:46,410 --> 00:15:49,857
+sophisticated they can, in some cases, cause problems down
+那他们有些时候很可能把事情变糟。
+262
+00:15:49,877 --> 00:15:55,158
+the line. On the other hand, angels can provide a lot of
+但是另一方面，天使投资人也会提供很多的价值。
+263
+00:15:55,177 --> 00:15:59,991
+value. So. In terms of approaching VCs you want to keep in
+说到接触风投，你要时刻记住投资绝对是和人打交道。
+264
+00:16:00,011 --> 00:16:03,437
+mind that investing is definitely a people business. A lot
+
+265
+00:16:03,457 --> 00:16:06,697
+of this is about social network connections. And so the best
+这就是说很大一部分去取决于你的人脉关系。
+266
+00:16:06,716 --> 00:16:10,595
+way to approach a VC is through some form of introduction.
+所以接触投资人最好的方法就是通过熟人介绍。
+267
+00:16:10,615 --> 00:16:13,480
+If you happen to know one of the entrepreneurs in their
+如果你碰巧认识他们之前接触过的创业者，
+268
+00:16:13,500 --> 00:16:17,266
+portfolio that they've invested in previously. Or if you can
+
+269
+00:16:17,286 --> 00:16:20,667
+get to know them, then an introduction through an
+或者你可以试着认识这些创业者，然后通过这些他们感兴趣的创业者的介绍，
+270
+00:16:20,687 --> 00:16:23,342
+entrepreneur that they've invested in before can be one of
+是得到引荐的最好的方法。
+271
+00:16:23,342 --> 00:16:27,163
+the best ways to get introduced. This can also be through
+你也可以通过你的大学教授介绍，
+272
+00:16:27,182 --> 00:16:31,131
+one of your professors or through a lawyer. Usually sending
+或者是你的律师。
+273
+00:16:31,151 --> 00:16:35,449
+a business plan in over the wire, through email is not going
+通常你要把你的商业计划书发给他们，电子邮件不是一个能得到注意的好办法。
+274
+00:16:35,469 --> 00:16:38,469
+to be a very effective way to get noticed. You're going to
+
+275
+00:16:38,469 --> 00:16:41,469
+go straight to the bottom of the stack of business plans and
+你应该从他们的一沓商业技术书最下面跳出来，
+276
+00:16:41,469 --> 00:16:44,719
+start ups that the VC's are looking at. So try to get an
+让他第一个看到你的公司。
+277
+00:16:44,719 --> 00:16:52,309
+introduction through a trusted source. So final tips, you
+所以找一个可信赖的介绍人。最后一点，
+278
+00:16:52,329 --> 00:16:55,997
+have to learn how to hear no, don't take rejection
+你要学习接受拒绝，不要把拒绝私人化。
+279
+00:16:56,017 --> 00:16:57,140
+personally.
+
+280
+00:16:57,160 --> 00:17:00,291
+You're gonna have to go through a lot of no's before you get
+在听到别人说yes之前你要听很多次no
+281
+00:17:00,291 --> 00:17:03,014
+someone to say yes. There are many famous examples of high
+在硅谷有很多日后成功的创业公司
+282
+00:17:03,014 --> 00:17:06,662
+profile start ups in Silicon Valley where the initial VC's
+最初接触风投的时候屡次被拒绝的例子。
+283
+00:17:06,682 --> 00:17:09,397
+that they pitched turned them down. Some VC's even put
+
+284
+00:17:09,397 --> 00:17:12,163
+together their entire portfolios of companies that came
+一些风投有时会把他们会之前看过但是没投的公司再看一次。
+285
+00:17:12,183 --> 00:17:15,412
+through that they didn't invest in that they wished they had
+
+286
+00:17:15,432 --> 00:17:19,151
+in retrospect. We're going to tend to run up against this
+我们可能会偶尔碰到这样的情况，
+287
+00:17:19,171 --> 00:17:23,539
+factor that all VCs are interested and are going to want to
+所有的风投都对你感兴趣，
+288
+00:17:23,559 --> 00:17:27,428
+hear from you and keep in touch. And so you have to do some
+并且想要和你继续联系。这时你需要做一些研究，
+289
+00:17:27,448 --> 00:17:31,116
+reading to see just how interested they really are and
+去看看到底是谁真的对你感兴趣，
+290
+00:17:31,136 --> 00:17:33,380
+whether or not they're just kind of stringing you along.
+或者有些只是拖住你。
+291
+00:17:33,380 --> 00:17:38,963
+Some are going to give you a very quick no. You, you don't
+有些会很快地和你说不，这样你就不用继续花时间
+292
+00:17:38,983 --> 00:17:42,091
+want to waste time trying convince other partners or
+这些风投身上，继续去说服他们
+293
+00:17:42,111 --> 00:17:44,898
+convince once they've said no, just move on to the next
+只要继续去找下一家风投就行。
+294
+00:17:44,898 --> 00:17:49,338
+venture capital firm. You also don't want to ignore junior
+你不应该忽视那些年轻的合伙人或者负责人。
+295
+00:17:49,358 --> 00:17:52,946
+partners or associates or principles. They can, they often
+他们通常有更大的动力去找好的项目，
+296
+00:17:52,966 --> 00:17:55,851
+have high incentives to find good deals and can be a
+
+297
+00:17:55,871 --> 00:17:58,621
+champion for you within the, within the firm. There are lots
+继而为你在公司争取支持。
+298
+00:17:58,621 --> 00:18:02,980
+of VCfirms out there. You want to probably order them in
+你应该给这些投资人排序，哪些是你最理想的，
+299
+00:18:03,000 --> 00:18:06,807
+terms of your most preferred investors, and then your least
+哪些是最不倾向的投资人。
+300
+00:18:06,827 --> 00:18:09,701
+preferred investors. And you can get some practice giving
+然后你可以从这个表单的底层开始做练习，
+301
+00:18:09,721 --> 00:18:12,221
+your pitch and answering questions if you work from the
+
+302
+00:18:12,221 --> 00:18:15,908
+bottom up, rather than starting with the vc firms that are
+而不是从那个你最希望得到的开始。
+303
+00:18:15,928 --> 00:18:20,459
+most ideal for you.
+
+304
+00:18:20,479 --> 00:18:24,677
+So that's been a bit of a look inside the VC boardroom. Let'
+所以上面就是简单的讲一讲投资公司内部的一些情况。
+305
+00:18:24,697 --> 00:18:31,674
+s, talk quickly about how the entrepreneurs might split the
+让我们很快地讲一讲创业者怎么分饼。
+306
+00:18:31,694 --> 00:18:36,494
+pie. And so, this is kind of your typical distribution of
+这是一个典型的成果分配，
+307
+00:18:36,514 --> 00:18:41,807
+outcomes, where most firms, 67%, are only gonna have a value
+大多数公司，大约67%的公司的价值出口
+308
+00:18:41,826 --> 00:18:46,086
+exit of perhaps between zero and one million dollars. And a
+都在0到1百万美金。
+309
+00:18:46,106 --> 00:18:49,875
+very small number of firms are going to have exits that are
+极少数的公司以非常高的价值
+310
+00:18:49,894 --> 00:18:53,634
+at the extreme high end of a billion dollars plus. And so
+十亿找到出口。
+311
+00:18:53,653 --> 00:18:56,661
+because of this extreme skew in the distribution and the
+因为这种分布极端不对称的创业曲线，以及对创业者来说极大的风险，
+312
+00:18:56,681 --> 00:19:00,569
+riskiness of entrepreneurial adventures, your typical VC is
+通常来说风投都会平均到每个公司头上投$5,000,000。
+313
+00:19:00,589 --> 00:19:04,347
+gonna average about $5,000,000 per V-C backed company. But
+
+314
+00:19:04,367 --> 00:19:06,963
+they are much more well diversified than the entrepreneurs
+但是他们的投资比起创业者来说，更多样化。
+315
+00:19:06,983 --> 00:19:11,413
+are. The average founding team gets about 9,000,000 per VC
+平均下来，一个创业团队通常会得到大约$9,000,000的风投支持，
+316
+00:19:11,433 --> 00:19:16,385
+backed company, but this is mostly from the small
+但这通常都是来自一个巨大成功中的一个很小概率。
+317
+00:19:16,405 --> 00:19:20,074
+probability of a few great successes. And so your
+
+318
+00:19:20,094 --> 00:19:24,082
+economically rational founding team might sell it VC funding
+所以你的理论依据应该是把你的团队以900，000美金的价格卖给风投，
+319
+00:19:24,102 --> 00:19:27,420
+for about 900,000 dollars. But as we know, entrepreneurs
+但是因为创业者通常容易盲目乐观，
+320
+00:19:27,440 --> 00:19:31,455
+tend to be optimistic and tend to want to take the chance at
+通常想要得到更大的利益。
+321
+00:19:31,475 --> 00:19:39,357
+the big outcome. I've already mentioned a few factors in
+我已经讲了一些获取风投的因素，
+322
+00:19:39,377 --> 00:19:42,305
+obtaining VC, including your work history, your social
+包括你的工作经历，你的社交网络，
+323
+00:19:42,325 --> 00:19:45,628
+network, the size of your, of your founding team, and your
+你的初创团队的大小，还有时机。
+324
+00:19:45,648 --> 00:19:46,835
+timing.
+
+325
+00:19:46,855 --> 00:19:50,542
+Few tactics that you might want to think about is what's
+还有一些策略你需要想一想的，我们称之为偶然的约会。
+326
+00:19:50,562 --> 00:19:54,630
+called casual dating. So this is getting coffee or just
+这是指和风投偶尔喝杯咖啡，或者随意地谈谈，
+327
+00:19:54,650 --> 00:19:57,637
+kinda chatting more casually with a, with a venture
+
+328
+00:19:57,657 --> 00:20:01,807
+capitalist to try and get a reading of what stage and what
+看看他们主要投公司的哪种类型的公司，
+329
+00:20:01,827 --> 00:20:04,605
+sector they invest in or how are interested they are. You
+投哪个阶段的公司。
+330
+00:20:04,625 --> 00:20:08,212
+should also time your fundraising around milestones or, or
+你也应该为你的融资安排时间表，一些里程碑或者证明点。
+331
+00:20:08,232 --> 00:20:10,884
+proof points. At the stage where you've completed a
+在一些你完成重要里程碑事件的阶段，
+332
+00:20:10,904 --> 00:20:14,915
+milestone, this then reduces risk and creates, and creates
+这些时刻都证明你降低了一些风险并创造了价值。
+333
+00:20:14,935 --> 00:20:18,316
+value. You're gonna get better terms. Fostering some
+你会得到更好的条件。
+334
+00:20:18,336 --> 00:20:19,778
+competition is helpful.
+促进竞争也是有帮助的。
+335
+00:20:19,798 --> 00:20:22,684
+If one V-C firm is interested, then you'll tend to find that
+如果一个风投对你感兴趣，那么你想让别人对你感兴趣就会容易一点。
+336
+00:20:22,684 --> 00:20:26,789
+others can get interested much more easily And also
+
+337
+00:20:26,809 --> 00:20:29,856
+scrutinizing interest. How frequently are they calling you
+还有他们到底对你多有兴趣？他们多长时间叫你回去？
+338
+00:20:29,876 --> 00:20:33,424
+back? Are they checking out your network for verification,
+他们有没有在你周围的人中了解你，
+339
+00:20:33,444 --> 00:20:36,694
+or are they kind of just wanting to stay in the loop and,
+或者他们只是把你耗在那，
+340
+00:20:36,707 --> 00:20:43,005
+and hear from you if something pans out? So finally, I think
+等到他们更优先的项目不行了再考虑你？最后，
+341
+00:20:43,025 --> 00:20:45,652
+the most important thing to think about, besides keeping
+我觉得最重要去想的是，除了保持现实的预期，
+342
+00:20:45,672 --> 00:20:49,672
+realistic expectations, is that you want to get true value
+你是不是想要从你的投资人那得到真正有价值的东西。
+343
+00:20:49,692 --> 00:20:52,478
+added from your investors. You want people who have a
+你希望那些真正有人脉的人，
+344
+00:20:52,498 --> 00:20:56,427
+rolodex, who have a network, who have experience in your
+那些在行业中真正有经验的人，
+345
+00:20:56,447 --> 00:21:00,244
+sector, in your industry, who can actually help you build a
+那些可以真正帮你做生意的人，
+346
+00:21:00,264 --> 00:21:06,599
+business. So you want more from them than just money.
+你想从他们那拿到除了钱之外的东西。
+347
+00:21:06,619 --> 00:21:10,557
+Finally my favourite comic about venture capital, I call my
+最后，我最喜欢的关于风投的漫画，我称我的发明是轮子，但是到目前为止，
+348
+00:21:10,576 --> 00:21:13,326
+invention the wheel but so far I've been unable to attract
+还没有任何风投接触我。
+349
+00:21:13,326 --> 00:21:19,288
+any venture capital. So that's it, this has been the series
+所以这就是这节课，
+350
+00:21:19,308 --> 00:21:23,002
+on venture financing and there's a lot more to learn in this
+关于风投的系列。关于这个话题还有很多东西，
+351
+00:21:23,022 --> 00:21:25,522
+topic but hopefully this is at least given you an
+但希望至少这节课给你开了个头，
+352
+00:21:25,522 --> 00:21:28,648
+introduction to the basics and practical advice for going
+介绍了一些基础只是和实际的建议，
+353
+00:21:28,668 --> 00:21:30,668
+out and raising money for your start-ups.
+希望对你的初创公司融资有一定帮助。

@@ -1,0 +1,4068 @@
+1
+00:00:03,140 --> 00:00:07,449
+It is my since pleasure to introduce our special guest today.
+
+2
+00:00:07,450 --> 00:00:10,239
+We have Mark Suster. I want to tell you a little bit about him.
+
+3
+00:00:10,240 --> 00:00:13,339
+He earned his BA in Economics from University
+
+4
+00:00:13,340 --> 00:00:14,549
+of California of San Diego.
+
+5
+00:00:14,550 --> 00:00:18,049
+He then went on and got his MBA from the University of Chicago.
+
+6
+00:00:18,390 --> 00:00:22,199
+He then spent 10 years as a consultant at Accenture both in Europe,
+
+7
+00:00:22,280 --> 00:00:25,339
+in Japan and the US and then he started his first company.
+
+8
+00:00:25,340 --> 00:00:27,749
+His first company was called BuildOnline which was
+
+9
+00:00:27,750 --> 00:00:30,644
+a large global content collaboration company.
+
+10
+00:00:30,720 --> 00:00:34,189
+That's very alliterative. It was focused on engineering construction
+
+11
+00:00:34,190 --> 00:00:36,754
+sectors and then this company was sold.
+
+12
+00:00:36,910 --> 00:00:39,584
+He then started another company called Koral
+
+13
+00:00:39,730 --> 00:00:42,234
+which he then sold to salesforce.com
+
+14
+00:00:42,340 --> 00:00:44,308
+and worked for Salesforce for about a year
+
+15
+00:00:44,408 --> 00:00:46,550
+and then left to join the VC firm,
+
+16
+00:00:46,650 --> 00:00:50,014
+GRP Partners which is headquartered in LA.
+
+17
+00:00:50,120 --> 00:00:55,274
+His talk today is called Lessons on Starting a Company.
+
+18
+00:00:55,390 --> 00:00:58,614
+Without further ado, Mark.
+
+19
+00:01:03,570 --> 00:01:09,479
+I had originally titled my presentation Irreverent or Nonconformist
+
+20
+00:01:09,480 --> 00:01:14,144
+Lessons on Starting a Company because I think most of my ideas,
+
+21
+00:01:14,240 --> 00:01:17,584
+am I allowed to wonder or for video purposes do I need to stay put?
+
+22
+00:01:17,730 --> 00:01:22,669
+The other thing I thought about calling
+
+23
+00:01:22,670 --> 00:01:25,319
+it was Heresy in Silicon Valley.
+
+24
+00:01:26,830 --> 00:01:29,949
+My rationale is virtually everything that I had learned
+
+25
+00:01:29,950 --> 00:01:35,244
+about startups is heresy in Silicon Valley.
+
+26
+00:01:35,290 --> 00:01:37,919
+Just I'll talk you through one or two examples.
+
+27
+00:01:38,060 --> 00:01:42,529
+There seems to be an ethos in Silicon Valley that if you don't
+
+28
+00:01:42,530 --> 00:01:45,449
+build something worth $100 million, you're a failure.
+
+29
+00:01:46,170 --> 00:01:49,239
+I've had this conversation with so many young entrepreneurs
+
+30
+00:01:49,240 --> 00:01:51,279
+who get their first offer for $15,
+
+31
+00:01:51,280 --> 00:01:55,039
+$20, $30 million and I do the math for them on what that's worth.
+
+32
+00:01:55,040 --> 00:01:58,759
+I say okay, let's do the exercise on what this is going to
+
+33
+00:01:58,760 --> 00:02:01,819
+look like if you do that $10 million round and what this is
+
+34
+00:02:01,820 --> 00:02:06,789
+going to look like if you try to scale something and create
+
+35
+00:02:06,790 --> 00:02:11,299
+something big and you might be successful and you may not.
+
+36
+00:02:11,890 --> 00:02:14,269
+I don't encourage people to sell early.
+
+37
+00:02:14,440 --> 00:02:18,889
+I just encourage people not to be pressured by the standard
+
+38
+00:02:18,890 --> 00:02:22,914
+Silicon Valley mantra that you're a failure if you sell
+
+39
+00:02:23,180 --> 00:02:26,289
+as Michael Arrington called it a deep shit company.
+
+40
+00:02:27,620 --> 00:02:33,459
+I know that Dave McClure noted that by his standard,
+
+41
+00:02:33,460 --> 00:02:35,484
+his actually was a deep shit company.
+
+42
+00:02:35,760 --> 00:02:38,239
+I assure you he'll be building a very nice
+
+43
+00:02:38,240 --> 00:02:43,139
+house wherever he chooses to live next. I learned this the hard way.
+
+44
+00:02:43,530 --> 00:02:47,649
+I started a company in 1999 based in London
+
+45
+00:02:47,650 --> 00:02:51,659
+called BuildOnline and at the time,
+
+46
+00:02:51,660 --> 00:02:55,249
+we became the poster child for startup companies
+
+47
+00:02:55,250 --> 00:02:58,679
+in Europe or at least one of the top 10 front cover
+
+48
+00:02:58,680 --> 00:03:01,729
+of the top venture capital magazine in Europe.
+
+49
+00:03:01,990 --> 00:03:05,259
+We were front cover of the business section of the Financial Times.
+
+50
+00:03:05,260 --> 00:03:08,089
+I got a dot-matrix in Wall Street Journal.
+
+51
+00:03:08,360 --> 00:03:16,349
+I was invited to the private wine cellars of Bernard Arnault to drink
+
+52
+00:03:16,650 --> 00:03:23,139
+ancient champagne with the CEOs of 40 other companies called Sony,
+
+53
+00:03:23,140 --> 00:03:25,649
+Dell and other companies like that.
+
+54
+00:03:25,650 --> 00:03:30,244
+I was a really, really big deal until I wasn't.
+
+55
+00:03:30,590 --> 00:03:33,459
+That period lasted about six months.
+
+56
+00:03:34,020 --> 00:03:36,409
+In that period, we turned down an offer
+
+57
+00:03:36,410 --> 00:03:39,699
+to be acquired for $150 million.
+
+58
+00:03:39,700 --> 00:03:43,319
+We thought $150 million acquisition between three friends
+
+59
+00:03:43,320 --> 00:03:46,834
+was chump change because I had Goldman Sachs as an investor
+
+60
+00:03:47,090 --> 00:03:49,419
+and they were telling us we were going to IPO,
+
+61
+00:03:49,770 --> 00:03:54,184
+and the IPO would be within a year and it would be a billion dollars.
+
+62
+00:03:54,540 --> 00:03:57,449
+It sounds crazy now if you weren't part of those times.
+
+63
+00:03:57,450 --> 00:03:59,609
+For those of us with less hair or gray hair,
+
+64
+00:03:59,610 --> 00:04:01,279
+we know we lived through that.
+
+65
+00:04:01,580 --> 00:04:06,549
+But we looked at Chemdex which became Ventro that was
+
+66
+00:04:06,550 --> 00:04:09,574
+trading for $8 billion on $2 million in revenue,
+
+67
+00:04:09,820 --> 00:04:12,819
+so a billion dollars seemed achievable and we gave
+
+68
+00:04:12,820 --> 00:04:15,119
+out the spreadsheets to our employees joining,
+
+69
+00:04:15,120 --> 00:04:17,559
+telling them how much money 0.25%
+
+70
+00:04:17,560 --> 00:04:21,189
+was worth of the billion dollars. You do the math.
+
+71
+00:04:21,190 --> 00:04:24,429
+We were all proud of ourselves until the world changed.
+
+72
+00:04:25,110 --> 00:04:27,964
+My second company we built the product;
+
+73
+00:04:27,990 --> 00:04:32,314
+in total we worked on it for about a year and a half.
+
+74
+00:04:32,600 --> 00:04:35,629
+I had an offer to sell before I raised venture capital.
+
+75
+00:04:35,960 --> 00:04:40,079
+When I sold my first company, I owned 10% of the company.
+
+76
+00:04:40,230 --> 00:04:44,219
+When I sold my second company, I owned 73% of the company.
+
+77
+00:04:44,520 --> 00:04:47,589
+Those were different outcomes for me.
+
+78
+00:04:47,600 --> 00:04:50,989
+So I'm not saying there's a right answer for anybody.
+
+79
+00:04:51,150 --> 00:04:55,039
+For each of you, you have to choose whether you pursue your passions,
+
+80
+00:04:55,040 --> 00:04:57,399
+whether you really believe it's a big idea,
+
+81
+00:04:57,590 --> 00:05:02,879
+but I like people to understand the framework. I lived in Palo Alto.
+
+82
+00:05:02,880 --> 00:05:05,929
+My second company was based here and I was under
+
+83
+00:05:05,930 --> 00:05:08,439
+so much pressure not to sell but luckily,
+
+84
+00:05:08,440 --> 00:05:10,499
+second time around, I wasn't stupid.
+
+85
+00:05:10,970 --> 00:05:15,979
+So my background, I guess you already heard so I now live in Los
+
+86
+00:05:15,980 --> 00:05:21,539
+Angeles which means if you're in Silicon Valley it might as well
+
+87
+00:05:21,540 --> 00:05:28,039
+be Arkansas and nothing wrong with Arkansas but it's somehow disconnected
+
+88
+00:05:28,040 --> 00:05:30,804
+and can't possibly build tech firms but we have.
+
+89
+00:05:31,160 --> 00:05:35,049
+We built a small company called Overture that my firm invested in.
+
+90
+00:05:35,190 --> 00:05:37,539
+Back then, Google was saying that you
+
+91
+00:05:37,540 --> 00:05:39,639
+shouldn't have advertising and search.
+
+92
+00:05:39,810 --> 00:05:42,369
+Bill Gross who's from Los Angeles and Pasadena,
+
+93
+00:05:42,370 --> 00:05:46,479
+a graduate of Caltech said actually we have this concept called sponsored
+
+94
+00:05:46,480 --> 00:05:50,139
+search where we can have links and you can bid to the top and Google
+
+95
+00:05:50,140 --> 00:05:53,384
+sort of laughed at that until we were a very large company.
+
+96
+00:05:53,640 --> 00:05:59,296
+No question Google kicked their ass but they still sold for $1.6 billion.
+
+97
+00:05:59,397 --> 00:06:01,460
+They settled the $500 million lawsuit.
+
+98
+00:06:01,561 --> 00:06:04,289
+It was a $2.1 billion outcome.
+
+99
+00:06:05,120 --> 00:06:09,749
+AdWords, the concept of it was innovated in Los Angeles.
+
+100
+00:06:11,070 --> 00:06:13,819
+When you look at AdSense and I presume most of
+
+101
+00:06:13,820 --> 00:06:15,509
+you know the difference but in case you don't,
+
+102
+00:06:15,510 --> 00:06:17,914
+AdWords being on the O&O traffic,
+
+103
+00:06:18,060 --> 00:06:20,419
+owned and operated traffic of Google;
+
+104
+00:06:20,560 --> 00:06:23,039
+AdSense being those that they share with their
+
+105
+00:06:23,040 --> 00:06:25,999
+parties was innovated in Los Angeles.
+
+106
+00:06:26,180 --> 00:06:28,179
+Another graduate of Caltech,
+
+107
+00:06:28,730 --> 00:06:32,299
+Gil Elbaz who created a company called the Applied Semantics,
+
+108
+00:06:32,300 --> 00:06:34,209
+he had a cofounder, I don't remember
+
+109
+00:06:34,210 --> 00:06:36,254
+his cofounder's name, in Los Angeles.
+
+110
+00:06:36,330 --> 00:06:38,759
+So I just want to point out that there are tech people there.
+
+111
+00:06:38,760 --> 00:06:41,389
+We do have an industry. We have had many exits.
+
+112
+00:06:41,460 --> 00:06:44,414
+It is not and never will be Silicon Valley,
+
+113
+00:06:44,630 --> 00:06:46,664
+but that's not what I'm here to talk about today.
+
+114
+00:06:46,820 --> 00:06:49,094
+I'm here to talk about getting started,
+
+115
+00:06:49,320 --> 00:06:53,179
+raising venture capital and some lessons that I learned.
+
+116
+00:06:54,330 --> 00:06:57,329
+I'll start at the kind of most superficial level which
+
+117
+00:06:57,330 --> 00:07:01,689
+is having an idea and it sort of sounds obvious but
+
+118
+00:07:01,690 --> 00:07:04,029
+this is actually where most people get stuck.
+
+119
+00:07:04,030 --> 00:07:08,139
+If I look at the funnel of potential entrepreneurs,
+
+120
+00:07:08,300 --> 00:07:12,669
+I think this idea phase people get crippled by it and
+
+121
+00:07:12,670 --> 00:07:16,239
+it's the reason most people don't start businesses.
+
+122
+00:07:16,340 --> 00:07:17,399
+I like to tell people,
+
+123
+00:07:17,400 --> 00:07:20,109
+you actually don't have to be a genius to start a business.
+
+124
+00:07:20,260 --> 00:07:22,279
+You have to kind of be a genius if you
+
+125
+00:07:22,280 --> 00:07:26,829
+want to create Google, but 99.9%
+
+126
+00:07:26,830 --> 00:07:31,809
+of successful startups are not Google and yet still lead to
+
+127
+00:07:31,810 --> 00:07:35,239
+very rewarding careers where you can work for yourself,
+
+128
+00:07:35,340 --> 00:07:39,569
+choose your own destiny, have your own experiences and make a lot
+
+129
+00:07:39,570 --> 00:07:43,209
+of money doing it but you have a problem.
+
+130
+00:07:43,760 --> 00:07:46,519
+That problem is you have to get started.
+
+131
+00:07:47,330 --> 00:07:49,079
+So how did I get started?
+
+132
+00:07:49,410 --> 00:07:51,929
+I was working at what was called Andersen Consulting.
+
+133
+00:07:51,930 --> 00:07:53,099
+It's not called Accenture.
+
+134
+00:07:53,100 --> 00:07:57,789
+I started as a software developer and we did what probably
+
+135
+00:07:57,790 --> 00:08:00,809
+a lot of you guys do or you will do in the next five years,
+
+136
+00:08:00,810 --> 00:08:03,949
+is we sat around with a bunch of buddies after work at
+
+137
+00:08:03,950 --> 00:08:07,914
+a coffee shop and we talked about starting a company.
+
+138
+00:08:08,100 --> 00:08:11,009
+We seemed to do this for about nine freaking
+
+139
+00:08:11,010 --> 00:08:15,184
+months and nobody would do anything about it.
+
+140
+00:08:15,520 --> 00:08:18,459
+Many years later and this is always how it goes,
+
+141
+00:08:18,460 --> 00:08:21,649
+everyone said I had the idea to do something
+
+142
+00:08:21,650 --> 00:08:24,929
+like Skype and if I would have only done it.
+
+143
+00:08:25,480 --> 00:08:29,074
+I'm sure you've heard people say that. I had the idea for eBay.
+
+144
+00:08:29,290 --> 00:08:31,549
+I had it long before eBay started.
+
+145
+00:08:31,830 --> 00:08:36,649
+But really, people don't do anything about it,
+
+146
+00:08:36,650 --> 00:08:39,964
+so I like to tell people if you have conviction
+
+147
+00:08:40,210 --> 00:08:43,808
+in life to be an entrepreneur and I want to tell
+
+148
+00:08:43,808 --> 00:08:45,319
+you and it's part of my presentation later,
+
+149
+00:08:45,320 --> 00:08:50,419
+being an entrepreneur is not sexy.
+
+150
+00:08:51,300 --> 00:08:54,069
+It is pretty awful.
+
+151
+00:08:54,640 --> 00:08:59,624
+It is stress, long hours, huge responsibility,
+
+152
+00:08:59,750 --> 00:09:04,909
+huge pressure, competitive. It is not for everybody.
+
+153
+00:09:04,910 --> 00:09:08,559
+It's a rare unique individual who chooses to do this
+
+154
+00:09:08,680 --> 00:09:10,874
+really crazy thing called being an entrepreneur.
+
+155
+00:09:11,020 --> 00:09:15,929
+But if in your gut you think that's you or you want it to be you,
+
+156
+00:09:16,230 --> 00:09:21,219
+this is the single biggest gate in gating items
+
+157
+00:09:21,220 --> 00:09:23,469
+that keeps most people from being entrepreneurs,
+
+158
+00:09:23,560 --> 00:09:25,999
+starting, as dumb as it sounds.
+
+159
+00:09:26,820 --> 00:09:28,259
+The next mistake I made,
+
+160
+00:09:28,260 --> 00:09:30,324
+and by the way I didn't start by saying this,
+
+161
+00:09:30,360 --> 00:09:34,189
+I made every mistake at my first startup, every single one.
+
+162
+00:09:34,220 --> 00:09:37,179
+You name it. If you read it on a blogger and a textbook, I made it.
+
+163
+00:09:37,270 --> 00:09:40,049
+I raised too much capital. I hired too many people.
+
+164
+00:09:40,050 --> 00:09:43,689
+I started talking in the press before my product was any good.
+
+165
+00:09:43,690 --> 00:09:47,669
+I charged too much for my products. I staffed up quickly.
+
+166
+00:09:47,670 --> 00:09:50,519
+I built four products in five countries.
+
+167
+00:09:53,524 --> 00:09:57,179
+The one thing I had was the conviction to see it through.
+
+168
+00:09:57,920 --> 00:10:02,099
+I'm going to talk about this later, this BS idea of fail fast.
+
+169
+00:10:02,620 --> 00:10:05,749
+I said I made a commitment. I took people's money.
+
+170
+00:10:05,750 --> 00:10:10,069
+I got people to quit their jobs. I told customers to use our product
+
+171
+00:10:10,350 --> 00:10:11,429
+and I'm going to see this through.
+
+172
+00:10:11,430 --> 00:10:13,679
+I'm going to be better than just having
+
+173
+00:10:13,680 --> 00:10:16,374
+been a bunch of PR and marketing.
+
+174
+00:10:16,740 --> 00:10:20,489
+The one mistake I made because I did see it through,
+
+175
+00:10:20,860 --> 00:10:23,149
+the one mistake I made was I chose a
+
+176
+00:10:23,150 --> 00:10:25,569
+topic that I wasn't passionate about.
+
+177
+00:10:26,480 --> 00:10:32,374
+I'm passionate about technology. I'm passionate about film.
+
+178
+00:10:32,630 --> 00:10:36,809
+I've spent a lot of time in the corporate world on corporate initiatives
+
+179
+00:10:36,810 --> 00:10:41,789
+before I ever got started as an entrepreneur but the way that I got
+
+180
+00:10:41,790 --> 00:10:45,919
+started was a friend of mine from business school had an idea.
+
+181
+00:10:46,800 --> 00:10:50,289
+His idea was we could make engineering and construction
+
+182
+00:10:50,290 --> 00:10:55,199
+firms imminently more effective and efficient.
+
+183
+00:10:55,470 --> 00:10:57,329
+The way we would do that is we would take an
+
+184
+00:10:57,330 --> 00:11:00,529
+industry that on average spend about 0.7%
+
+185
+00:11:00,530 --> 00:11:06,101
+of revenue on R&D and IT and IT initiatives compared to
+
+186
+00:11:06,201 --> 00:11:09,834
+between 1.5 to 2.4% for most companies.
+
+187
+00:11:10,050 --> 00:11:12,839
+And because they were so far behind in IT,
+
+188
+00:11:12,840 --> 00:11:15,149
+there was such a gap that we could
+
+189
+00:11:15,150 --> 00:11:17,619
+really revolutionize this industry.
+
+190
+00:11:17,700 --> 00:11:20,859
+Construction, engineering, transportation, these big projects
+
+191
+00:11:20,860 --> 00:11:24,569
+represent between 11 to 13% of GDP;
+
+192
+00:11:25,070 --> 00:11:28,599
+big market, ripe for innovation,
+
+193
+00:11:28,890 --> 00:11:32,179
+actually could've done something huge. I still believe it.
+
+194
+00:11:32,920 --> 00:11:37,239
+I just hated it. I hated going to all these stupid meetings
+
+195
+00:11:37,240 --> 00:11:39,549
+with all the contractors and engineers.
+
+196
+00:11:39,550 --> 00:11:43,539
+We're talking about stuff that I'm sure was really fascinating.
+
+197
+00:11:45,270 --> 00:11:49,409
+I'm sure people have no interest in the
+
+198
+00:11:49,410 --> 00:11:51,139
+tech stuff that I'm interested in,
+
+199
+00:11:51,140 --> 00:11:54,649
+like I live in LA where people like to talk about scripts and Hollywood
+
+200
+00:11:54,650 --> 00:11:58,339
+and they kind of get bored if I'm talking about Jason,
+
+201
+00:11:58,540 --> 00:12:02,249
+but it's what I'm passionate about.
+
+202
+00:12:02,250 --> 00:12:06,719
+Choose something that you are. You need to do a bit of research.
+
+203
+00:12:06,720 --> 00:12:15,179
+Silicon Valley, you're not going to want to hear this, is lazy.
+
+204
+00:12:16,010 --> 00:12:18,559
+I don't mean lazy as in don't do your hard
+
+205
+00:12:18,560 --> 00:12:21,669
+work or work long hours or productive.
+
+206
+00:12:21,850 --> 00:12:24,739
+I certainly wouldn't accuse Silicon Valley
+
+207
+00:12:24,740 --> 00:12:27,889
+of not being smart and innovative.
+
+208
+00:12:27,890 --> 00:12:31,764
+It is a model or us all to learn from, myself included.
+
+209
+00:12:32,150 --> 00:12:33,539
+But for whatever reason,
+
+210
+00:12:33,540 --> 00:12:35,789
+this town has come up with the idea that doing
+
+211
+00:12:35,790 --> 00:12:38,659
+research about a market is a bad thing,
+
+212
+00:12:38,800 --> 00:12:42,629
+as though somehow I just have to launch products and learn.
+
+213
+00:12:43,590 --> 00:12:45,199
+But the most basic of research,
+
+214
+00:12:45,200 --> 00:12:49,059
+I'm not talking about writing an 80-page Word document.
+
+215
+00:12:49,870 --> 00:12:54,014
+I'm talking about doing a spreadsheet, some basic economics,
+
+216
+00:12:54,140 --> 00:12:55,739
+like if you're going to launch something,
+
+217
+00:12:55,740 --> 00:12:58,829
+asking yourself the question, what do I imagine someday?
+
+218
+00:12:58,940 --> 00:13:01,349
+Do I imagine someone's going to pay me for this product
+
+219
+00:13:01,350 --> 00:13:03,429
+or am I going to monetize for third party?
+
+220
+00:13:03,430 --> 00:13:07,049
+If they're going to pay me for it, what else are they paying for?
+
+221
+00:13:07,050 --> 00:13:10,099
+Basic microeconomics, what am I replacing?
+
+222
+00:13:10,390 --> 00:13:13,069
+If it's going to be third party revenues,
+
+223
+00:13:13,070 --> 00:13:16,149
+is that going to be ad supported, is that going to be selling data?
+
+224
+00:13:16,150 --> 00:13:17,424
+If it's ad supported,
+
+225
+00:13:17,560 --> 00:13:21,249
+what are industry CPMs these days for a vertical offering,
+
+226
+00:13:21,250 --> 00:13:24,409
+for a horizontal offering, for an email newsletter?
+
+227
+00:13:24,670 --> 00:13:27,699
+If I'm in the email newsletter business, who else is in there?
+
+228
+00:13:27,700 --> 00:13:30,134
+What are the click-through rates?
+
+229
+00:13:30,230 --> 00:13:33,569
+What have the people who have come before done? What worked?
+
+230
+00:13:33,570 --> 00:13:36,589
+What didn't work? When people come to see me and they don't know the
+
+231
+00:13:36,590 --> 00:13:39,509
+history of the industry that they're choosing,
+
+232
+00:13:39,510 --> 00:13:44,469
+I pass always because if you're not going to do that research,
+
+233
+00:13:44,470 --> 00:13:46,929
+it tells me that you're probably not the kind of person
+
+234
+00:13:46,930 --> 00:13:49,419
+in my opinion who's going to do big things.
+
+235
+00:13:49,420 --> 00:13:54,189
+And yes, people win the lottery.
+
+236
+00:13:55,310 --> 00:13:57,939
+Everyone likes to use that as an example of why
+
+237
+00:13:57,940 --> 00:14:00,644
+I can just launch Twitter and see what happens,
+
+238
+00:14:01,040 --> 00:14:03,474
+but the exception does not prove the rule.
+
+239
+00:14:03,650 --> 00:14:07,559
+I'm just talking about the most basic research.
+
+240
+00:14:07,660 --> 00:14:11,589
+You do yourself all a favor and get a prototype built.
+
+241
+00:14:11,920 --> 00:14:13,829
+When I started BuildOnline,
+
+242
+00:14:13,830 --> 00:14:17,379
+it took about $2 million to get the company off the ground.
+
+243
+00:14:17,720 --> 00:14:21,529
+Why? I had to buy Sun serves; I had to buy Solaris;
+
+244
+00:14:21,530 --> 00:14:23,614
+I had to get an Oracle license;
+
+245
+00:14:23,700 --> 00:14:27,799
+I had to have expensive web hosting, bandwidth was really expensive.
+
+246
+00:14:27,800 --> 00:14:32,524
+It's not longer the case.
+
+247
+00:14:32,720 --> 00:14:37,140
+It costs $15,000 to $20,000, maybe even $5,000 to $10,000
+
+248
+00:14:37,240 --> 00:14:42,060
+to get initial prototypes built.
+
+249
+00:14:43,240 --> 00:14:45,919
+I don't know. Are there engineers in the room or software developers?
+
+250
+00:14:45,920 --> 00:14:47,609
+Can you raise your hand if you develop software?
+
+251
+00:14:47,750 --> 00:14:48,909
+So for all you people,
+
+252
+00:14:48,910 --> 00:14:52,674
+you have a huge advantage which is you can do most of this yourself.
+
+253
+00:14:52,920 --> 00:14:55,334
+For anyone who can't do it themselves,
+
+254
+00:14:55,490 --> 00:14:59,479
+I still encourage you even if it's throwaway
+
+255
+00:14:59,480 --> 00:15:03,044
+software to get that first veneer built. Why?
+
+256
+00:15:03,400 --> 00:15:05,674
+All this stuff Steve Blank talks about,
+
+257
+00:15:05,920 --> 00:15:08,354
+going and testing it with customers.
+
+258
+00:15:08,480 --> 00:15:11,119
+They can't visualize their way into deciding
+
+259
+00:15:11,120 --> 00:15:12,944
+if you've got an interesting offering.
+
+260
+00:15:13,080 --> 00:15:16,849
+It is far better to sit with HTML mockups and walk people
+
+261
+00:15:16,850 --> 00:15:19,819
+through what you do and get feedback on that and say,
+
+262
+00:15:19,820 --> 00:15:23,269
+well, what are you using today to do this and how
+
+263
+00:15:23,270 --> 00:15:26,184
+would you imagine working through this workflow?
+
+264
+00:15:26,360 --> 00:15:29,624
+How much would you pay for an offering like this?
+
+265
+00:15:29,720 --> 00:15:31,479
+And being able to show people.
+
+266
+00:15:31,570 --> 00:15:34,649
+When you're raising money being able to show venture capitalists
+
+267
+00:15:34,650 --> 00:15:39,559
+what you have is almost a requirement these days.
+
+268
+00:15:39,560 --> 00:15:43,769
+I still see a lot of people who are pitching ideas of what they
+
+269
+00:15:43,770 --> 00:15:48,029
+want to build and I just don't think in 2010 that's acceptable.
+
+270
+00:15:50,574 --> 00:15:52,999
+Most of that is fairly straightforward.
+
+271
+00:15:53,000 --> 00:15:56,769
+I want to go into the heresy bit a little bit.
+
+272
+00:15:57,080 --> 00:16:00,589
+So this bit's not heresy: assemble a diverse team.
+
+273
+00:16:00,780 --> 00:16:03,769
+I can't remember who told me. I do remember who told me.
+
+274
+00:16:03,770 --> 00:16:05,059
+Seth Sternberg.
+
+275
+00:16:05,290 --> 00:16:09,949
+I was talking with Seth of Meebo maybe about a month ago and he said,
+
+276
+00:16:09,950 --> 00:16:12,744
+you know what, tall people hang out with tall people.
+
+277
+00:16:15,177 --> 00:16:18,439
+Obviously, I have no experience from which to judge that
+
+278
+00:16:19,120 --> 00:16:22,499
+but he said short people hang out with short people.
+
+279
+00:16:23,320 --> 00:16:26,974
+I guess as an average person, I hang out with average people.
+
+280
+00:16:26,990 --> 00:16:32,089
+We tend to hang out with people who are kind of like us.
+
+281
+00:16:32,090 --> 00:16:35,079
+He was saying his number one advice and I agree with it,
+
+282
+00:16:35,080 --> 00:16:36,409
+is get outside your box,
+
+283
+00:16:36,410 --> 00:16:40,189
+figure out the people you're going to assemble around yourself
+
+284
+00:16:40,190 --> 00:16:43,519
+that are different from you that you can learn from,
+
+285
+00:16:43,520 --> 00:16:44,719
+they're going to stretch you.
+
+286
+00:16:44,720 --> 00:16:47,034
+If you are naturally an introvert,
+
+287
+00:16:47,240 --> 00:16:50,799
+there ought to be someone on your team who's an extrovert who's going
+
+288
+00:16:50,800 --> 00:16:54,569
+to spend a little bit more time out with customers and business development
+
+289
+00:16:54,570 --> 00:16:57,129
+and pushing things that maybe is your comfort zone.
+
+290
+00:16:57,400 --> 00:16:59,099
+You still got to go do it.
+
+291
+00:17:00,190 --> 00:17:02,889
+You're going to learn from them but having people that you
+
+292
+00:17:02,890 --> 00:17:05,849
+push outside your comfort zone for me is really important.
+
+293
+00:17:05,850 --> 00:17:08,529
+So thinking in terms of diversity.
+
+294
+00:17:09,920 --> 00:17:17,039
+Heresy. The biggest illusion that comes to you as an individual
+
+295
+00:17:17,150 --> 00:17:22,374
+comes before you ever see an evil venture capitalist.
+
+296
+00:17:22,640 --> 00:17:24,559
+You're going to argue to me that you should
+
+297
+00:17:24,560 --> 00:17:28,524
+only take 22% dilution instead of 24%.
+
+298
+00:17:28,680 --> 00:17:33,629
+We're going to fight over 0.75%.
+
+299
+00:17:34,760 --> 00:17:38,139
+You're going to fight with me about whether we should have a 15%
+
+300
+00:17:38,140 --> 00:17:43,494
+option pull versus 17% option pull versus 13% option pull,
+
+301
+00:17:43,650 --> 00:17:46,789
+but you're willing to see two-thirds of the value of your company
+
+302
+00:17:46,790 --> 00:17:49,469
+walk out the door before you've ever done a day's work.
+
+303
+00:17:49,730 --> 00:17:52,979
+I just don't get that.
+
+304
+00:17:54,120 --> 00:17:55,199
+I don't get it.
+
+305
+00:17:55,800 --> 00:17:59,159
+If you're trying to create something and create value for
+
+306
+00:17:59,160 --> 00:18:02,124
+yourself and you have the confidence of your conviction,
+
+307
+00:18:02,270 --> 00:18:05,669
+my recommendation is to start on your own.
+
+308
+00:18:07,150 --> 00:18:10,389
+That's the biggest heresy that I'll ever say.
+
+309
+00:18:10,570 --> 00:18:13,879
+Now, there are people for which are missing
+
+310
+00:18:13,880 --> 00:18:16,304
+certain skill sets to build a company.
+
+311
+00:18:16,540 --> 00:18:20,419
+That's okay. I just have a sequencing for them.
+
+312
+00:18:20,580 --> 00:18:26,514
+Because that you are paid such a premium to take the first leap,
+
+313
+00:18:26,660 --> 00:18:28,954
+my Andersen Consulting experience,
+
+314
+00:18:29,050 --> 00:18:32,129
+sitting around with a bunch of guys who just kept saying,
+
+315
+00:18:32,290 --> 00:18:34,159
+we should do this and we should do that,
+
+316
+00:18:34,240 --> 00:18:38,849
+and I freaking did it and then they came to work for me for 1%.
+
+317
+00:18:40,510 --> 00:18:46,049
+They come to work for me for 1% four months after I jumped.
+
+318
+00:18:48,000 --> 00:18:52,749
+Now, don't misunderstand me.
+
+319
+00:18:53,580 --> 00:18:57,129
+I believe in having partners.
+
+320
+00:18:57,500 --> 00:19:02,484
+I believe in inviting people in and giving them large stakes.
+
+321
+00:19:02,610 --> 00:19:04,839
+That stake may even be 20%,
+
+322
+00:19:04,840 --> 00:19:12,653
+25%, 30%, 35% but there's kind of a mythology in Silicon Valley
+
+323
+00:19:12,753 --> 00:19:19,169
+which is that the cofounder's model is the only model
+
+324
+00:19:19,170 --> 00:19:23,444
+and we know it because we have Larry and Sergey and we have
+
+325
+00:19:23,540 --> 00:19:27,749
+Steve Chen and Chad Hurley and David and Jerry.
+
+326
+00:19:27,910 --> 00:19:30,464
+Each of these images that I pulled up,
+
+327
+00:19:30,830 --> 00:19:32,499
+I never had to type the last name.
+
+328
+00:19:32,500 --> 00:19:36,239
+I literally just typed Jerry and David and it came up,
+
+329
+00:19:36,240 --> 00:19:38,959
+and I typed Steve and Chad and it came up.
+
+330
+00:19:38,960 --> 00:19:42,909
+That's how baked into our system it is.
+
+331
+00:19:43,220 --> 00:19:48,469
+Just because this model has worked does not mean the model works.
+
+332
+00:19:48,620 --> 00:19:51,534
+I'm here to tell you what happens on the inside
+
+333
+00:19:51,910 --> 00:19:54,619
+because we know most companies fail.
+
+334
+00:19:55,420 --> 00:19:59,929
+I spent so much time as a marriage counselor
+
+335
+00:20:01,180 --> 00:20:03,539
+with startups who don't get along,
+
+336
+00:20:04,220 --> 00:20:06,569
+and it happens something like this.
+
+337
+00:20:06,740 --> 00:20:11,429
+Life event, someone wants to throw himself at this company,
+
+338
+00:20:11,430 --> 00:20:12,449
+the other person doesn't.
+
+339
+00:20:12,450 --> 00:20:15,409
+Someone gets married and they have a girlfriend or boyfriend
+
+340
+00:20:15,520 --> 00:20:17,559
+and they get pulled to other opportunities.
+
+341
+00:20:17,560 --> 00:20:21,179
+Some people perform better, some don't. We had cofounders;
+
+342
+00:20:21,180 --> 00:20:23,139
+we didn't decide who was CEO.
+
+343
+00:20:23,270 --> 00:20:25,839
+Now we got a company and people are interested in funding us.
+
+344
+00:20:25,840 --> 00:20:27,339
+Which one of us is going to be CEO?
+
+345
+00:20:27,340 --> 00:20:32,839
+These kinds of issues are garden variety happen all the time.
+
+346
+00:20:32,840 --> 00:20:35,069
+We just don't talk about them because we know
+
+347
+00:20:35,070 --> 00:20:37,619
+this Silicon Valley myth that it always works.
+
+348
+00:20:37,880 --> 00:20:39,869
+So for me, it's a sequencing thing.
+
+349
+00:20:39,870 --> 00:20:43,369
+I say to people even if you started and you decided to
+
+350
+00:20:43,370 --> 00:20:47,379
+give 45% to somebody else to do it but ultimately,
+
+351
+00:20:47,380 --> 00:20:50,589
+I prefer a stable environment where I have a passionate founder,
+
+352
+00:20:50,590 --> 00:20:53,329
+passionate leader, willing to share equity,
+
+353
+00:20:53,330 --> 00:20:57,509
+willing to bring people in decision-making but divorce clauses.
+
+354
+00:20:58,290 --> 00:21:00,239
+I saw a company recently,
+
+355
+00:21:00,290 --> 00:21:05,449
+very interesting company that had two cofounders and one
+
+356
+00:21:05,450 --> 00:21:09,014
+of them walked and they didn't have founder vesting,
+
+357
+00:21:09,230 --> 00:21:12,829
+so the guy who walked has a free ride on 50%
+
+358
+00:21:12,830 --> 00:21:15,364
+equity while the other mug sweats his,
+
+359
+00:21:15,710 --> 00:21:19,639
+I won't say it, and tries to create something
+
+360
+00:21:19,640 --> 00:21:21,399
+big for this guy who's not even working.
+
+361
+00:21:21,400 --> 00:21:25,569
+If you go for the cofounder model which I'm not telling
+
+362
+00:21:25,570 --> 00:21:28,599
+you don't do it because I know everybody likes to,
+
+363
+00:21:29,800 --> 00:21:33,339
+make sure you have founder vesting.
+
+364
+00:21:34,000 --> 00:21:37,209
+You protect yourself as an individual and
+
+365
+00:21:37,210 --> 00:21:39,909
+you protect your partner by the way,
+
+366
+00:21:39,910 --> 00:21:42,624
+too, because it might be you who decides not to work.
+
+367
+00:21:42,790 --> 00:21:44,959
+There has to be a clause that says what
+
+368
+00:21:44,960 --> 00:21:46,369
+happens if we fall out of love.
+
+369
+00:21:46,370 --> 00:21:50,104
+What happens if one person's passionate and the other person isn't?
+
+370
+00:21:50,460 --> 00:21:54,389
+I will tell you also it becomes a problem in fundraising.
+
+371
+00:21:54,570 --> 00:21:55,749
+We look at a company.
+
+372
+00:21:55,750 --> 00:21:58,504
+We see four founders, two of them are gone,
+
+373
+00:21:58,660 --> 00:22:02,039
+two of them only have 12% equity each
+
+374
+00:22:02,160 --> 00:22:03,799
+because they raised angel money.
+
+375
+00:22:03,800 --> 00:22:04,919
+They had four founders,
+
+376
+00:22:04,920 --> 00:22:07,854
+they started at 25, they got diluted down to 12.
+
+377
+00:22:08,130 --> 00:22:11,109
+As a venture capitalist, I'm just thinking okay,
+
+378
+00:22:11,170 --> 00:22:16,019
+let me tell you what happens. I put in money, your 12% becomes 8%.
+
+379
+00:22:16,140 --> 00:22:21,729
+We do another round, your 8% becomes 5% and then I got to top you out
+
+380
+00:22:21,730 --> 00:22:24,569
+with stock options and we play this BS game.
+
+381
+00:22:24,730 --> 00:22:27,854
+So often when I see situations like that
+
+382
+00:22:27,970 --> 00:22:30,114
+and I think some VCs feel like this,
+
+383
+00:22:30,270 --> 00:22:32,668
+I just prefer not to get involved.
+
+384
+00:22:34,000 --> 00:22:36,129
+Make sure that tech is part of your DNA.
+
+385
+00:22:36,130 --> 00:22:38,469
+I'm probably in the wrong place to say this message
+
+386
+00:22:38,470 --> 00:22:40,939
+because I think it's pretty well understood here,
+
+387
+00:22:40,940 --> 00:22:44,049
+but particularly outside of Silicon Valley you see a lot
+
+388
+00:22:44,050 --> 00:22:47,339
+of people who have third parties build their software.
+
+389
+00:22:47,790 --> 00:22:50,259
+I'm okay if a third party builds your prototype just
+
+390
+00:22:50,260 --> 00:22:53,609
+to get it up and running but you have got to.
+
+391
+00:22:53,610 --> 00:22:56,909
+If you want to be an internet business or a tech business,
+
+392
+00:22:56,910 --> 00:23:02,219
+you got to have a foundation, the DNA has got to be technical.
+
+393
+00:23:02,700 --> 00:23:08,399
+I guess Jason Neus in LA can attest to this how many people in LA
+
+394
+00:23:08,400 --> 00:23:12,089
+come to me and it's three business guys who know Ashton Kutcher.
+
+395
+00:23:15,004 --> 00:23:17,433
+You don't know Ashton, do you?
+
+396
+00:23:19,275 --> 00:23:22,899
+Did I say that to you when you came in? Okay, sorry.
+
+397
+00:23:23,030 --> 00:23:26,149
+But I normally tell people it's for your own good,
+
+398
+00:23:26,150 --> 00:23:29,099
+go find a tech person because this idea that I can
+
+399
+00:23:29,100 --> 00:23:31,599
+have a third party build it for cheap somewhere
+
+400
+00:23:31,600 --> 00:23:34,389
+else and we're the business guys, we get it.
+
+401
+00:23:34,390 --> 00:23:37,624
+It just never works. It never scales. It never becomes interesting.
+
+402
+00:23:37,800 --> 00:23:41,504
+People often don't think about when businesses are bought,
+
+403
+00:23:41,600 --> 00:23:43,019
+if they're bought on profits,
+
+404
+00:23:43,020 --> 00:23:44,509
+okay, they're buying you for a different reason but
+
+405
+00:23:44,510 --> 00:23:48,979
+if they're really buying you in the $15 to $50 million
+
+406
+00:23:48,980 --> 00:23:54,239
+range which I will repeat, is a lot of money.
+
+407
+00:23:54,240 --> 00:23:58,479
+If they buy you in that range, they're often buying what you have,
+
+408
+00:23:58,480 --> 00:24:01,814
+the technology, the market positioning but they want you,
+
+409
+00:24:01,930 --> 00:24:06,579
+they want your team. They don't want to buy something that has eight
+
+410
+00:24:06,580 --> 00:24:09,739
+guys remote for a third party building software.
+
+411
+00:24:10,100 --> 00:24:15,049
+Raising capital, I always tell people that you obviously need
+
+412
+00:24:15,050 --> 00:24:17,859
+to raise capital but be careful about raising too much.
+
+413
+00:24:18,470 --> 00:24:22,819
+You start by raising a small amount enough to really get going.
+
+414
+00:24:23,190 --> 00:24:24,789
+Why do I say this?
+
+415
+00:24:25,610 --> 00:24:29,799
+There are people who build an interesting idea. It gets competitive.
+
+416
+00:24:29,800 --> 00:24:33,659
+They have talents. They have a PhD from Stanford and they
+
+417
+00:24:33,660 --> 00:24:37,319
+can raise $5 million from the get-go.
+
+418
+00:24:37,320 --> 00:24:39,269
+Let's say they raise it at an $8 million and
+
+419
+00:24:39,270 --> 00:24:41,439
+pre and they diluted more than they should.
+
+420
+00:24:42,060 --> 00:24:44,739
+In a business, there are two problems with raising too
+
+421
+00:24:44,740 --> 00:24:46,979
+much capital too quickly and I made both of them,
+
+422
+00:24:47,040 --> 00:24:48,509
+I made both mistakes.
+
+423
+00:24:48,810 --> 00:24:52,579
+Number one is the expectations of you are that you're
+
+424
+00:24:52,580 --> 00:24:55,819
+going to do something big and you got to go fast,
+
+425
+00:24:55,910 --> 00:24:58,849
+and I say it's like adding rocket fuel before
+
+426
+00:24:58,850 --> 00:25:01,459
+you really know where the rocket is pointing.
+
+427
+00:25:02,130 --> 00:25:04,394
+It's very destructive to a company.
+
+428
+00:25:04,520 --> 00:25:06,469
+You will feel pressured to spend it and
+
+429
+00:25:06,470 --> 00:25:08,214
+you'll feel pressured to go fast.
+
+430
+00:25:08,400 --> 00:25:13,984
+The second thing is you take all your options off the table.
+
+431
+00:25:14,180 --> 00:25:16,809
+Whatever you're building isn't working,
+
+432
+00:25:17,040 --> 00:25:21,749
+wouldn't you like to have some option to safely park something,
+
+433
+00:25:21,750 --> 00:25:25,119
+meaning a sale that's not huge but at
+
+434
+00:25:25,120 --> 00:25:28,929
+least preserves what you've built, preserves the customers,
+
+435
+00:25:29,020 --> 00:25:32,099
+preserves some of the jobs from the people you took out of their other
+
+436
+00:25:32,100 --> 00:25:36,689
+companies and maybe creates a little bit of wealth for yourself?
+
+437
+00:25:37,550 --> 00:25:40,854
+You give up that option if you raise too much too quickly.
+
+438
+00:25:41,140 --> 00:25:43,649
+So I want to tell you an interesting story.
+
+439
+00:25:43,650 --> 00:25:46,949
+Two days ago, I was on this god-awful website,
+
+440
+00:25:47,450 --> 00:25:52,689
+it's called Formspring. Do you guys use it? Really?
+
+441
+00:25:53,200 --> 00:25:57,459
+I got suckered in the way probably some other
+
+442
+00:25:57,460 --> 00:26:01,029
+people as someone posed a question about me.
+
+443
+00:26:01,840 --> 00:26:07,969
+Mark Suster says that a lean startup shouldn't raise that much money
+
+444
+00:26:07,970 --> 00:26:12,789
+and then eventually if it hits product market fit should become fat.
+
+445
+00:26:15,310 --> 00:26:17,449
+I said that. It's true.
+
+446
+00:26:17,830 --> 00:26:22,129
+Eric Reese, one of the most beloved young speakers,
+
+447
+00:26:22,130 --> 00:26:24,269
+lecturers in Silicon Valley,
+
+448
+00:26:24,270 --> 00:26:28,329
+someone who's reading I read and enjoy wrote
+
+449
+00:26:28,330 --> 00:26:29,979
+a response which I found curious.
+
+450
+00:26:29,980 --> 00:26:37,289
+He said, Mark misunderstood the meaning of the term lean startup.
+
+451
+00:26:37,720 --> 00:26:40,899
+Luckily, there's an internet so I pulled up the definition of lean.
+
+452
+00:26:41,840 --> 00:26:43,969
+Without much flesh or fat,
+
+453
+00:26:43,970 --> 00:26:47,079
+not plump, of edible meat containing little or no fat,
+
+454
+00:26:47,080 --> 00:26:50,729
+lacking in richness, full, spare, economical.
+
+455
+00:26:51,350 --> 00:26:54,679
+And yet he says the lean startup is about moving fast.
+
+456
+00:26:55,720 --> 00:26:58,234
+The fast startup is about moving fast.
+
+457
+00:26:58,580 --> 00:27:01,099
+The rapid startup is about moving fast.
+
+458
+00:27:01,100 --> 00:27:05,189
+The quick startup, not the lean startup.
+
+459
+00:27:06,060 --> 00:27:07,779
+Okay, it's not my movement,
+
+460
+00:27:07,780 --> 00:27:13,379
+I'll let you have your movement but I believe in lean startup.
+
+461
+00:27:14,390 --> 00:27:16,434
+Then something changes.
+
+462
+00:27:16,650 --> 00:27:19,774
+You raised a little bit of money, you work on your product.
+
+463
+00:27:19,890 --> 00:27:22,469
+You don't do what I did which is spend too much money,
+
+464
+00:27:22,470 --> 00:27:26,299
+hire a bunch of developers before you figured it all out.
+
+465
+00:27:26,300 --> 00:27:29,479
+What I often tell people is you should be flipping hamburgers
+
+466
+00:27:29,480 --> 00:27:31,579
+if you're going to run a hamburger chain.
+
+467
+00:27:32,100 --> 00:27:35,519
+That means that you're doing customer support,
+
+468
+00:27:35,520 --> 00:27:38,519
+you're answering phone calls, you're going on sales calls,
+
+469
+00:27:38,630 --> 00:27:42,199
+you're involved in product management, you do user testing.
+
+470
+00:27:42,410 --> 00:27:44,909
+Raising too much capital too quickly before there's
+
+471
+00:27:44,910 --> 00:27:48,159
+a product market fit makes this very hard to do.
+
+472
+00:27:48,720 --> 00:27:52,069
+So I sort of agree with what Ben Horowitz
+
+473
+00:27:52,070 --> 00:27:57,129
+said which is the fat startup, and it's okay later in life,
+
+474
+00:27:57,330 --> 00:28:01,469
+obviously I would think this, to get a bit fat.
+
+475
+00:28:02,070 --> 00:28:08,344
+What I mean is if you become Foursquare, you got two choices.
+
+476
+00:28:08,700 --> 00:28:13,249
+You can sell and that $100 million outcome for most people that
+
+477
+00:28:13,250 --> 00:28:16,319
+Yahoo reportedly had offered would have been quite the nice,
+
+478
+00:28:16,650 --> 00:28:19,209
+but the founders that already had one exit and I think they
+
+479
+00:28:19,210 --> 00:28:21,924
+really wanted to change the world and I think that's great.
+
+480
+00:28:22,080 --> 00:28:24,959
+But if you're going to change the world and you wake up the
+
+481
+00:28:24,960 --> 00:28:28,694
+sleeping lions of Silicon Valley to this opportunity,
+
+482
+00:28:28,830 --> 00:28:32,569
+you better get fat pretty quickly because you've got
+
+483
+00:28:32,570 --> 00:28:35,129
+yelp in town here and those guys are smart and move
+
+484
+00:28:35,130 --> 00:28:37,719
+fast and you obviously have Facebook in town.
+
+485
+00:28:37,720 --> 00:28:40,549
+Those guys are very smart and move very fast.
+
+486
+00:28:40,710 --> 00:28:43,219
+So if you're going to compete with people in
+
+487
+00:28:43,220 --> 00:28:48,219
+what people call winner take most markets, you need to be fat.
+
+488
+00:28:48,420 --> 00:28:51,459
+So we see Groupon and LivingSocial who have
+
+489
+00:28:51,460 --> 00:28:53,949
+raised money and are big and are growing.
+
+490
+00:28:54,160 --> 00:28:55,189
+I don't think number 5,
+
+491
+00:28:55,190 --> 00:28:58,499
+6, 7, 8 are going to be that relevant in the long run.
+
+492
+00:28:59,320 --> 00:29:02,329
+So there are times where fat is okay.
+
+493
+00:29:02,980 --> 00:29:06,239
+The other Silicon Valley thing that I find really curious
+
+494
+00:29:06,240 --> 00:29:10,739
+is this idea of fail fast and people told me I misunderstood
+
+495
+00:29:10,740 --> 00:29:15,019
+fail fast so I looked it up in the dictionary.
+
+496
+00:29:15,020 --> 00:29:18,359
+To fall short of success in something you expected,
+
+497
+00:29:18,360 --> 00:29:20,719
+to receive less than passing grade or mark,
+
+498
+00:29:20,930 --> 00:29:25,509
+to be or become deficient or lacking, to dwindle away, pass or die.
+
+499
+00:29:25,640 --> 00:29:28,469
+And yet, the fail fast mantra somehow in
+
+500
+00:29:28,470 --> 00:29:31,259
+Silicon Valley means launch product,
+
+501
+00:29:31,320 --> 00:29:34,554
+see what people think about it, pivot, change your product.
+
+502
+00:29:34,660 --> 00:29:37,089
+How is that failing fast?
+
+503
+00:29:37,700 --> 00:29:39,869
+Okay, I know everyone likes to attack me when I say
+
+504
+00:29:39,870 --> 00:29:43,529
+that because I'm slaying a dragon or sacred cows.
+
+505
+00:29:43,530 --> 00:29:45,389
+Is that what they call them? Sacred cow.
+
+506
+00:29:47,250 --> 00:29:52,829
+I think the one thing I could teach Silicon Valley is,
+
+507
+00:29:52,830 --> 00:29:56,939
+first of all, your name should be your URL.
+
+508
+00:29:57,440 --> 00:29:58,789
+If your name is wildfire,
+
+509
+00:29:58,790 --> 00:30:03,259
+your URL should not be wildfire-interactive.com.
+
+510
+00:30:04,210 --> 00:30:07,039
+Call yourself wildfire-interactive.
+
+511
+00:30:08,510 --> 00:30:11,779
+Call yourself anything but this confusion in the
+
+512
+00:30:11,780 --> 00:30:15,689
+internet era doesn't make a lot of sense to me.
+
+513
+00:30:15,700 --> 00:30:18,669
+Make sure your name doesn't box you into a corner.
+
+514
+00:30:19,060 --> 00:30:23,589
+I said to Bill Gross, the guy who created Overture and jest when
+
+515
+00:30:23,590 --> 00:30:25,824
+he created a company called TweetUp,
+
+516
+00:30:25,960 --> 00:30:30,279
+I publicly said I predict within one year this company
+
+517
+00:30:30,280 --> 00:30:32,809
+will company will not be called TweetUp.
+
+518
+00:30:32,810 --> 00:30:37,649
+Why would you build something that has one channel, Twitter?
+
+519
+00:30:38,300 --> 00:30:42,739
+Why would you build something that has one channel, salesforce.com,
+
+520
+00:30:43,520 --> 00:30:46,939
+Apple iPhone, Facebook?
+
+521
+00:30:47,630 --> 00:30:50,609
+If you're building a product, you need multichannel.
+
+522
+00:30:50,610 --> 00:30:53,599
+It's okay to start somewhere but if you
+
+523
+00:30:53,600 --> 00:30:57,844
+don't start by thinking multichannel, I think you'll be in trouble.
+
+524
+00:30:58,080 --> 00:30:59,759
+Salesforce would have you believe,
+
+525
+00:30:59,760 --> 00:31:01,849
+and I know a thing or two about Salesforce that you
+
+526
+00:31:01,850 --> 00:31:05,759
+ought to build on their platform called force.com.
+
+527
+00:31:06,750 --> 00:31:08,699
+You ought to do that if you haven't thought
+
+528
+00:31:08,700 --> 00:31:10,279
+through how to build a company,
+
+529
+00:31:10,730 --> 00:31:14,229
+but if you've thought I want to have a multichannel strategy and
+
+530
+00:31:14,230 --> 00:31:18,949
+I don't want to be beholden to one individual component of that channel
+
+531
+00:31:18,950 --> 00:31:24,279
+and one player then I don't suggest it's a very good idea.
+
+532
+00:31:24,280 --> 00:31:27,649
+So TweetUp is now called PostUp. I was right.
+
+533
+00:31:27,650 --> 00:31:29,079
+I should have put money on it.
+
+534
+00:31:29,670 --> 00:31:32,269
+The second prediction I made not too long ago that
+
+535
+00:31:32,270 --> 00:31:34,809
+was that BlackBerry or the owner of BlackBerry,
+
+536
+00:31:34,810 --> 00:31:38,089
+RIM, would be sold within a year so we'll start the clock on that
+
+537
+00:31:38,090 --> 00:31:41,829
+one and see if I'm right on that but that's a total aside.
+
+538
+00:31:42,090 --> 00:31:45,079
+The thing I could teach Silicon Valley is the last one,
+
+539
+00:31:45,080 --> 00:31:50,364
+be careful about words that mean something else because
+
+540
+00:31:50,690 --> 00:31:54,289
+I'm sort of flippant about it but I see so many young
+
+541
+00:31:54,290 --> 00:31:58,299
+entrepreneurs these days who tell me, well, I raised $200,000.
+
+542
+00:31:58,300 --> 00:32:01,069
+I launched and learned and I created a product.
+
+543
+00:32:01,270 --> 00:32:02,279
+I didn't do any research.
+
+544
+00:32:02,280 --> 00:32:04,019
+They probably don't say that but they didn't.
+
+545
+00:32:04,260 --> 00:32:06,589
+The market didn't come so I'm shutting it
+
+546
+00:32:06,590 --> 00:32:10,929
+down and I'm moving on to my next one. I say wow, why?
+
+547
+00:32:11,590 --> 00:32:14,869
+Oh, well, I'm failing fast. Okay.
+
+548
+00:32:15,310 --> 00:32:18,599
+How about those customers who signed up for your service and
+
+549
+00:32:18,600 --> 00:32:22,069
+trusted you to at least give it your best college effort?
+
+550
+00:32:22,260 --> 00:32:26,819
+How about those employees who joined you even if it was $45,000
+
+551
+00:32:26,820 --> 00:32:29,869
+a year customer support person because they believed in your
+
+552
+00:32:29,870 --> 00:32:31,784
+vision and that you were going to stick this through?
+
+553
+00:32:31,930 --> 00:32:34,199
+How about the person who gave you $200,000?
+
+554
+00:32:34,200 --> 00:32:38,419
+It's okay if it was an evil venture capitalist because $200,000
+
+555
+00:32:38,420 --> 00:32:41,439
+is not that much money but how about everybody else?
+
+556
+00:32:42,540 --> 00:32:44,959
+I don't believe in stupidly staying with your business.
+
+557
+00:32:44,960 --> 00:32:47,274
+I stupidly stayed for six years.
+
+558
+00:32:47,460 --> 00:32:50,449
+I knew that I wasn't going to make that much money.
+
+559
+00:32:50,450 --> 00:32:54,879
+I knew that the structure of what I had built had inherent problems.
+
+560
+00:32:55,000 --> 00:32:57,029
+I knew that I wasn't passionate about it.
+
+561
+00:32:57,170 --> 00:32:59,419
+I probably after about four years should have
+
+562
+00:32:59,420 --> 00:33:02,329
+recruited someone more passionate than I was,
+
+563
+00:33:02,590 --> 00:33:05,369
+but I felt this deep sense of commitment.
+
+564
+00:33:05,570 --> 00:33:08,119
+I just hate that there's a whole generation
+
+565
+00:33:08,120 --> 00:33:10,554
+of people and I'm not saying everybody,
+
+566
+00:33:10,640 --> 00:33:12,729
+but there's certainly enough of them that don't feel
+
+567
+00:33:12,730 --> 00:33:15,579
+that same sense of commitment to see something through
+
+568
+00:33:15,670 --> 00:33:17,249
+when you say that you were going to do it.
+
+569
+00:33:17,860 --> 00:33:20,469
+So that's why I have an issue with fail fast.
+
+570
+00:33:20,710 --> 00:33:23,349
+And if you're going to call something lean startup,
+
+571
+00:33:23,350 --> 00:33:30,374
+I mean, I won't say it, I'm on tape.
+
+572
+00:33:30,630 --> 00:33:32,899
+Another conventional wisdom,
+
+573
+00:33:32,990 --> 00:33:35,619
+I say if you can avoid the three Fs, you should.
+
+574
+00:33:35,620 --> 00:33:38,089
+For anyone who doesn't know what the three Fs are,
+
+575
+00:33:38,090 --> 00:33:41,714
+it's friends, family and fools.
+
+576
+00:33:41,830 --> 00:33:44,374
+It's the mythology of where you start.
+
+577
+00:33:44,470 --> 00:33:48,964
+Okay, if your uncle, your father is Steve Jobs,
+
+578
+00:33:49,150 --> 00:33:50,649
+your cousin is Mark Zuckerberg,
+
+579
+00:33:50,650 --> 00:33:52,579
+you can start with friends and family.
+
+580
+00:33:54,320 --> 00:33:56,699
+But for everybody else if they're doctors
+
+581
+00:33:56,700 --> 00:33:58,339
+and dentists and architects,
+
+582
+00:33:58,340 --> 00:34:02,059
+I mean if you can't raise money somewhere else,
+
+583
+00:34:02,460 --> 00:34:05,759
+then I get it but you ought to try.
+
+584
+00:34:05,760 --> 00:34:11,109
+Why? Because your business is likely going to fail.
+
+585
+00:34:11,209 --> 00:34:15,469
+Hopefully not fast but fail.
+
+586
+00:34:15,760 --> 00:34:18,919
+It just creates this tension and awkwardness and doctors,
+
+587
+00:34:18,920 --> 00:34:22,689
+dentists, lawyers, pharmacy people,
+
+588
+00:34:22,860 --> 00:34:26,219
+teachers, whatever, they're not used to this
+
+589
+00:34:26,220 --> 00:34:29,009
+idea that I write a check and it's wasted.
+
+590
+00:34:29,290 --> 00:34:32,519
+I tell my wife literally every time I write
+
+591
+00:34:32,520 --> 00:34:34,619
+an angel check which I prefer not to,
+
+592
+00:34:34,840 --> 00:34:38,209
+and I've been suckered into nine times in the last 18 months,
+
+593
+00:34:38,410 --> 00:34:43,329
+I say take that off our asset register. It is gone. It's done.
+
+594
+00:34:43,960 --> 00:34:49,359
+Most angel money is wasted and there's this new myth and
+
+595
+00:34:49,360 --> 00:34:52,674
+everybody wants to be superman or at least super angels,
+
+596
+00:34:52,910 --> 00:34:57,869
+and I think Manu who's here in the room and I said it publicly
+
+597
+00:34:57,870 --> 00:35:00,799
+is one of the smartest one who's out there so if you need,
+
+598
+00:35:00,800 --> 00:35:04,729
+he's got lots of it.
+
+599
+00:35:04,820 --> 00:35:09,379
+But a very clear sense of purpose and a very clear
+
+600
+00:35:09,380 --> 00:35:12,569
+prioritization of what he wants to invest in.
+
+601
+00:35:12,570 --> 00:35:15,259
+I'm probably putting words in your mouth
+
+602
+00:35:15,260 --> 00:35:16,799
+so I hope I don't misrepresent this,
+
+603
+00:35:16,800 --> 00:35:19,944
+but companies that are lean, companies that are technical,
+
+604
+00:35:20,050 --> 00:35:21,764
+companies in the Silicon Valley,
+
+605
+00:35:21,870 --> 00:35:23,829
+companies that are going to be capital efficient
+
+606
+00:35:23,830 --> 00:35:26,019
+and not pile on with a ton of cash.
+
+607
+00:35:26,210 --> 00:35:30,239
+There's a series of other things but it basically boils down
+
+608
+00:35:30,240 --> 00:35:33,629
+to be an angel investor and make money is hard and if you're
+
+609
+00:35:33,630 --> 00:35:36,629
+just going to invest across the patch in a bunch of stuff,
+
+610
+00:35:36,630 --> 00:35:40,449
+it sounds cool because there's some BS thing called social proof.
+
+611
+00:35:40,520 --> 00:35:43,629
+Most people who do that lose money but you
+
+612
+00:35:43,630 --> 00:35:45,649
+don't read about that in TechCrunch.
+
+613
+00:35:46,710 --> 00:35:49,369
+So I'd say avoid friends and family.
+
+614
+00:35:49,370 --> 00:35:53,239
+What I think you ought to start with is start with
+
+615
+00:35:53,240 --> 00:35:55,959
+technical people who have had a lot of exit,
+
+616
+00:35:55,960 --> 00:35:58,289
+made a bit of money and have something
+
+617
+00:35:58,290 --> 00:36:02,409
+to add because more than anything, they will understand you,
+
+618
+00:36:02,410 --> 00:36:04,704
+your business, what you're going to go through.
+
+619
+00:36:04,860 --> 00:36:07,704
+They will be able to coach you and mentor you.
+
+620
+00:36:07,880 --> 00:36:12,499
+And if it does fail and it probably will or at least
+
+621
+00:36:12,500 --> 00:36:14,749
+it won't make them the money they expected because
+
+622
+00:36:14,750 --> 00:36:16,989
+you'll raise more money that'll dilute them,
+
+623
+00:36:17,950 --> 00:36:19,809
+at least it was someone who went in realistic
+
+624
+00:36:19,810 --> 00:36:24,859
+and doesn't make Thanksgiving awkward. Angels versus VC.
+
+625
+00:36:26,160 --> 00:36:31,169
+So angels are on the right.
+
+626
+00:36:31,950 --> 00:36:37,149
+I tell people ironically but truthfully start with angels.
+
+627
+00:36:38,490 --> 00:36:42,299
+Angels are okay if you raised 250k,
+
+628
+00:36:42,300 --> 00:36:47,759
+500k and you sell for $8 million and that's a good outcome
+
+629
+00:36:47,760 --> 00:36:49,929
+for most people and angels will be fine with that.
+
+630
+00:36:49,930 --> 00:36:53,299
+Or if you get an offer immediately for $15 million
+
+631
+00:36:53,300 --> 00:36:55,694
+within a year and a half and you say,
+
+632
+00:36:55,830 --> 00:36:57,669
+okay, I'll have door number two because
+
+633
+00:36:57,670 --> 00:36:59,834
+that allows me to buy a house,
+
+634
+00:37:00,200 --> 00:37:03,174
+kids' college education even though I don't have kids yet,
+
+635
+00:37:03,460 --> 00:37:06,364
+retirement money, I'll take door number two.
+
+636
+00:37:06,470 --> 00:37:08,069
+Angels will be fine with that.
+
+637
+00:37:08,560 --> 00:37:13,219
+Raise VC money when you really think you want to go on a rocket ship.
+
+638
+00:37:13,420 --> 00:37:15,999
+Now, there are some people, and I think it's okay,
+
+639
+00:37:16,000 --> 00:37:22,056
+I don't want to imply that I think this is bad, who know.
+
+640
+00:37:24,507 --> 00:37:28,109
+Larry and Sergey didn't. They tried to sell for a million dollars.
+
+641
+00:37:28,910 --> 00:37:31,449
+But there are some people who say I want
+
+642
+00:37:31,450 --> 00:37:33,474
+to do something, and that's okay.
+
+643
+00:37:33,790 --> 00:37:37,159
+Then for me, it doesn't come down to angels versus VCs.
+
+644
+00:37:37,160 --> 00:37:39,289
+It comes down to people.
+
+645
+00:37:39,840 --> 00:37:43,549
+McKenzie is probably the best strategy consulting company out there
+
+646
+00:37:43,670 --> 00:37:46,659
+and it's still filled with a lot of people who know nothing.
+
+647
+00:37:47,420 --> 00:37:49,849
+It's filled with a lot of people who know something.
+
+648
+00:37:50,230 --> 00:37:54,609
+It depends who you get. Wilson Sonsini is probably the best law firm
+
+649
+00:37:54,610 --> 00:37:56,824
+in town or at least in the top three or four;
+
+650
+00:37:57,070 --> 00:38:02,019
+it's filled with some great lawyers and some bad ones.
+
+651
+00:38:02,140 --> 00:38:04,179
+Really, what I would say to people,
+
+652
+00:38:04,180 --> 00:38:06,724
+number one, you need to fill a human connection.
+
+653
+00:38:07,000 --> 00:38:12,804
+I used to say this. I need to think of a better way to say this.
+
+654
+00:38:13,080 --> 00:38:14,824
+Assume I said this in a better way.
+
+655
+00:38:18,358 --> 00:38:22,969
+I tell people raising venture capital is worse than marriage.
+
+656
+00:38:23,050 --> 00:38:24,099
+The reason I say that,
+
+657
+00:38:24,200 --> 00:38:27,159
+I'm very happily married and I've only been married to one
+
+658
+00:38:27,160 --> 00:38:32,939
+woman in my whole life and I hope that always is the case.
+
+659
+00:38:32,940 --> 00:38:35,684
+But in marriage, if things don't work
+
+660
+00:38:35,970 --> 00:38:38,459
+in this country you can get divorced.
+
+661
+00:38:39,550 --> 00:38:42,169
+You can't get divorced from your venture capitalist.
+
+662
+00:38:42,430 --> 00:38:45,709
+People want to come to me. They've never met me before.
+
+663
+00:38:45,840 --> 00:38:48,409
+They want to come in and in two weeks or a week,
+
+664
+00:38:48,410 --> 00:38:50,809
+they want to decide whether or not to take money from me.
+
+665
+00:38:50,810 --> 00:38:52,854
+I'm like, why would you do that?
+
+666
+00:38:53,100 --> 00:38:56,999
+You don't know me and you don't know what it's like to work with me.
+
+667
+00:38:57,000 --> 00:38:58,799
+I mean, don't you want to get to know me if you're
+
+668
+00:38:58,800 --> 00:39:02,259
+going to marry me because I could bury you?
+
+669
+00:39:02,630 --> 00:39:05,329
+I could make your life miserable as a VC.
+
+670
+00:39:05,570 --> 00:39:08,739
+I've done six investments in the three years I've been a VC.
+
+671
+00:39:08,740 --> 00:39:10,249
+I've done nine angel deals.
+
+672
+00:39:10,420 --> 00:39:13,529
+I think those 15 people would say that there are
+
+673
+00:39:13,530 --> 00:39:15,089
+some positive and there are some negative.
+
+674
+00:39:15,090 --> 00:39:18,264
+I hope they would say the positive outweighs the negative,
+
+675
+00:39:18,500 --> 00:39:20,839
+but all that's discoverable.
+
+676
+00:39:20,840 --> 00:39:23,909
+Spend time getting to know these people and don't rush into it.
+
+677
+00:39:24,030 --> 00:39:28,229
+I always say to you every VC, and I'm off topic here a little bit,
+
+678
+00:39:28,230 --> 00:39:33,789
+is going to give you the list of the five portfolio companies
+
+679
+00:39:33,790 --> 00:39:35,949
+you should call and of course you have to call them,
+
+680
+00:39:37,030 --> 00:39:40,419
+but make sure you call the other five that they didn't give you.
+
+681
+00:39:40,740 --> 00:39:44,389
+I mean I'm sure they've taught you here about selective bias.
+
+682
+00:39:44,750 --> 00:39:50,299
+If they give you five CEOs and they don't all say this is the best firm
+
+683
+00:39:50,300 --> 00:39:54,979
+I've ever worked with then definitely don't work with that firm.
+
+684
+00:39:54,980 --> 00:39:58,459
+It's not that hard to research who else they worked with and that's
+
+685
+00:39:58,460 --> 00:40:00,719
+where you ought to put your effort in the due diligence.
+
+686
+00:40:00,900 --> 00:40:03,359
+I think it's a false dichotomy.
+
+687
+00:40:03,980 --> 00:40:06,129
+If you want to raise small amounts of money
+
+688
+00:40:06,130 --> 00:40:09,019
+and preserve options, focus on angels.
+
+689
+00:40:10,060 --> 00:40:12,609
+If you really want to build something big,
+
+690
+00:40:12,960 --> 00:40:17,079
+there are pros and cons of angels and VCs.
+
+691
+00:40:17,080 --> 00:40:20,734
+Angels in a bad market tap out really quickly
+
+692
+00:40:20,970 --> 00:40:23,769
+and are not able to follow on as easily.
+
+693
+00:40:23,980 --> 00:40:27,699
+VCs who put in money and you don't prove what you
+
+694
+00:40:27,700 --> 00:40:30,304
+were supposed to prove for your first 500k,
+
+695
+00:40:30,420 --> 00:40:33,179
+writing the next 500k is not that painful.
+
+696
+00:40:33,890 --> 00:40:35,549
+It's different with angels.
+
+697
+00:40:35,910 --> 00:40:38,999
+Sometimes VCs get involved very early and then they don't
+
+698
+00:40:39,000 --> 00:40:42,689
+spend time with you and if they decide not to fund you,
+
+699
+00:40:42,690 --> 00:40:44,689
+there's this thing called signaling that
+
+700
+00:40:44,690 --> 00:40:46,839
+we need to worry about, and it's true.
+
+701
+00:40:47,100 --> 00:40:49,824
+If they don't support you, life becomes harder to raise capital.
+
+702
+00:40:49,930 --> 00:40:53,819
+There are pros and cons of both these. It's not that easy.
+
+703
+00:40:53,940 --> 00:40:55,199
+So how do you get access to us?
+
+704
+00:40:55,200 --> 00:40:57,869
+I'm going to talk for a maximum five minutes,
+
+705
+00:40:57,970 --> 00:41:02,189
+maybe even three because I want to save time to answer questions.
+
+706
+00:41:02,340 --> 00:41:05,069
+The best way to get access is other entrepreneurs.
+
+707
+00:41:05,070 --> 00:41:07,529
+It's pretty easy in a social networking world to figure
+
+708
+00:41:07,530 --> 00:41:09,654
+out how to get access to me and if you can't,
+
+709
+00:41:09,820 --> 00:41:13,699
+that probably is a defining way of figuring out
+
+710
+00:41:13,700 --> 00:41:15,239
+whether or not you're a real entrepreneur.
+
+711
+00:41:15,270 --> 00:41:18,879
+It's pretty easy in this era. So how do you get our money?
+
+712
+00:41:18,960 --> 00:41:21,374
+The first thing you need is an anchor investor.
+
+713
+00:41:21,540 --> 00:41:26,319
+Most investors, no secret, no prices for guessing this,
+
+714
+00:41:26,320 --> 00:41:29,889
+are not willing to take a risk and put their
+
+715
+00:41:29,890 --> 00:41:31,824
+name on a deal and say I want to do this.
+
+716
+00:41:31,970 --> 00:41:35,889
+At least early stage investors, they're looking for other people so
+
+717
+00:41:35,890 --> 00:41:37,179
+you need to get an anchor investor.
+
+718
+00:41:37,180 --> 00:41:38,809
+There are two strategies for doing this.
+
+719
+00:41:38,820 --> 00:41:41,439
+Number one, invite them to be an adviser,
+
+720
+00:41:41,440 --> 00:41:44,479
+get to know them, work with them as an adviser.
+
+721
+00:41:44,480 --> 00:41:45,659
+If they get excited about you,
+
+722
+00:41:45,660 --> 00:41:47,469
+sometimes they'll get our their checkbook.
+
+723
+00:41:47,660 --> 00:41:50,239
+Number two, people don't like to talk about this but
+
+724
+00:41:50,240 --> 00:41:54,629
+I always say no matter how rich you are, you want a deal.
+
+725
+00:41:55,280 --> 00:41:58,988
+So if you could say to someone I'm planning to raise at 2.5 pre,
+
+726
+00:41:59,087 --> 00:42:04,009
+I'd like to invite you in at 1 pre to work with me first.
+
+727
+00:42:04,120 --> 00:42:06,709
+Getting that first person on board really matters,
+
+728
+00:42:06,860 --> 00:42:09,249
+and everybody else sort of follows.
+
+729
+00:42:09,350 --> 00:42:11,839
+The industry, unfortunately,
+
+730
+00:42:11,840 --> 00:42:14,079
+the way it works is there's a lot of sheep.
+
+731
+00:42:14,640 --> 00:42:17,004
+So critical success factors.
+
+732
+00:42:17,190 --> 00:42:23,969
+If anyone comes and tells me about freaking badges or check-ins,
+
+733
+00:42:24,150 --> 00:42:27,234
+I'm done, like meeting over.
+
+734
+00:42:27,450 --> 00:42:31,239
+So many people are skating where the puck is and they read
+
+735
+00:42:31,240 --> 00:42:34,834
+about something on TechCrunch and think this is a fun idea.
+
+736
+00:42:35,030 --> 00:42:36,909
+I want to know where the puck is going.
+
+737
+00:42:37,040 --> 00:42:38,639
+If your check-ins for TV,
+
+738
+00:42:38,640 --> 00:42:41,619
+I'm sorry, like you've got to have a second act
+
+739
+00:42:41,620 --> 00:42:44,749
+like check-ins for TV for me is not a big idea.
+
+740
+00:42:45,690 --> 00:42:46,639
+Ship your product.
+
+741
+00:42:46,640 --> 00:42:51,779
+The defining moment for most startup is they don't ship product
+
+742
+00:42:51,990 --> 00:42:54,919
+and I think that's a big failure in this world of MBP.
+
+743
+00:42:54,920 --> 00:42:58,859
+Get your product out the door, show you can ship, refine it.
+
+744
+00:42:58,860 --> 00:43:00,319
+You don't have to open it up to the
+
+745
+00:43:00,320 --> 00:43:02,384
+world but show you can ship product.
+
+746
+00:43:02,400 --> 00:43:04,114
+Test monetization early,
+
+747
+00:43:04,350 --> 00:43:07,344
+figure out what people are willing to pay for and not pay for.
+
+748
+00:43:07,460 --> 00:43:10,979
+You don't need to raise $50 million to become Ning and
+
+749
+00:43:10,980 --> 00:43:13,139
+then figure out you should not have a free offering.
+
+750
+00:43:13,140 --> 00:43:14,534
+Test monetization early.
+
+751
+00:43:14,690 --> 00:43:17,914
+I like to tell people that a sausage factory is never pretty.
+
+752
+00:43:18,240 --> 00:43:20,459
+Everyone thinks that being inside a startup is
+
+753
+00:43:20,460 --> 00:43:22,789
+great and then the people get in there like,
+
+754
+00:43:23,120 --> 00:43:26,479
+man, this is hard, like everyone is fighting and people
+
+755
+00:43:26,480 --> 00:43:28,999
+don't get along and we can't figure out direction.
+
+756
+00:43:29,110 --> 00:43:31,739
+I'm like hello, like go see Google,
+
+757
+00:43:31,740 --> 00:43:33,759
+Twitter or Facebook, Zynga or whatever.
+
+758
+00:43:33,760 --> 00:43:37,019
+I mean it's a sausage factory on the inside and you have
+
+759
+00:43:37,020 --> 00:43:41,582
+to enjoy that chaos and the end result of sausage
+
+760
+00:43:45,058 --> 00:43:50,919
+which is ironic for someone Jewish but the sausage making process
+
+761
+00:43:50,920 --> 00:43:55,344
+is ugly and it's true for almost every startup.
+
+762
+00:43:55,540 --> 00:43:58,064
+So that said, have fun with what you do.
+
+763
+00:43:58,150 --> 00:44:00,574
+I always saw being an entrepreneur as a game.
+
+764
+00:44:00,650 --> 00:44:04,289
+In my darkest moments when we had less than two weeks cash,
+
+765
+00:44:04,530 --> 00:44:07,234
+I'm like I literally thought to myself,
+
+766
+00:44:07,490 --> 00:44:09,769
+well, at least I'm going to figure out what bankruptcy is like.
+
+767
+00:44:11,640 --> 00:44:15,089
+I swear to you that crossed my mind, and it just became a game.
+
+768
+00:44:15,090 --> 00:44:16,079
+I was abstract.
+
+769
+00:44:16,080 --> 00:44:20,164
+In my own head, it was someone else's life that I was just playing.
+
+770
+00:44:20,270 --> 00:44:23,744
+If you take it too seriously as I did it when I first started,
+
+771
+00:44:23,930 --> 00:44:25,689
+like I just had way too much stress.
+
+772
+00:44:25,690 --> 00:44:27,369
+I talked to too many entrepreneurs these
+
+773
+00:44:27,370 --> 00:44:29,214
+days who internalize all those stress.
+
+774
+00:44:29,330 --> 00:44:32,229
+If you can abstract and have a bit of fun,
+
+775
+00:44:32,230 --> 00:44:42,099
+I think you'll enjoy it more. So thank you. Okay, great.
+
+776
+00:44:42,100 --> 00:44:43,729
+Since we only have 10 minutes left,
+
+777
+00:44:43,730 --> 00:44:45,609
+I'm just going to ask a couple of quick questions
+
+778
+00:44:45,610 --> 00:44:46,859
+and open it up to the audience.
+
+779
+00:44:46,860 --> 00:44:50,974
+So the first question to follow on that all of this
+
+780
+00:44:51,050 --> 00:44:54,114
+angst and anxiety that goes with running a company,
+
+781
+00:44:54,230 --> 00:44:55,989
+what's the best part?
+
+782
+00:44:58,023 --> 00:45:00,251
+This is one of the questions from one of the students.
+
+783
+00:45:00,351 --> 00:45:02,214
+What's the best part about being an entrepreneur?
+
+784
+00:45:02,350 --> 00:45:05,089
+What's the best part about being a VC? Okay.
+
+785
+00:45:05,230 --> 00:45:06,934
+So it's like a roller coaster.
+
+786
+00:45:07,190 --> 00:45:09,739
+I'll start with what sucks about being a VC.
+
+787
+00:45:09,740 --> 00:45:13,449
+Well, no, let me take what's good about it.
+
+788
+00:45:13,880 --> 00:45:16,399
+I get paid to have smart people come tell me how they're going to change
+
+789
+00:45:16,400 --> 00:45:19,479
+the world and we get to debate those ideas and if I like it,
+
+790
+00:45:19,480 --> 00:45:20,989
+I can spend three weeks on it and if
+
+791
+00:45:20,990 --> 00:45:22,824
+I don't like it, I spend an hour.
+
+792
+00:45:23,020 --> 00:45:25,954
+That's great. I have no more quarterly sales targets.
+
+793
+00:45:26,100 --> 00:45:27,224
+That's kind of nice.
+
+794
+00:45:27,420 --> 00:45:31,424
+I can spend six months, nine months, 12 months making no investments.
+
+795
+00:45:31,640 --> 00:45:33,959
+I can come to Stanford and speak anytime I want and
+
+796
+00:45:33,960 --> 00:45:36,069
+there's nobody waiting back at the office saying,
+
+797
+00:45:36,070 --> 00:45:37,694
+Mark hasn't given me directions.
+
+798
+00:45:37,840 --> 00:45:40,464
+There's a lot of great things. I wrote a blog post called
+
+799
+00:45:40,570 --> 00:45:44,364
+"You'd have to be a pretty big baby to complain about being a VC."
+
+800
+00:45:44,660 --> 00:45:48,659
+That said, think about a roller coaster and how exciting
+
+801
+00:45:48,660 --> 00:45:51,599
+that is and it's terrifying but exciting.
+
+802
+00:45:51,730 --> 00:45:54,534
+Being an entrepreneur is like being on a roller coaster;
+
+803
+00:45:54,640 --> 00:45:58,229
+you get the high highs and the low lows and we don't.
+
+804
+00:45:58,450 --> 00:46:00,079
+We're living vicariously through you.
+
+805
+00:46:00,080 --> 00:46:04,229
+The problem with the industry is we take all the credit for your success
+
+806
+00:46:04,230 --> 00:46:07,599
+because we helped with that deal and when you guys screw up,
+
+807
+00:46:07,600 --> 00:46:10,529
+it was your fault and that's a failure
+
+808
+00:46:10,530 --> 00:46:13,029
+of the industry but it's natural.
+
+809
+00:46:13,030 --> 00:46:15,469
+It's the same way consultants and bankers act.
+
+810
+00:46:15,470 --> 00:46:18,769
+We don't get the high highs. We don't get them.
+
+811
+00:46:18,770 --> 00:46:22,054
+I would take the high highs any day of the week. Great.
+
+812
+00:46:22,250 --> 00:46:24,229
+So next question just to follow on with that
+
+813
+00:46:24,230 --> 00:46:28,044
+is how do you measure your success as a VC?
+
+814
+00:46:29,722 --> 00:46:33,029
+Well, the interesting thing about venture capital is your
+
+815
+00:46:33,030 --> 00:46:38,114
+success is measured hopefully on a 7- to 10-year horizon.
+
+816
+00:46:38,500 --> 00:46:41,239
+If your performance is measured on a year or year-and-a-half
+
+817
+00:46:41,240 --> 00:46:43,459
+horizon that means you didn't do very well.
+
+818
+00:46:43,880 --> 00:46:46,849
+The majority of companies despite what you read about in TechCrunch
+
+819
+00:46:46,850 --> 00:46:49,569
+take seven to 10 years to produce huge successes.
+
+820
+00:46:49,740 --> 00:46:53,384
+My firm is the top rated firm for the year 2000.
+
+821
+00:46:53,500 --> 00:46:56,839
+If you aggregate 2000 to 2004, we're still the top firm.
+
+822
+00:46:56,840 --> 00:47:01,064
+If you take 2000 to 2008, we're the 12th best firm in the country.
+
+823
+00:47:01,220 --> 00:47:02,749
+We're the firm nobody has ever heard of.
+
+824
+00:47:02,750 --> 00:47:05,669
+They produced 15 companies worth a billion dollars
+
+825
+00:47:05,670 --> 00:47:07,849
+or more and nobody has heard of them.
+
+826
+00:47:07,850 --> 00:47:12,739
+Each one of those took seven, eight, nine, 10 years to mature,
+
+827
+00:47:12,870 --> 00:47:14,679
+so this idea of quick flips,
+
+828
+00:47:14,680 --> 00:47:18,539
+fail fast or whatever does not produce big results.
+
+829
+00:47:18,630 --> 00:47:21,189
+So the weird thing as a VC and I actually wrote about this,
+
+830
+00:47:21,190 --> 00:47:23,684
+people ask me on Quora if you want to go read the answer,
+
+831
+00:47:23,790 --> 00:47:26,134
+is Mark Suster a good venture capitalist?
+
+832
+00:47:26,270 --> 00:47:28,429
+I divided it into three phases of VC.
+
+833
+00:47:28,430 --> 00:47:31,489
+Number one is can you get a good pipeline of deals?
+
+834
+00:47:31,650 --> 00:47:35,119
+On that, I think I've done pretty well so I've established
+
+835
+00:47:35,120 --> 00:47:37,889
+a name for myself in three years and gotten access
+
+836
+00:47:37,890 --> 00:47:39,774
+to deal flow I think a lot of people don't.
+
+837
+00:47:39,950 --> 00:47:42,954
+Number two is do you work well with your companies?
+
+838
+00:47:43,040 --> 00:47:45,334
+Can you help them get through dark moments?
+
+839
+00:47:45,430 --> 00:47:48,774
+Can you help them get financed? Can you help them recruit talent?
+
+840
+00:47:48,840 --> 00:47:52,294
+The jury is still out on phase two but I'm in that phase.
+
+841
+00:47:52,360 --> 00:47:54,244
+I've got six portfolio companies.
+
+842
+00:47:54,370 --> 00:47:56,399
+I was up till 11:30 talking with one of
+
+843
+00:47:56,400 --> 00:48:00,264
+the CEOs last night about his problems. That's the phase I'm in.
+
+844
+00:48:00,320 --> 00:48:03,324
+The last phase is how well do you harvest your investments,
+
+845
+00:48:03,460 --> 00:48:05,689
+getting trade sales, getting exits? Are you Kleiner?
+
+846
+00:48:05,690 --> 00:48:08,703
+Can you get $400 million for ng:moco
+
+847
+00:48:08,803 --> 00:48:14,504
+when it probably wasn't worth it? Maybe it was worth it.
+
+848
+00:48:14,630 --> 00:48:19,069
+But if you're good at harvesting, you'll have good returns.
+
+849
+00:48:19,070 --> 00:48:21,954
+And in the end, I'm only judged based on returns
+
+850
+00:48:22,170 --> 00:48:23,894
+so I don't know if I'm a good VC yet.
+
+851
+00:48:24,070 --> 00:48:28,129
+Great. So let's take some questions from the audience. Okay, George.
+
+852
+00:48:28,990 --> 00:48:32,704
+So I have an idea about check-ins with it now.
+
+853
+00:48:33,090 --> 00:48:38,189
+So when you say get to know your VC or get to know your investor,
+
+854
+00:48:38,240 --> 00:48:41,899
+I guess in many senses like a lot of times,
+
+855
+00:48:42,070 --> 00:48:44,924
+you get one meeting with them and maybe meet with them afterwards.
+
+856
+00:48:45,170 --> 00:48:49,739
+What do you think an entrepreneur should look for in those two or three
+
+857
+00:48:49,740 --> 00:48:53,979
+weeks of hanging out and maybe getting another potential investor?
+
+858
+00:48:53,980 --> 00:48:56,779
+What should they look for in terms of what is
+
+859
+00:48:56,780 --> 00:48:59,829
+a good investor like on an experiential level,
+
+860
+00:48:59,830 --> 00:49:02,669
+not from just hearing from other people obviously?
+
+861
+00:49:02,680 --> 00:49:05,259
+I think hearing from other people is the most important
+
+862
+00:49:05,260 --> 00:49:10,684
+thing to be honest with you because VCs are charming;
+
+863
+00:49:10,740 --> 00:49:13,669
+not all of them but enough of them are charming
+
+864
+00:49:13,670 --> 00:49:15,889
+and they're all smart cut from good pedigree.
+
+865
+00:49:15,890 --> 00:49:18,619
+So you'll meet them, they're on their best game, best behavior.
+
+866
+00:49:18,730 --> 00:49:20,249
+You find out what they're really like from
+
+867
+00:49:20,250 --> 00:49:22,259
+other people so I would focus on that.
+
+868
+00:49:22,390 --> 00:49:24,544
+But building a relationship with a VC
+
+869
+00:49:24,620 --> 00:49:27,569
+I believe firmly in seeing them early.
+
+870
+00:49:28,060 --> 00:49:32,269
+Keith Rabois and I were back and forth arguing on Quora about
+
+871
+00:49:32,270 --> 00:49:35,089
+this and he disagrees because he says if you see them early,
+
+872
+00:49:35,260 --> 00:49:37,689
+you kind of burn out the VC and when you haven't
+
+873
+00:49:37,690 --> 00:49:39,109
+sorted out what you're going to do,
+
+874
+00:49:39,110 --> 00:49:42,189
+it makes it harder to go back to them.
+
+875
+00:49:42,390 --> 00:49:45,209
+That's true if you go to a full partner meeting.
+
+876
+00:49:45,500 --> 00:49:47,759
+If you go and you pitch and you flop, you're done.
+
+877
+00:49:47,890 --> 00:49:52,329
+It's hard to go back. It's true also if you overset expectations but
+
+878
+00:49:52,330 --> 00:49:55,539
+I like to say tell a VC I want to see you,
+
+879
+00:49:55,540 --> 00:49:59,144
+I'm not raising yet, I'm likely raising in nine months to 12 months.
+
+880
+00:49:59,260 --> 00:50:00,919
+We haven't changed the world yet but we have
+
+881
+00:50:00,920 --> 00:50:02,734
+some really interesting early ideas.
+
+882
+00:50:02,840 --> 00:50:04,469
+I'd like to get your thoughts and I'd like
+
+883
+00:50:04,470 --> 00:50:07,379
+to know you early so that when I'm raising,
+
+884
+00:50:07,380 --> 00:50:09,949
+you're one of the first people I call. They'd like to hear that.
+
+885
+00:50:10,130 --> 00:50:12,399
+Then you drop them little emails and don't
+
+886
+00:50:12,400 --> 00:50:16,299
+send long emails for god's sake, little emails with bullet points.
+
+887
+00:50:16,300 --> 00:50:19,319
+Just every six or eight weeks, say I wanted to update you,
+
+888
+00:50:19,320 --> 00:50:20,999
+we just got a deal signing with Zynga,
+
+889
+00:50:21,000 --> 00:50:23,199
+we hired two more people or whatever. Stay on the radar screen.
+
+890
+00:50:23,370 --> 00:50:25,399
+Find a way to say you'll have coffee
+
+891
+00:50:25,400 --> 00:50:28,929
+with them 20 minutes, 30 minutes; promise them you won't overrun.
+
+892
+00:50:29,070 --> 00:50:33,509
+There are some people who just have the skill despite my best
+
+893
+00:50:33,510 --> 00:50:37,724
+will to bat them away that stay on my radar screen consistently
+
+894
+00:50:37,850 --> 00:50:40,219
+and a year later when they're looking for funds,
+
+895
+00:50:40,220 --> 00:50:47,394
+they've got a much higher chance I think. My name is Peter Basso.
+
+896
+00:50:47,610 --> 00:50:50,729
+I'm wondering where do you see the future of VC given
+
+897
+00:50:50,730 --> 00:50:55,019
+that the industry seems to be somewhat saturated. Define saturated.
+
+898
+00:50:55,890 --> 00:50:59,759
+Too much money and probably too many VC firms given that
+
+899
+00:50:59,760 --> 00:51:02,619
+the business model itself isn't very profitable.
+
+900
+00:51:03,110 --> 00:51:05,389
+I disagree with your last assertion that
+
+901
+00:51:05,390 --> 00:51:07,339
+the business model is not profitable,
+
+902
+00:51:07,610 --> 00:51:12,699
+but let me answer the direct question and I'll talk about that.
+
+903
+00:51:12,700 --> 00:51:17,889
+If you look back to '95, '96 and '97 the venture capital industry was
+
+904
+00:51:18,050 --> 00:51:20,509
+significantly smaller than it is today.
+
+905
+00:51:20,670 --> 00:51:23,894
+'97 through 2007 it exploded at mushroom.
+
+906
+00:51:24,070 --> 00:51:29,059
+Venture capital funds last 10 years which strangely a 10-year
+
+907
+00:51:29,060 --> 00:51:31,559
+venture capital fund really means it last 13 years,
+
+908
+00:51:31,560 --> 00:51:34,279
+don't ask me why, but a 10-year fund last 13 years.
+
+909
+00:51:34,280 --> 00:51:35,679
+So that means if you raised '97,
+
+910
+00:51:35,680 --> 00:51:39,659
+'98, '99, 2000, 2001 even if you don't raise another fund,
+
+911
+00:51:39,660 --> 00:51:42,329
+even if you weren't so successful, you're still around.
+
+912
+00:51:42,570 --> 00:51:46,674
+Too much money in venture capital in my opinion is a problem.
+
+913
+00:51:46,820 --> 00:51:48,859
+It means you fund a lot of stupid ideas.
+
+914
+00:51:48,860 --> 00:51:51,749
+It means when you start a company, you've got four competitors,
+
+915
+00:51:51,910 --> 00:51:54,599
+each giving away product for free when they probably shouldn't be.
+
+916
+00:51:54,600 --> 00:51:57,309
+A lot of people who didn't have skills
+
+917
+00:51:57,310 --> 00:51:59,104
+to be a VC stepped into the industry.
+
+918
+00:51:59,290 --> 00:52:02,919
+So if you take the results of the last 10 years, you're right.
+
+919
+00:52:03,200 --> 00:52:08,039
+In aggregate, very poor returns, but you can't measure in aggregate.
+
+920
+00:52:08,330 --> 00:52:12,179
+If you look at the top tier or the top 10% or the top 15%,
+
+921
+00:52:12,180 --> 00:52:13,514
+the returns are quite good.
+
+922
+00:52:13,650 --> 00:52:17,669
+Our IRR is significantly better than the stock market.
+
+923
+00:52:17,900 --> 00:52:20,239
+So I don't think the model is broken.
+
+924
+00:52:20,300 --> 00:52:21,949
+I don't think the venture capital model is broken.
+
+925
+00:52:21,950 --> 00:52:25,394
+I don't think you can say a venture capital firm is not successful.
+
+926
+00:52:25,500 --> 00:52:28,684
+There's too much money in the industry, the industry is shrinking,
+
+927
+00:52:28,740 --> 00:52:31,669
+that's going to be a net positive I believe for the whole industry.
+
+928
+00:52:31,780 --> 00:52:36,884
+I've said publicly I think the super angel movement has the risk
+
+929
+00:52:37,020 --> 00:52:40,469
+of also expanding too fast and too much capital coming in.
+
+930
+00:52:40,660 --> 00:52:43,629
+I believe if you look at X and Y axes,
+
+931
+00:52:43,630 --> 00:52:46,679
+you have different points of risk and reward and return,
+
+932
+00:52:46,870 --> 00:52:49,804
+early stage investors, less money, lower price;
+
+933
+00:52:49,940 --> 00:52:52,579
+should expect to get more returns than
+
+934
+00:52:52,580 --> 00:52:54,209
+someone who's investing at late stage.
+
+935
+00:52:54,320 --> 00:52:57,764
+I think each of those markets seed A,
+
+936
+00:52:57,860 --> 00:53:02,259
+B, expansion, IPO ought to be a fixed size and I don't
+
+937
+00:53:02,260 --> 00:53:05,279
+know what that size is but if it expands too much then
+
+938
+00:53:05,280 --> 00:53:07,054
+in aggregate the industry doesn't do well.
+
+939
+00:53:07,130 --> 00:53:10,179
+Top tier does fine. Great. Another question?
+
+940
+00:53:12,350 --> 00:53:14,869
+Going once, going twice, okay.
+
+941
+00:53:15,000 --> 00:53:18,369
+What about VC firms that have invested in online real
+
+942
+00:53:18,370 --> 00:53:20,679
+estate and the real estate is down right now?
+
+943
+00:53:20,680 --> 00:53:22,289
+What are your thoughts about it? Who are really what's right?
+
+944
+00:53:22,410 --> 00:53:24,885
+Focused on online real estate company
+
+945
+00:53:24,985 --> 00:53:28,506
+when the real estate market is down. What's the take on that?
+
+946
+00:53:28,668 --> 00:53:34,379
+Companies that focus on it, meaning people who focus on Zillow.
+
+947
+00:53:34,380 --> 00:53:38,039
+Look, I said earlier skate where the puck is going and
+
+948
+00:53:38,040 --> 00:53:41,259
+I mean it for entrepreneurs but I mean it for VCs too.
+
+949
+00:53:41,470 --> 00:53:46,124
+I want to invest in the things that nobody finds sexy.
+
+950
+00:53:46,460 --> 00:53:49,339
+We just invested and we haven't announced it yet in a company
+
+951
+00:53:49,340 --> 00:53:53,209
+that's trying to change the way mortgage origination works.
+
+952
+00:53:54,590 --> 00:53:56,234
+A lot of people are scared of that market.
+
+953
+00:53:56,360 --> 00:54:01,109
+We're looking at a secondary market for autos and for mortgages
+
+954
+00:54:01,110 --> 00:54:04,119
+because there's a lot of disruption in that market.
+
+955
+00:54:04,220 --> 00:54:07,189
+By the way, it's a huge market.
+
+956
+00:54:07,200 --> 00:54:09,109
+I was looking at enterprise software when
+
+957
+00:54:09,110 --> 00:54:10,999
+people said enterprise software was dead.
+
+958
+00:54:11,000 --> 00:54:12,959
+I mean, if you're skating where the puck
+
+959
+00:54:12,960 --> 00:54:15,039
+is going and investing in today's fad,
+
+960
+00:54:15,040 --> 00:54:17,109
+you're probably missing something I think.
+
+961
+00:54:17,280 --> 00:54:18,979
+I want to ask one more question. Yes, please.
+
+962
+00:54:18,990 --> 00:54:21,199
+I've got a whole long list from the students.
+
+963
+00:54:21,200 --> 00:54:22,769
+This is changing gears a little bit.
+
+964
+00:54:22,770 --> 00:54:25,769
+This is a student who wanted to know your attitude about work/life
+
+965
+00:54:25,770 --> 00:54:29,119
+balance because apparently you've written some things in your blogs
+
+966
+00:54:29,120 --> 00:54:33,149
+that might be a little bit conflicting about not waiting for,
+
+967
+00:54:33,220 --> 00:54:35,259
+just having a deferred life plan,
+
+968
+00:54:35,260 --> 00:54:38,639
+sort of waiting to have all the good stuff later,
+
+969
+00:54:38,640 --> 00:54:42,079
+you don't want to do that. On the other hand, you have to work like
+
+970
+00:54:42,080 --> 00:54:44,059
+crazy to make your business a success.
+
+971
+00:54:44,060 --> 00:54:50,329
+How do you reconcile those two? I think work/life balance is smart.
+
+972
+00:54:51,890 --> 00:54:56,749
+It's not easy so I often say like people
+
+973
+00:54:56,850 --> 00:54:59,404
+are on the deferred startup plan.
+
+974
+00:54:59,610 --> 00:55:01,419
+The number of people who have said to me
+
+975
+00:55:01,420 --> 00:55:03,189
+I'm thinking about being a CEO one day,
+
+976
+00:55:03,190 --> 00:55:05,054
+in fact today I had coffee with the guy,
+
+977
+00:55:05,270 --> 00:55:06,959
+I'm guessing in his late 30s,
+
+978
+00:55:06,960 --> 00:55:08,979
+and he says well, I want to try out being
+
+979
+00:55:08,980 --> 00:55:11,639
+COO one more time before I become CEO.
+
+980
+00:55:11,710 --> 00:55:15,119
+That's fine but there's no perfect age to be CEO.
+
+981
+00:55:15,120 --> 00:55:16,899
+There's no perfect age to do startup.
+
+982
+00:55:16,900 --> 00:55:19,469
+In fact, it's easier when you're younger.
+
+983
+00:55:19,620 --> 00:55:22,109
+I have two little kids, five and seven; I have a mortgage;
+
+984
+00:55:22,110 --> 00:55:23,649
+I have a wife. I have responsibilities;
+
+985
+00:55:23,650 --> 00:55:25,689
+I have to get home, I have to do PTA meetings.
+
+986
+00:55:25,690 --> 00:55:30,339
+If I look at my life when I was younger and crazy
+
+987
+00:55:30,340 --> 00:55:32,869
+and an entrepreneur and doing all this stuff,
+
+988
+00:55:32,870 --> 00:55:35,519
+it would've been pretty tough to kind of balance that
+
+989
+00:55:35,520 --> 00:55:41,189
+but part of the deferred life plan in my mind is thinking
+
+990
+00:55:41,190 --> 00:55:44,579
+you want to be an entrepreneur and not trying and waiting
+
+991
+00:55:44,580 --> 00:55:47,749
+because one day when I figured it all out, I'll be an entrepreneur.
+
+992
+00:55:47,760 --> 00:55:51,159
+Whatever you want to do, I think you ought to do when you're young.
+
+993
+00:55:51,160 --> 00:55:53,649
+I want to give you one example.
+
+994
+00:55:53,650 --> 00:55:57,779
+In 1994, I had been working on internet technology before
+
+995
+00:55:57,780 --> 00:56:00,659
+the internet was big and I was at the protocol layer.
+
+996
+00:56:00,990 --> 00:56:06,779
+We were building middleware software and I was with a group
+
+997
+00:56:06,780 --> 00:56:10,669
+of 12 people who went and established an internet practice
+
+998
+00:56:10,800 --> 00:56:13,969
+for Andersen Consulting which is now Accenture in Europe.
+
+999
+00:56:14,250 --> 00:56:17,719
+A lot of my friends quit and joined startups even in '94.
+
+1000
+00:56:17,820 --> 00:56:22,629
+As an ex-tech guy, I love software. I was really interested.
+
+1001
+00:56:22,630 --> 00:56:24,959
+I wanted to live in Silicon Valley,
+
+1002
+00:56:25,980 --> 00:56:30,519
+but my whole life I wanted to live and work in Europe and
+
+1003
+00:56:30,520 --> 00:56:35,239
+I had this offer to move to France and honestly, I chose life.
+
+1004
+00:56:35,670 --> 00:56:39,199
+I worked hard but I got to travel all over Europe.
+
+1005
+00:56:39,200 --> 00:56:41,659
+I lived in Barcelona, I lived in the south of France,
+
+1006
+00:56:41,660 --> 00:56:45,009
+I lived in Rome, I lived in London.
+
+1007
+00:56:45,130 --> 00:56:48,249
+I told a humorous story on my blog about how I decided
+
+1008
+00:56:48,250 --> 00:56:51,039
+I wanted to live in Tokyo and I just went out there
+
+1009
+00:56:51,040 --> 00:56:54,134
+without permission and made it happen.
+
+1010
+00:56:54,220 --> 00:56:57,159
+These things that I did in my life are harder for me to do now.
+
+1011
+00:56:57,160 --> 00:56:58,929
+I really want to live in China now.
+
+1012
+00:56:58,930 --> 00:57:00,854
+I have this kind of passion to live in China.
+
+1013
+00:57:01,050 --> 00:57:02,869
+It's not likely going to happen for me,
+
+1014
+00:57:02,940 --> 00:57:05,514
+at least not till my kids are through high school
+
+1015
+00:57:05,650 --> 00:57:08,004
+for a variety of reasons which I won't discuss.
+
+1016
+00:57:08,130 --> 00:57:12,779
+But whatever it is that you want to do, make it part of your life.
+
+1017
+00:57:12,780 --> 00:57:17,710
+That's all I think. Thank you so much. This was terrific.
+

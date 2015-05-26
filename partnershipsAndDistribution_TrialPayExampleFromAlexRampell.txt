@@ -1,0 +1,1824 @@
+1
+00:00:00,000 --> 00:00:03,637
+Hi everyone, my name is Alex Rampell. I'm the founder and
+大家好，我叫Alex Pampell,我是Trialpay的创始人和CEO
+2
+00:00:03,657 --> 00:00:06,203
+CEO of a company called TrialPay. We're based in
+我们的公司在加州的Mountainview
+3
+00:00:06,223 --> 00:00:08,788
+Mountainview, California. And I'm going to talk about
+今天我会谈一谈渠道的策略，
+4
+00:00:08,808 --> 00:00:12,438
+channel strategies. How to build a channel partnership, or
+怎么建立一个渠道合作，或者
+5
+00:00:12,458 --> 00:00:15,234
+build channel partnerships in order to grow your sales to
+建立一个渠道关系使你的中小型顾客的销售增加。
+6
+00:00:15,253 --> 00:00:18,667
+small and medium sized customers. So, just a little bit of
+先介绍一下我的公司具体做什么。
+7
+00:00:18,687 --> 00:00:21,616
+background I'm gonna talk about what my company does. How we
+
+8
+00:00:21,616 --> 00:00:24,602
+use channel strategy successfully. But, I just first wanted
+我们怎么成功地使用渠道策略。开始我想先谈一下我们具体做什么。
+9
+00:00:24,621 --> 00:00:27,541
+to talk about what we actually do. So some background here
+这的背景知识是
+10
+00:00:27,561 --> 00:00:30,608
+Companies will pay to acquire customers. This is the whole
+公司付费得到客户。
+11
+00:00:30,628 --> 00:00:34,636
+foundation on which advertising is based. So, just as a, as
+这就是广告业的基本原则。
+12
+00:00:34,656 --> 00:00:37,553
+background here you're probably worth about $1000 to
+作为背景知识，你对于Comcast来说值$1000,
+13
+00:00:37,573 --> 00:00:41,101
+Comcast, You're worth probably $2000 to Geico, $100 to
+你对Geico来说可能值$2000，对Netflix值$100
+14
+00:00:41,121 --> 00:00:44,068
+Netflix, a lot of money to various mobile phone carriers.
+对不同的手机用户来说，你可能值很多钱，
+15
+00:00:44,088 --> 00:00:47,516
+And these companies will always pay some percentage of, of
+这些公司总是愿意把你的终身价值的一部分拿出来给推荐人，
+16
+00:00:47,536 --> 00:00:53,459
+this lifetime value to whoever will refer You to know. So
+
+17
+00:00:53,479 --> 00:00:56,719
+kind of the way we work is we try to put offers around
+我们公司的办法就是给交易提供信息。
+18
+00:00:56,719 --> 00:00:59,443
+transactions. We try to put various advertisers on
+我们试图把不同的广告商放到那些交易网站。
+19
+00:00:59,463 --> 00:01:01,905
+transactional sites. Just as some background here, someone
+一些背景，google的一些人想出了一个好点子，
+20
+00:01:01,925 --> 00:01:04,734
+at Google came up with a very good idea of putting ads
+他们把广告放在搜索结果网页上，
+21
+00:01:04,734 --> 00:01:09,807
+around a search that's turned into a $30 billion dollar plus
+这产生了每年$30,000,000,000的生意，
+22
+00:01:09,826 --> 00:01:13,722
+a year business, doing great. We try to do this for
+而且这笔生意会一直很棒。我们试图要做的就是在交易网站上做同样的事。
+23
+00:01:13,742 --> 00:01:19,067
+transactional sites. For example the best time on TV it's
+比如，对于做电视生意的人来说，最好的可能不是选择google，
+24
+00:01:19,087 --> 00:01:21,834
+probably not on Google. It's when somebody's buying DVD
+而是当某人买DVD播放器或者买高清播放器的时候，
+25
+00:01:21,834 --> 00:01:25,623
+player or a Blu Ray player or buying. That's the best place
+这就是Netflix做广告的最好时机，
+26
+00:01:25,643 --> 00:01:28,619
+to try to advertise Netflix and that's what we try to do. We
+而这也就是我们试图做的。
+27
+00:01:28,619 --> 00:01:31,647
+know have over ten thousand clients and it took a long, long
+我们知道有许许多多这样的用户，但是要花很长的时间才能做到。
+28
+00:01:31,667 --> 00:01:34,207
+time to get there. Actually we reached that mile stone in
+事实上，我们在2009达到了第一个里程碑，
+29
+00:01:34,207 --> 00:01:38,390
+2009 so about two years ago, So kind of up from zero clients
+大约是两年前，从2007年的0个用户，
+30
+00:01:38,409 --> 00:01:41,481
+at the beginning of 2007 to ten thousands clients at the end
+到2009年的1万个用户。
+31
+00:01:41,501 --> 00:01:42,501
+of 2009.
+
+32
+00:01:42,501 --> 00:01:47,081
+How did we do that? And, you know? My whole philosophy
+我们怎么做的呢？我关于销售的全部逻辑就是
+33
+00:01:47,101 --> 00:01:49,908
+around business in selling in general is you really want to
+你真的应该
+34
+00:01:49,927 --> 00:01:53,125
+start off with a very tight vertical. So what I knew well
+从一个紧凑的垂直开始。我了解的是消费者软件，
+35
+00:01:53,144 --> 00:01:56,551
+was consumer software. But you know what Facebook did
+但是你知道facebook成功的原因是他从哈佛开始起步。
+36
+00:01:56,570 --> 00:01:59,739
+successfully was they started off with Harvard. They got
+
+37
+00:01:59,759 --> 00:02:02,495
+critical mass at a school like Harvard, and then they
+他们在哈佛取得了关键的一仗，
+38
+00:02:02,515 --> 00:02:05,161
+expanded concentrically outwards, and that really generated
+然后他们开始有针对地扩张，这真的产生了
+39
+00:02:05,181 --> 00:02:08,890
+enough network effects for that business to take off. I
+足够的网络效应，对于公司的突然成功。
+40
+00:02:08,911 --> 00:02:11,911
+remember, I, I once was at a conference, and sat next to
+我记得，有一次我去一个会议，我坐在
+41
+00:02:11,911 --> 00:02:14,911
+Reed Hastings, the CEO of Netflix. And I was asking him, you
+Reed Hastings旁边，Netflix的CEO。我问他，
+42
+00:02:14,911 --> 00:02:16,661
+know, why isn't Netflix expanding to Canada?
+为什么Netflix不扩张到加拿大呢？
+43
+00:02:16,661 --> 00:02:19,161
+Canada's just the next store neighbor of America. Why isn't
+加拿大和美国就一墙之隔啊，为什么不这么做？
+44
+00:02:19,161 --> 00:02:22,161
+it expanded to Canada? And this was many years ago. But he
+这是很多年前了。但是他说，
+45
+00:02:22,161 --> 00:02:25,411
+said, because we can still grow 10X in the US. And until we
+我们在美国还能再增长10%
+46
+00:02:25,411 --> 00:02:28,911
+don't think we can grow. As long as we think we can grow 10X
+直到我们觉得我们没有发展的空间了，只要我们还能在一个特定区域持续增长10%，
+47
+00:02:28,911 --> 00:02:31,661
+in a particular region, it doesn't make sense for us to
+那么让我们去另一个地方发展就讲不通。
+48
+00:02:31,661 --> 00:02:34,411
+expand into other regions. And this is one way of thinking
+这是思考生意的一种思路。
+49
+00:02:34,411 --> 00:02:37,411
+about a business in general. So focus on a tight vertical to
+集中精力在一个垂直领域。
+50
+00:02:37,411 --> 00:02:40,161
+start. And that's what we did. We focused on the software
+这就是我们做的。我们就是集中在软件这条线上。
+51
+00:02:40,161 --> 00:02:42,911
+vertical. We tried to win that vertical first. And then you
+我们想要先赢下这条线。
+52
+00:02:42,911 --> 00:02:45,911
+can either try to extend the product to do more, or expand
+然后我们可以扩张做更多的产品，
+53
+00:02:45,911 --> 00:02:49,421
+into other verticals. And how do you conquer a vertical?
+或者是扩张到其他的垂直领域。你是怎么拿下一个垂直领域的？
+54
+00:02:49,441 --> 00:02:51,727
+First, we started off with friends and family. So for our
+第一，我们从朋友和家人开始。我们的产品，
+55
+00:02:51,727 --> 00:02:54,994
+product, I knew the guy that ran a company called WinZip.
+我知道一个人的公司叫WinZip
+56
+00:02:55,014 --> 00:02:57,740
+Got WinZip to use TrialPay, that was a great start.
+我们就让WinZip用TrialPay，这是一个很好的开始。
+57
+00:02:57,760 --> 00:03:00,670
+Got a few other companies that I knew to use TrialPay that
+还有其他一些我认识的公司，让他们用TrialPay，
+58
+00:03:00,670 --> 00:03:03,420
+was a great start, Friends and family are great way of
+这是一个很好的开始，朋友和家人是让你的公司开始的好方法。
+59
+00:03:03,420 --> 00:03:05,999
+really getting your business off the ground. But the problem
+但问题是，
+60
+00:03:06,019 --> 00:03:09,054
+is you run into lots and lots of little guys and it becomes
+你会碰到很多很多的小用户，
+61
+00:03:09,054 --> 00:03:12,474
+cost effective, To sell into the little guys. So, if you can
+这使你本轻利薄，为了卖给小买家。如果你可以
+62
+00:03:12,495 --> 00:03:16,724
+get 100,000 clients a y-, that are paying you $500 a year,
+拿到100，000个客户，每个人每年给你$500,
+63
+00:03:16,745 --> 00:03:19,540
+that's 50 million dollars a year in revenue. You're much
+那一年的收入就是50，000，000.
+64
+00:03:19,540 --> 00:03:22,507
+better off having 100,000 little clients paying you $500 a
+如果有100，000个小客户每人给你$500一年，那可比
+65
+00:03:22,527 --> 00:03:25,483
+year than one big client paying you 50 million dollars a
+一个大客户一年付你5千万好多了。
+66
+00:03:25,503 --> 00:03:29,838
+year. So how do you get 100,000 little clients paying you
+那么你怎么才能得到100，000个小买家，每年付你$550呢?
+67
+00:03:29,858 --> 00:03:32,239
+$500 a year? That's extremely difficult. And the way that we
+这非常难。我们的方法是，
+68
+00:03:32,239 --> 00:03:35,479
+did it, although we're not at 100,000, we're at 10,000, was
+虽然我们没有100，000，我们有10，000，我们是通过
+69
+00:03:35,479 --> 00:03:37,479
+really sales, marketing, and channel deals. But channel
+销售，市场和渠道协议。
+70
+00:03:37,479 --> 00:03:39,966
+deals became the predominant way at which we reached the
+但是渠道协议变成了我们最主要的接近那些长尾顾客的办法（注：长尾效应）
+71
+00:03:39,966 --> 00:03:44,636
+long tail of clients. So what, what is a channel? Channel is
+所以，什么是渠道呢？渠道是一个分销路线，
+72
+00:03:44,656 --> 00:03:47,244
+a distribution route from, of your product to your different
+是你的产品到不同的顾客那的路线图。
+73
+00:03:47,264 --> 00:03:48,264
+customers.
+
+74
+00:03:48,264 --> 00:03:51,452
+So imagine you're Hilton. The best way for Hilton to reach
+想象你是Hilton(著名连锁酒店），对Hilton来说最好的接触客户的方法就是
+75
+00:03:51,472 --> 00:03:53,657
+their customers is direct to consumer because they get to
+直接指向顾客，因为他们要保留利润。
+76
+00:03:53,657 --> 00:03:56,483
+retain all the margins. So if you're paying $200 a night for
+所以，如果你为纽约的Hilton付了$200一晚
+77
+00:03:56,483 --> 00:04:00,571
+a hotel room for the Hilton Hotel in New York, it's probably
+
+78
+00:04:00,591 --> 00:04:04,091
+not going to be 200, a little bit more, but the best way for
+很可能并不是$200，可能更多一点，但是对Hilton来说最好的就是，
+79
+00:04:04,091 --> 00:04:07,841
+Hilton to get that money and to keep all of it is if you go
+他们能得到$200的全部，如果你直接去他们的官网或者拨打1-800-4-HILTON订房的话
+80
+00:04:07,841 --> 00:04:11,277
+to hilton.com or call 1-800-4-HILTON and book that hotel
+
+81
+00:04:11,298 --> 00:04:14,715
+room directly. Everything else is a route to a customer
+其他的方式都是消费者通过，
+82
+00:04:14,735 --> 00:04:17,391
+through, for example, an online travel agency, like Expedia,
+比如在线旅行社，像Expedia，
+83
+00:04:17,411 --> 00:04:20,930
+Priceline or Four bits A travel agency like Carlson Wagonlit
+Priceline或者Four bits，或者实体旅行社像Carlson Wagonlit
+84
+00:04:20,949 --> 00:04:24,076
+or American Express. Airlines that happen to cross sell
+或者是American Express。航班线也会卖酒店房间。
+85
+00:04:24,096 --> 00:04:26,572
+hotel rooms. These are all different ways of reaching
+这些都是不同的接触顾客的方式，
+86
+00:04:26,592 --> 00:04:28,937
+customers and actually those account for the majority of
+事实是这些占到了像Hilton这样的酒店预定的大多数，
+87
+00:04:28,957 --> 00:04:31,944
+hotel rooms booked at something like Hilton because there's
+因为多数的顾客都会预定其他的旅行服务。
+88
+00:04:31,964 --> 00:04:34,069
+so many customers that are booking other travel
+
+89
+00:04:34,089 --> 00:04:36,375
+reservations. They might start off making an airline
+他们开始可能决定定航班，
+90
+00:04:36,394 --> 00:04:40,302
+reservation and then they decide That they need a hotel room
+然后决定他们也需要订酒店。
+91
+00:04:40,322 --> 00:04:44,822
+as well. So channel everything that you see on the left
+所以在左边你可以看到所有的渠道，
+92
+00:04:44,842 --> 00:04:47,841
+here, aggregators, agencies, airlines, is a channel for
+聚合者，代理，航空公司都是Hilton的渠道。
+93
+00:04:47,860 --> 00:04:50,977
+Hilton. Direct to consumer might be the most lucrative model
+消费者直接预定是对Hilton最赚钱的方式，
+94
+00:04:50,997 --> 00:04:53,703
+for Hilton, however, they recognize that they'd be losing
+但是，他们发现如果他们单纯依靠自己这一块，
+95
+00:04:53,723 --> 00:04:57,168
+out on a lot of hotel rooms if they only rely on a direct to
+那么大多数的房间都卖不出去。
+96
+00:04:57,168 --> 00:04:58,574
+consumer approach.
+
+97
+00:04:58,594 --> 00:05:02,564
+And one of the nice things about getting a large channel or
+有一个大的分销渠道，或者大批的分销商的好处就是
+98
+00:05:02,584 --> 00:05:05,129
+a series of large channel partnerships is it solves many
+它会解决很多商业难题。
+99
+00:05:05,149 --> 00:05:09,218
+classic problems in business, Because if you build defensive
+因为如果的生意设置了防御性，
+100
+00:05:09,237 --> 00:05:13,625
+moats to your business. So for example, if Hilton is
+比方说，如果Hilton和18个不同的酒店连锁竞争，
+101
+00:05:13,645 --> 00:05:15,684
+competing with eighteen different hotel chains, and they
+
+102
+00:05:15,704 --> 00:05:19,191
+become the preferred, and/or exclusive hotel provider at
+他们变成Delta或者美国航空（都是美国的著名航空公司），Expedia的特约合作商，
+103
+00:05:19,211 --> 00:05:24,163
+Delta Airlines, at American Airlines, At Expedia, it locks a
+那就会让很多其他的酒店连锁出局
+104
+00:05:24,182 --> 00:05:26,932
+lot of other hotel chains out, and they can start charging
+然后他们就可以给自己的房间加价，
+105
+00:05:26,932 --> 00:05:29,182
+probably more for their rooms, because they've locked up
+因为他们已经锁定了这个渠道。
+106
+00:05:29,182 --> 00:05:33,192
+this channel. So having a very successful channel
+所以有一个成功的渠道合作其实可以解决很多问题，
+107
+00:05:33,212 --> 00:05:36,360
+partnership can often solve classic problems in business
+
+108
+00:05:36,379 --> 00:05:41,512
+that actually builds equity value. So for our business,
+这其实建立了自己的价值。对我们的生意，
+109
+00:05:41,532 --> 00:05:43,845
+channel was very instrumental, as I mentioned, for reaching
+渠道是非常有帮助的，像我提到过的，在接触小买家这件事上。
+110
+00:05:43,865 --> 00:05:46,365
+the little guy. So we have a sales and marketing
+所以我们有负责销售和市场的机构，
+111
+00:05:46,365 --> 00:05:48,617
+organization. And what does that mean? We have marketing,
+这意味着什么？我们有市场，
+112
+00:05:48,637 --> 00:05:52,257
+which tries to sponsor conferences, sends out newsletters.
+市场主要赞助会议，发放电子订阅期刊，
+113
+00:05:52,276 --> 00:05:55,704
+Sends direct mail and email to people, trying to get them to
+直投和发电子邮件人们，让他们知道Trialpay
+114
+00:05:55,724 --> 00:05:58,089
+learn about Trialpay, hopefully sign up for TrialPay. We
+并希望他们能注册Trialpay
+115
+00:05:58,109 --> 00:06:00,795
+have a sales team, which is commission, so we'll give them
+我们有一个销售团队，他们拿返佣，每个通过这个渠道来注册的客人，
+
+116
+00:06:00,795 --> 00:06:02,656
+some kind of commission every time they sign up a new
+我们就给他们一些返佣。
+117
+00:06:02,656 --> 00:06:03,656
+customer.
+
+118
+00:06:03,656 --> 00:06:06,656
+And then we have a self service channel, where we kind of
+然后我们还有自理的渠道，这是指那些我们自己网站上来的那些人，
+119
+00:06:06,656 --> 00:06:09,656
+hope and pray that people show up at our website, just like
+
+120
+00:06:09,656 --> 00:06:12,156
+Hilton does, and sign up for TrialPay with no prompting
+就像Hilton，（通过直接到我们的网站）注册TrialPay没有任何的外部引导。
+121
+00:06:12,156 --> 00:06:13,906
+whatsoever. And of course, we also advertise.
+当然，我们也做广告。
+122
+00:06:13,906 --> 00:06:16,406
+>> To reach these customers, we'll buy Google ad words; we'
+为了接触到这些客户，我们买Google关键字，
+123
+00:06:16,406 --> 00:06:19,156
+ll do other things to hopefully get more people into our
+我们也做其他的事情争取把人们引导到我们的自理渠道上来
+124
+00:06:19,156 --> 00:06:21,906
+self service channel. But one of the things that we drive,
+但是我们推动人们进入到我们的自理渠道所做的事情之一就是，
+125
+00:06:21,906 --> 00:06:24,656
+that we use to drive people into the self service channel,
+
+126
+00:06:24,656 --> 00:06:27,156
+what we call the self service channel, the self service
+我们称之为自理渠道，
+127
+00:06:27,156 --> 00:06:29,906
+section of what we do, is a series of channel partnerships.
+我们对这部分渠道要做的是，是一系列的渠道合作商。
+128
+00:06:29,906 --> 00:06:32,837
+And, we're a payment company, we try to put offers and
+我们是一家支付公司，我们争取给那些真的要买东西的人更多的折扣，
+129
+00:06:32,837 --> 00:06:35,903
+different discounts and deals around people that are buying
+130
+00:06:35,923 --> 00:06:38,320
+things, as opposed people that are searching for things or
+相对于那些只是浏览信息和在网上瞎逛的人，
+131
+00:06:38,320 --> 00:06:42,750
+browsing around, so thinking about that, how. How do we
+所以好好想想，
+132
+00:06:42,769 --> 00:06:45,250
+figure out what our channel strategy looks like? Well, we
+我们怎么能知道我们的渠道策略看起来好不好？
+133
+00:06:45,250 --> 00:06:48,000
+said, okay, we want to work with people that are selling
+我们想和那些在网上卖货的人合作。
+134
+00:06:48,000 --> 00:06:50,500
+things online. We know that we'll never work with the
+我们绝不会和Huffington Post合作因为他们不卖东西。
+135
+00:06:50,500 --> 00:06:52,750
+Huffington Post because they don't sell anything. We like
+
+136
+00:06:52,750 --> 00:06:55,500
+the Huffington Post but they don't sell anything. Who do we
+我们喜欢Huffinton Post，但是他们不卖东西。我们要和谁合作？
+137
+00:06:55,500 --> 00:06:58,000
+work with? Well we want web merchants. And what other
+我们想要网络商家。
+138
+00:06:58,000 --> 00:07:00,750
+companies do web merchants work with? Well we just kind of
+还有那些和网络商家合作的公司。
+139
+00:07:00,750 --> 00:07:03,750
+went through in order. We said well you need a domain name
+我们只是逐一地去找，我们说，你需要一个域名注册，
+140
+00:07:03,750 --> 00:07:06,500
+registrar, you need a web host. You probably need some kind
+你需要一个网站主机，你可能需要一些商店去卖东西；
+141
+00:07:06,500 --> 00:07:09,391
+of commerce store to sell things; you need a merchant bank
+你需要一个银行，如果你要卖东西的话。
+142
+00:07:09,411 --> 00:07:10,911
+if you're going to sell anything.
+
+143
+00:07:10,911 --> 00:07:13,088
+You probably need accounting software so anybody that's
+你大概需要会计类的软件，所以任何使用Qickbooks来记录收入的人可能
+144
+00:07:13,088 --> 00:07:15,704
+using Quickbooks is probably recording revenue and might be
+对我们来说是一个客户。
+145
+00:07:15,724 --> 00:07:18,711
+a good customer for us. You?re probably using marketing
+你可能用一些市场类的工具，
+146
+00:07:18,731 --> 00:07:21,481
+tools like Ad words in order to sells things. You?re
+比如，Ad words去做销售。
+147
+00:07:21,496 --> 00:07:23,663
+probably using something like constant contact or exact
+你可能用像constant contact或者exact target email这些市场软件
+148
+00:07:23,682 --> 00:07:27,240
+target e-mail marketing software to send e-mails out to your
+来发邮件给你的客户，
+149
+00:07:27,260 --> 00:07:29,760
+customers saying, hey buy something from us. So these are
+说：hey，从我们这买点东西。所以这些都是我们
+150
+00:07:29,760 --> 00:07:32,581
+the different potential channels that we had and actually
+可能的渠道，我们曾经开拓市场的时候实际用到的，
+151
+00:07:32,600 --> 00:07:35,860
+when we built this out, when we started trial thing and said
+我们去实验这些渠道，然后说
+152
+00:07:35,880 --> 00:07:39,088
+okay, were going to sell directly through a sales team.
+好的，我们将直接通过一个团队做销售。
+153
+00:07:39,108 --> 00:07:42,053
+We're going to have marketing channels that hopefully bring
+我们将通过市场渠道把人引到我们的网站，
+154
+00:07:42,073 --> 00:07:45,098
+people to our website where we have people sign up. We're
+在那人们可以完成注册。
+155
+00:07:45,118 --> 00:07:47,868
+going to have a self service channel where, hopefully all of
+我们会有一个自理服务渠道，在那，
+156
+00:07:47,868 --> 00:07:50,618
+these things combined will reach the long tail. How do we
+希望所有的这些方法结合起来可以够到长尾的那部分顾客。
+157
+00:07:50,618 --> 00:07:53,118
+reach the, the really long tail that probably won't hear
+究竟怎么样有效地接触到那些长尾的顾客，那些总也不能得到我们的消息的顾客呢？
+158
+00:07:53,118 --> 00:07:55,618
+about us that we can't advertise to effectively? We went
+
+159
+00:07:55,618 --> 00:07:58,368
+through and created a list like this that, that was pretty
+我们创建了一张像这样的单子，这个很有效，
+160
+00:07:58,368 --> 00:08:01,118
+effective. And there are really two ways of doing some of
+有两种方法来做这种渠道的生意。
+161
+00:08:01,118 --> 00:08:03,868
+these channel deals. In some cases you just want a straight
+一种情况，你需要一个直接引荐人。
+162
+00:08:03,868 --> 00:08:06,790
+referral. So we said we could do a straight out integration,
+所以我们做一个直接的嵌入，
+163
+00:08:06,810 --> 00:08:10,488
+so we'd love to integrate with PayPal, because if everybody
+我们很愿意嵌入Paypal，因为如果每个人注册Paypal自动得到一个
+164
+00:08:10,508 --> 00:08:12,942
+signing up for PayPal automatically got a Travel Pay
+Travel Pay的账户，
+165
+00:08:12,962 --> 00:08:15,399
+account, wow we'd probably have hundreds of thousands of
+那么我们可能就有数以万计的客户了。
+166
+00:08:15,399 --> 00:08:18,055
+clients. But it's often hard to get an integration. The
+但是通常做这种嵌入是困难的。
+167
+00:08:18,055 --> 00:08:21,683
+easiest thing On the scale of kind of easy to difficult is
+在从困难到简单的轴上，最简单的事情可能就是
+168
+00:08:21,703 --> 00:08:24,526
+often getting a referral program in place. So I remember the
+做一个推荐项目
+169
+00:08:24,546 --> 00:08:27,046
+first channel deal that we did, thinking about that last
+我记得我们做的第一个渠道，想想我展示的上一张幻灯片，
+170
+00:08:27,046 --> 00:08:30,296
+slide that I showed, was we went to Web.com, which is a
+我们去web.com,
+171
+00:08:30,296 --> 00:08:32,797
+leading web hosting company which we figured anybody that is
+这是一家领先的网站服务器公司，任何在网上卖东西的人
+172
+00:08:32,797 --> 00:08:35,297
+selling something online has to have a web hosting company.
+都需要一个网站服务器公司。
+173
+00:08:35,297 --> 00:08:37,650
+Web.com is one of many web hosting companies.
+Web.com就是众多网站服务器公司之一，
+174
+00:08:37,670 --> 00:08:41,418
+Let's go to Web.com and say, hey Web.com, we'll pay you a
+我们去Web.com说，web.com,我们会给你一笔钱，
+175
+00:08:41,418 --> 00:08:44,346
+bunch of money every time you send us a customer that signs
+每次你给TrialPay送来一个客户
+176
+00:08:44,346 --> 00:08:47,171
+up for Trialpay, Which we know that your customers, maybe
+只要我们确定这是你给送来的客户，
+177
+00:08:47,191 --> 00:08:49,206
+twenty percent of them are selling something and would be
+可能他们中的20%都在卖东西，而且是TrialPay很好的客户。
+178
+00:08:49,206 --> 00:08:53,054
+great customers for Trialpay. And we actually did that. And
+我们就是这么做的。
+179
+00:08:53,074 --> 00:08:57,384
+we try to focus on customers, or kind of channel partners
+我们试图集中精力在客户身上，或者是渠道合作伙伴，
+180
+00:08:57,404 --> 00:09:00,150
+that weren't growing extremely quickly. Because if you're
+那些成长非常快的。因为如果你每年
+181
+00:09:00,170 --> 00:09:03,408
+growing 1000 percent year over year, probably the last thing
+增长1000%，可能你要做的最后一件事就是
+182
+00:09:03,428 --> 00:09:05,643
+you're going do is partner with a small company in
+和Mountainview的一家小公司合作，
+183
+00:09:05,643 --> 00:09:08,187
+Mountainview to send your customers over to them. You're
+把你的客户给它。
+184
+00:09:08,207 --> 00:09:10,903
+gonna focus on extracting more value and building more value
+你把精力放在更有价值更让人兴奋的事情上，
+185
+00:09:10,923 --> 00:09:13,838
+for your current clients. We looked at a large number of
+以及为你现在的客户创造更大的价值。我们观察大量的客户，
+186
+00:09:13,858 --> 00:09:15,858
+clients that, or large number of potential par-,
+以及大量的合作方，
+187
+00:09:15,858 --> 00:09:18,311
+partnerships, channel partners that weren't growing that
+渠道合作方，他们没有增长的那么快。
+188
+00:09:18,331 --> 00:09:21,567
+quickly. Or maybe they were growing quickly, but we thought
+或者他们增长很快，但是我们原以为
+189
+00:09:21,587 --> 00:09:25,087
+we might be able to get a deal with them. So, and, and the,
+我们可能会和他们做生意，所以最终我们决定
+190
+00:09:25,087 --> 00:09:27,472
+the lines go between a referral program for a channel
+和推荐项目的一个渠道合作，
+191
+00:09:27,472 --> 00:09:30,980
+partnership, which is great. Because if you're Hilton Hotels
+这是很好的。因为如果你是Hilton酒店，
+192
+00:09:31,000 --> 00:09:33,545
+and you're able to get every airline to just say, like hey,
+你有能力让每一家航空公司说，
+193
+00:09:33,545 --> 00:09:34,545
+Hilton is great.
+Hilton很棒，
+194
+00:09:34,545 --> 00:09:37,295
+And they just put a little endorsement on their website or
+他们只要在他们的杂志上做一些担保，
+195
+00:09:37,295 --> 00:09:39,795
+in their magazine, or in every, you know, seat back
+或者是他们的杂志，或者是任何，
+196
+00:09:39,795 --> 00:09:42,045
+compartment. That's probably going to be very good for
+座椅靠背后面的格子。这对Hilton就非常棒了。
+197
+00:09:42,045 --> 00:09:44,545
+Hilton. But even better, is if you're integrated into the
+但是更好的是，如果你被加入到销售的过程中，
+198
+00:09:44,545 --> 00:09:47,295
+sales process, so Hilton would love to have a little check
+所以Hilton喜欢在每一个Delta航空公司旁边都加一个复选框，
+199
+00:09:47,295 --> 00:09:49,795
+box next to every single Delta airlines, you know, buy
+
+200
+00:09:49,795 --> 00:09:52,795
+button, saying, do you also want to book five nights at the
+加一个按键，你是不是希望在Hilton酒店住五晚呢？
+201
+00:09:52,795 --> 00:09:55,545
+Hilton Hotel? So, and we thought about this the same way.
+我们也是这个思路。
+202
+00:09:55,545 --> 00:09:58,295
+But integration is often tough because the value will end up
+但是这种结合通常是困难的，因为一部分价值会给别的公司，
+203
+00:09:58,295 --> 00:10:01,841
+going to the company like us, and you know, less so to the
+像我们这样的公司，对那些植入的公司来说，利润会减少。
+204
+00:10:01,860 --> 00:10:05,359
+company that's integrating you. So we looked at all sorts of
+我们看了所有这个范围内的机会。
+205
+00:10:05,379 --> 00:10:08,726
+opportunities on this scale. And this is kind of a basic BCG
+这是基本的BCG类型的模式（BCG是公司风格和策略的一种）
+206
+00:10:08,746 --> 00:10:12,635
+style matrix. And we looked at in terms of how feasible is
+我们从是否可行这个角度来衡量，
+207
+00:10:12,655 --> 00:10:17,312
+this and what's the benefit and you know, kind of looked at
+从好处的大小的角度，
+208
+00:10:17,332 --> 00:10:19,832
+where the potential benefit was high and it seemed very
+看看怎么做的潜在价值会大一些，这些看起来都可行，
+209
+00:10:19,832 --> 00:10:22,375
+feasible, these were the deals that we focused on for
+这就是我们在渠道上的一些做法，
+210
+00:10:22,394 --> 00:10:24,894
+channels, because almost the problem was we had too many
+因为问题是我们有太多的渠道合作方，
+211
+00:10:24,894 --> 00:10:26,997
+potential channel partners, we had thousands of channel
+我们有成千上万的渠道合作可供我们合作，
+212
+00:10:27,017 --> 00:10:30,184
+partners that we could talk to. I mean there alone thousands
+我指的是每一项就有成千上万，
+213
+00:10:30,204 --> 00:10:35,496
+of different web hosting companies, domain registrars, it
+网站主机，域名注册，从来不停，
+214
+00:10:35,516 --> 00:10:38,524
+doesn't stop, so which ones do we focus on, which ones do we
+我们应该集中精力做哪一个，
+215
+00:10:38,524 --> 00:10:40,909
+think we had the highest chance of closing.
+选一个我们会有最好的结尾。
+216
+00:10:40,929 --> 00:10:44,250
+So kind of what we ended up, and this is you know, real,
+我们最终能得到真实的数据，
+217
+00:10:44,270 --> 00:10:47,270
+real data for when we looked at this as a company. We
+当把这个作为一个公司来看。
+218
+00:10:47,270 --> 00:10:49,520
+thought well Paypal would be great but pretty low
+我们原以为Paypal可能会很棒，但其实可行度不高，
+219
+00:10:49,520 --> 00:10:52,706
+feasibility that we'd be able to get that done anytime soon.
+不可能短期内完成。
+220
+00:10:52,725 --> 00:10:56,835
+Somebody like Intoit would be great but actually the benefit
+像Intoit也很棒，但是对我们来说好处不是很高，
+221
+00:10:56,855 --> 00:10:59,721
+to us wasn't as high because most people using quickbooks
+因为大多数使用quickbooks的人都不是在线上做生意的。
+222
+00:10:59,741 --> 00:11:02,447
+are probably not online merchants. They might be gyms or
+他们可能是健身中心，或者
+223
+00:11:02,467 --> 00:11:05,482
+spas or some kind of offline merchants, so that probably
+温泉或者是线下的生意，
+224
+00:11:05,502 --> 00:11:07,002
+wasn't quite as good for us.
+这可能对我们也不太合适。
+225
+00:11:07,002 --> 00:11:10,436
+Well, the domain registrars like a tucows or register.com,
+域名注册，像tucows或者register.com，
+226
+00:11:10,456 --> 00:11:14,795
+those might be great, rather it like. We might have a decent
+这些可能很好，我们应该有相对大的机会
+227
+00:11:14,815 --> 00:11:17,822
+chance of pulling those off, but also those were not quite
+把他们拿下，但是他们和我们做的不是特别符合。
+228
+00:11:17,842 --> 00:11:20,559
+as quart of what we were doing. When TrialPay started, we
+当TriaPay起步的时候，
+229
+00:11:20,559 --> 00:11:23,024
+were really focused on solving this problem of most people
+我们集中在解决那些不会为WinZip付钱的客户的问题上，
+230
+00:11:23,024 --> 00:11:25,977
+won't pay for WinZip, or they won't pay for some software
+或者是那些不会为软件产品付费，
+231
+00:11:25,977 --> 00:11:28,216
+product but they will shop at Gap, or will do something
+但是会去Gap购物的人，或者是做其他的一些事。
+232
+00:11:28,216 --> 00:11:31,497
+else. And that's really where we, where we had our core, and
+这就是我们的核心，再一次，
+233
+00:11:31,517 --> 00:11:34,267
+again, thinking about how you focus on a type vertical and
+好好想想你应该如何集中在一个垂直线上，
+234
+00:11:34,267 --> 00:11:37,267
+growing from there. So we made Download.com one of our top
+然后从那开始成长。所以我们把download.com作为我们的首选，
+235
+00:11:37,267 --> 00:11:39,894
+choices, this is who we really want as a channel partner
+我们选他们做渠道合作方
+236
+00:11:39,894 --> 00:11:40,894
+because.
+是因为
+237
+00:11:40,894 --> 00:11:45,625
+They have tons and tons of relationships with companies that
+他们有大量的和其他公司的关系，那些公司是我们想要接触的。
+238
+00:11:45,645 --> 00:11:48,937
+we want to reach. So we went to Download.com. I just looked
+所以我们找到download.com
+239
+00:11:48,957 --> 00:11:51,548
+at their, their website many years ago. They have 64,000
+我很多年前就去看了他们的网站，他们有64，000件产品，
+240
+00:11:51,548 --> 00:11:55,151
+products. So, you know, some are in the, the 50 to 60
+所以，50，000到60，000件软件产品中的一些独一无二的
+241
+00:11:55,171 --> 00:11:57,962
+thousand range in terms of unique software merchants that
+
+242
+00:11:57,982 --> 00:12:01,712
+are using Download.com. So we were very ecstatic about
+都在使用download.com,所以想到能和他们合作，我们很兴奋，
+243
+00:12:01,732 --> 00:12:04,333
+potentially getting him as a child partner, because if they
+因为如果他们
+244
+00:12:04,353 --> 00:12:07,235
+can distribute trial even from a referral perspective, to
+能帮我们分销，即使只是推荐，
+245
+00:12:07,254 --> 00:12:10,181
+60,000 merchants, we would almost never be able to reach
+给60，000的商家，这是靠我们自己永远也达不到的，
+246
+00:12:10,201 --> 00:12:12,066
+those on our own, at least profitably.
+至少从效率角度看。
+247
+00:12:12,086 --> 00:12:15,634
+>> So we were very excited about that, and also it helps
+所以我们很兴奋，同时，他们有助于
+248
+00:12:15,653 --> 00:12:18,681
+give defensibility to our business. So if we could get
+为我们提供防御。如果我们可以
+249
+00:12:18,701 --> 00:12:21,326
+integrated into Download dot com, and we had many
+嵌入Download.com,我们起步的时候就有很多
+250
+00:12:21,346 --> 00:12:24,097
+competitors when we started the company, if none of them
+竞争者，如果他们中没有人
+251
+00:12:24,117 --> 00:12:26,367
+could get integrated into download.com, that becomes a
+可以嵌入download.com,
+252
+00:12:26,367 --> 00:12:28,712
+competitive advantage for us, And one of the things that's
+那对我们来说就是竞争优势，
+253
+00:12:28,712 --> 00:12:31,109
+very, very important about channel partnerships in general,
+对渠道合作来说很重要的一点，
+254
+00:12:31,129 --> 00:12:33,904
+I can't emphasize this enough, is the concept of bi-
+再怎么强调也不为过，就是双向相关的概念。
+255
+00:12:33,924 --> 00:12:37,692
+directional relevance. So what I mean by this is that the
+我的意思是，
+256
+00:12:37,712 --> 00:12:41,602
+deal has to be relevant to both parties. So a deal with
+这个合作要对双方都有好处。对于download来说，
+257
+00:12:41,622 --> 00:12:45,350
+download.com would be very relevant to us. But if it's not
+他们和我们是相关的。
+258
+00:12:45,370 --> 00:12:47,896
+relevant to download.com, why would they do? Why would they
+但是如果和download无关，为什么他们要把这个放到重要的事情上来做？
+259
+00:12:47,896 --> 00:12:51,213
+prioritize it? So, great example hear is, I'd love to do a
+这里的一个例子是，
+260
+00:12:51,233 --> 00:12:54,239
+deal with Google but Google has 30 billion dollars a year in
+我也希望和google合作，但是google每年有300亿的收入，
+261
+00:12:54,259 --> 00:12:57,259
+revenue so if we make twenty million dollars a year from a
+如果我们每年有两千万从google那里来，
+262
+00:12:57,259 --> 00:13:00,009
+deal with Google, extremely relevant to us as a very young
+这就是2006，2007年我们作为一个年轻公司的情况，
+263
+00:13:00,009 --> 00:13:04,014
+company back in 2006, 2007 If we paid Google ten million
+如果我们给google每年几百万，
+264
+00:13:04,033 --> 00:13:08,403
+dollars a year, completely irrelevant to that. So The key to
+基本就和它没什么关系。
+265
+00:13:08,423 --> 00:13:11,259
+making these things successful is this concept of bi-
+所以让这些合作成功就要双向相关。
+266
+00:13:11,278 --> 00:13:13,692
+directional relevance. So just because something's a great
+一些看起来很好的合作，
+267
+00:13:13,711 --> 00:13:17,211
+deal for you if it's not going to be a great deal or a
+如果他对你的合作方没好处，或者没有那么好，
+268
+00:13:17,211 --> 00:13:19,711
+needle mover for your partner, in the channel partner sense
+从对方的角度来看，
+269
+00:13:19,711 --> 00:13:22,461
+of the word, it's probably not going to work that effective.
+那可能就不会起作用。
+270
+00:13:22,461 --> 00:13:26,679
+Effectively. So we thought that this could be a very, very
+我们原以为这会是非常好的一个合作伙伴，
+271
+00:13:26,699 --> 00:13:29,449
+good channel partner for us and somewhat of a unique one.
+或者是独一无二的，
+272
+00:13:29,449 --> 00:13:32,199
+And we thought it would be very relevant for Gamma.com
+我们原以为会和gamma.com很相关，
+273
+00:13:32,199 --> 00:13:34,449
+because the were looking to pursue new opportunities and
+因为他们是做找寻机会以及收入模式的，
+274
+00:13:34,449 --> 00:13:37,035
+revenue models. And we also thought there would be very
+我们还以为如果我们和FTD或者Netflix合作，
+275
+00:13:37,055 --> 00:13:40,415
+strong network effects because if we send more traffic to
+会有很强的网络效果，
+276
+00:13:40,435 --> 00:13:43,492
+FTD or Netflicks which is what our business model based on,
+他们都建立在我们的商业模式上，
+277
+00:13:43,512 --> 00:13:46,679
+we would actually be able to command higher prices from
+我们应该从那得到更多钱，
+278
+00:13:46,699 --> 00:13:49,699
+them. So this was a very, very, very good relationship if we
+所以这将会是一个非常好的关系如果能够顺利实现，
+279
+00:13:49,711 --> 00:13:52,711
+could pull it off and we said this would be the perfect
+我们说这将会是一个非常好的渠道。
+280
+00:13:52,711 --> 00:13:56,357
+channel partner for us. So, again, you know, we talked about
+再一次，我们谈到了把关注点放在一个纵向领域，
+281
+00:13:56,377 --> 00:13:59,740
+focusing on one vertical, doing it well. First vertical was
+把它做好。第一个纵向领域是软件。
+282
+00:13:59,759 --> 00:14:03,327
+software. We, we built a whole model suggesting how large
+我们建了一整套模式向download.com建议
+283
+00:14:03,347 --> 00:14:06,163
+this would be for download.com. Turned out it was very
+这对他们来说将会是非常大的一个市场，结果验证
+284
+00:14:06,183 --> 00:14:10,112
+relevant for download.com; it was very relevant for us. The
+这确实和download.com很相关；和我们也很相关。
+285
+00:14:10,132 --> 00:14:13,539
+addressable market was, was quite substantial. And this was
+可设定的市场是相当大量的，
+286
+00:14:13,559 --> 00:14:15,935
+the first channel partnership that we started. Built a whole
+这是我们开始的时候第一个渠道合作伙伴。我们为此建了一整套模式，
+287
+00:14:15,935 --> 00:14:19,092
+model for this and it actually had Download.com buy into it.
+而download.com也买下来了。
+288
+00:14:19,112 --> 00:14:22,240
+And one of the things that I've talked about as well is what
+还有一件事我也谈过的就是
+289
+00:14:22,240 --> 00:14:24,584
+channel partnerships can do quite effectively is build
+合作伙伴可以很有效地建立起防御性，
+290
+00:14:24,604 --> 00:14:27,942
+defensibility. So what does defensibility mean in our sense
+防御性在我们的概念里是什么意思
+291
+00:14:27,962 --> 00:14:29,962
+of the word, well remember what we do?
+记得我们是干嘛的吗？
+292
+00:14:29,962 --> 00:14:33,033
+We go to merchants that are selling things, we say hey, just
+我们去找买东西的商家，我们说，嘿，
+293
+00:14:33,053 --> 00:14:36,326
+like you know, they might put up AdSense up on their site to
+就像你知道的，他们可能把AdSense挂在他们的网站上，
+294
+00:14:36,346 --> 00:14:39,096
+earn revenue every time somebody clicks on an ad, we want
+每次人们点击那个广告他们就会有收入，
+295
+00:14:39,096 --> 00:14:42,275
+them to put CharlPay up on their site. So that they'll earn
+我们希望他们把CharlPay放在他们的网站，这样他们就可以
+296
+00:14:42,275 --> 00:14:44,540
+revenue every time, This is an alternative way of buying
+每次赚钱了。这是买东西的另外一种办法，
+297
+00:14:44,540 --> 00:14:46,731
+something, at least for software companies. But this
+至少对一些软件公司是这样的。
+298
+00:14:46,751 --> 00:14:49,390
+actually made us very vulnerable, because we had, probably,
+但是这其实让我们很脆弱，因为，
+299
+00:14:49,410 --> 00:14:51,987
+when we were starting, three or four different competitors.
+当我们开始的时候，有三到四个不同的竞争者，
+300
+00:14:52,007 --> 00:14:54,733
+Now we don't really have that many anymore. We bought one of
+现在我们没有那么多了，我们买了我们的一个竞争对手，
+301
+00:14:54,733 --> 00:14:56,515
+our competitors, and couple others have gone out of
+还有其他一些都已经出局了。
+302
+00:14:56,515 --> 00:14:57,515
+business.
+
+303
+00:14:57,515 --> 00:15:00,877
+So if you think about the flow of things for trial pay
+所以如果Trial Pay没有像download.com这样的渠道合作。
+304
+00:15:00,897 --> 00:15:03,482
+without a channel partner like download.com. There's
+
+305
+00:15:03,502 --> 00:15:07,141
+consumer traffic, so Joe-shmo goes to, I don't know,
+有顾客访问量，所以Joe-Shmo去了
+306
+00:15:07,161 --> 00:15:10,860
+Fandango, and then Fandango shows an offer from Charlpay,
+Fandango,然后Fandango得到了Charlpay的邀请，
+307
+00:15:10,879 --> 00:15:13,552
+and then we generate revenue in that different, in that
+我们在这样的背景下创造了收入。
+308
+00:15:13,572 --> 00:15:16,121
+context. But Fandango could swap us out for somebody else,
+但是Fandango可以把我们换成别人，
+309
+00:15:16,141 --> 00:15:18,798
+they could say, okay, we're not gonna have trialpay there
+他们可以说，好吧，我们不需要trialpay了，
+310
+00:15:18,798 --> 00:15:25,552
+we're going to put, I don't know, X, Y, Z.
+我们想要X，Y，Z在这，
+311
+00:15:25,572 --> 00:15:27,977
+[inaudible] instead, are X, Y, Z different company instead
+X，Y，Z是不同的公司，
+312
+00:15:27,997 --> 00:15:30,899
+which is actually not a good for us because we want to
+X，Y,Z对我们来说会不会是好的，因为我们想要
+313
+00:15:30,899 --> 00:15:33,399
+maintain and own that real estate. The nice thing about
+保持和拥有不动产。
+314
+00:15:33,400 --> 00:15:36,687
+doing a deal with download.com is that, we were in the
+和Download.com合作的一个好处就是，我们在中间，
+315
+00:15:36,707 --> 00:15:39,269
+middle and I'll show you what deal with download.com looked
+我会给你看我们和download.com的合作是怎样的，
+316
+00:15:39,269 --> 00:15:41,269
+like in a little bit because it's beyond just a referral
+因为这不仅仅是一种合作关系。
+317
+00:15:41,269 --> 00:15:42,269
+relation.
+
+318
+00:15:42,269 --> 00:15:45,608
+We wanted to actually drive traffic to merchants, which is a
+我们想要促进商家的流量，这是一个非常特别的定位，
+319
+00:15:45,628 --> 00:15:50,579
+very unique proposition. So we want to have bidirectional,
+所以我们想要双向的
+320
+00:15:50,599 --> 00:15:53,768
+utility here. So, rather than the first example were
+设置。与第一个例子中销售者来找商家，
+321
+00:15:53,788 --> 00:15:57,612
+consumers goes to merchants, goes to trail pay and we can
+消费者来trail pay，我们就会被
+322
+00:15:57,632 --> 00:16:00,632
+get swapped out, well if were in the middle. So if we
+置换出，如果我们是在中间，
+323
+00:16:00,632 --> 00:16:03,382
+actually have our own consumer traffic and our sending it to
+如果我们有自己的客户流量，我们把他给商家，
+324
+00:16:03,382 --> 00:16:05,632
+merchants, merchants are using trial pay as the example
+商家其实是用trial pay，这是一个例子。
+325
+00:16:05,632 --> 00:16:08,882
+above. That's a very good position to be in. And one of the
+这是一个很好的定位。
+326
+00:16:08,882 --> 00:16:11,132
+things that's, that's very important when you think about
+这是很重要的一件事，当你思考渠道定价的时候。
+327
+00:16:11,132 --> 00:16:14,914
+channels in general is pricing. And I'll just touch on this
+我会简单地讲讲这个。
+328
+00:16:14,934 --> 00:16:17,697
+briefly. You've probably heard of the term channel conflict
+你可能已经听说过渠道冲突这个词了，
+329
+00:16:17,716 --> 00:16:20,518
+before. What this basically means is that channels can't
+这个的意思就是说，渠道不能通过价格来竞争。
+330
+00:16:20,538 --> 00:16:24,365
+really compete with each other on price. So every time that
+所以每次
+331
+00:16:24,385 --> 00:16:28,194
+retail like best buy. Finds out that one of the direct
+零售商比如bestbuy，发现他们直销的一个品牌
+332
+00:16:28,214 --> 00:16:31,673
+brands that they sell, call it HP, if HP is selling HP
+比如HP，如果HP在www.hp.com以一个便宜的价格卖电脑
+333
+00:16:31,692 --> 00:16:35,731
+computers for a lower price at www.hp.com then consumers are
+客户要在bestbuy花更多的钱，
+334
+00:16:35,751 --> 00:16:37,858
+paying at Best Buy, Best Buy is going to be very upset about
+那么bestbuy就会很紧张，
+335
+00:16:37,858 --> 00:16:38,858
+that.
+
+336
+00:16:38,858 --> 00:16:41,341
+Quite understandably, because it means that all the
+这很容易理解，因为这意味这所有的顾客
+337
+00:16:41,360 --> 00:16:43,860
+customers that are going into their stores, all the money
+都会去hp的商店，
+338
+00:16:43,860 --> 00:16:46,610
+that, that Best Buy is spending on their stores and on
+所有bestbuy花的钱
+339
+00:16:46,610 --> 00:16:49,110
+advertising to drive people in, it's almost all for naught,
+花在做广告让人们上门的钱，都会变为零，
+340
+00:16:49,110 --> 00:16:52,831
+because Best Buy is charging more than the products, than,
+因为best buy卖的比这个产品本身贵，
+341
+00:16:52,850 --> 00:16:55,600
+than the products that are being sold in their stores when
+比这个产品在店里的价格高，
+342
+00:16:55,600 --> 00:16:58,100
+they're sold directly by those retailers, or by those by
+比他们从其他的零售商那直接买，或者是品牌商。
+343
+00:16:58,100 --> 00:17:01,910
+those brands. So it's very difficult for channel partners To
+所以渠道合作方想要用价格和一个品牌竞争非常难。
+344
+00:17:01,930 --> 00:17:03,714
+go compete with a brand on pricing.
+
+345
+00:17:03,734 --> 00:17:06,268
+We thought about this as well. Because we didn't want to
+我们也想过这个，因为我们不想
+346
+00:17:06,268 --> 00:17:09,018
+make average in that last example or when's it the worst
+在上面这个例子上做平均，或者最坏的是，
+347
+00:17:09,018 --> 00:17:11,518
+deal because they came through download.com to reach us,
+因为他们通过download.com找到我们，
+348
+00:17:11,518 --> 00:17:15,481
+than if, than if they went to us directly. However this is
+而不是直接找到我们。但是这很重要，
+349
+00:17:15,501 --> 00:17:17,884
+very important. Channel partners can be offered different
+渠道合作可以给不同的价码，
+350
+00:17:17,904 --> 00:17:21,194
+economics by this, I mean. Hilton might decide they're going
+Hilton可以自己决定给Amercian Express多少钱，
+351
+00:17:21,214 --> 00:17:22,759
+to pay American Express.
+
+352
+00:17:22,778 --> 00:17:25,786
+>> More than they pay Orbitz every time they get a customer.
+每得到一个客户，比Orbitz的多
+353
+00:17:25,806 --> 00:17:28,892
+But it's important that the Hilton hotel, the hotel room
+但是Hilton的房间价格是200每晚这点很重要，
+354
+00:17:28,912 --> 00:17:31,578
+that's two hundred dollars a night, is actually offered for
+不管在American Express还是Orbitz上都是这个价格
+355
+00:17:31,578 --> 00:17:34,494
+two hundred dollars a night at American Express dot com, at
+
+356
+00:17:34,514 --> 00:17:38,022
+Orbitz dot com, at Expedia dot com. Because if you don't do
+因为如果他们不这样做，
+357
+00:17:38,042 --> 00:17:41,391
+that, it creates this massive channel conflict problem, and
+那么他们就会有渠道冲突的问题，
+358
+00:17:41,411 --> 00:17:44,161
+it's actually very hard to build a successful channel, if it
+要建一个成功的渠道很难，
+359
+00:17:44,161 --> 00:17:47,795
+turns out that the, the base partner is offering different
+如果最低端的合作方给出一个不同的价格，
+360
+00:17:47,815 --> 00:17:51,522
+end user terms. But it's actually fine to offer different
+但是如果给Walmart不同的价格这是可以的，
+361
+00:17:51,542 --> 00:17:55,210
+economics, like Wal-Mart, This is the whole concept, by the
+这就是整个的概念，
+362
+00:17:55,230 --> 00:17:57,807
+way, of the, of the M-S-R-P, manufacturer suggested retail
+用MSRP的方式，即制造商建议零售价格。
+363
+00:17:57,807 --> 00:18:00,713
+price. The manufacturer actually wants the product to be
+制造商实际希望产品能以一个价格出售，
+364
+00:18:00,733 --> 00:18:03,330
+sold for the same price across all their different
+不管是通过什么渠道，
+365
+00:18:03,350 --> 00:18:06,076
+distribution channels, whether it's Walmart, or Target, or
+不管是walmart，还是Traget，或者别的。
+366
+00:18:06,096 --> 00:18:07,096
+something else.
+
+367
+00:18:07,098 --> 00:18:09,890
+But they don't mind, it's not a problem because it's, it's
+但是他们不介意，这不是个问题，因为这实际上是
+368
+00:18:09,890 --> 00:18:12,211
+actually somewhat opaque if Walmart is paying a lower price
+不透明的，如果你给Walmart一个低点的价格，
+369
+00:18:12,211 --> 00:18:17,130
+per unit than Target is. So how did we price this? This is a
+比Target的低。到底我们怎么定价？
+370
+00:18:17,150 --> 00:18:20,638
+little bit complicated here. But we have users that go to
+这有点复杂。如果我们的用户去download.com,
+371
+00:18:20,658 --> 00:18:25,661
+download.com. So the user goes here to download.com. We
+这些用户是从download.com过来的，
+372
+00:18:25,681 --> 00:18:30,201
+would generate maybe $30 by sending this user to Petco. We
+通过把这个用户送给Petco，我们大约会产生$30的价值，
+373
+00:18:30,221 --> 00:18:34,099
+might keep six of that. We'll pay some of it to Winzip, and
+我们可能留其中的6块。我们会把一部分给Winzip，
+374
+00:18:34,119 --> 00:18:37,666
+then we'll pay the rest to Download.com. So this was
+然后剩下的给download.com
+375
+00:18:37,686 --> 00:18:40,364
+somewhat of a, it's a standard affiliate model in internet
+这就是一个标准的联系的模型，用互联网的模式说。
+376
+00:18:40,364 --> 00:18:43,882
+parlance. But this is one way that we actually built our
+但这是我们定价模式的方法之一，
+377
+00:18:43,902 --> 00:18:47,671
+pricing model because this is a customer that's coming from
+因为这是来自download.com的客户
+378
+00:18:47,691 --> 00:18:51,187
+Download.com so it's okay to compensate Download.com for
+那么补偿download.com就很合理，
+379
+00:18:51,207 --> 00:18:54,162
+that. However, what we did, and we were very adamant about
+然而，我们做的，我们对此很坚持，
+380
+00:18:54,182 --> 00:18:58,365
+this, is that if Download.com referred us a new client. We
+如果Download推荐给我们一个新客户。
+381
+00:18:58,384 --> 00:19:01,130
+wanted to make sure that we weren't offering that client
+我们希望确保，我们不会给那个客户有差别的条款，
+382
+00:19:01,130 --> 00:19:03,626
+worse terms then if they came to us on their own.
+如果他们是自己来的。
+383
+00:19:03,626 --> 00:19:04,628
+So that's what I mean by
+这就是我说的渠道冲突的意思。
+384
+00:19:04,628 --> 00:19:10,010
+[inaudible] conflict. So this goes back to the concept of
+这又说回刚才的概念，
+385
+00:19:10,030 --> 00:19:13,030
+focusing on a vertical and doing it well. Once we knew that
+集中精力在一个垂直领域，把它做好。一旦我们知道
+386
+00:19:13,031 --> 00:19:15,943
+download.com was successful our business development team
+download.com是成功的，我们的商业拓展团队就会
+387
+00:19:15,963 --> 00:19:18,869
+went to every other download site on the planet, including
+和地球上的每一个下载网站谈，
+388
+00:19:18,889 --> 00:19:21,854
+many that I hadn't even heard of, you know whether it's a
+包括我都没听说过的那些，不管他是什么样的下载网站。
+389
+00:19:21,854 --> 00:19:27,639
+download pipe of Tucows or gold software.com. And it was
+
+390
+00:19:27,659 --> 00:19:30,659
+actually easy to get those, because we could go to them and
+事实上，要拿下他们就不难了，因为我们可以找到他们说，
+391
+00:19:30,659 --> 00:19:33,409
+say. We have download.com. That's one of our biggest channel
+我们有download.com,这是他们那个渠道上最大的一家。
+392
+00:19:33,409 --> 00:19:36,409
+partners. Do you want to have a deal like download.com? We
+你想要要download.com一样的合作嘛？
+393
+00:19:36,409 --> 00:19:38,159
+can pay you a lot of money, there's bi-directional relevance
+我们可以付你一笔钱，并且我们双方相关。
+394
+00:19:38,159 --> 00:19:39,159
+there.
+
+395
+00:19:39,159 --> 00:19:41,409
+It gave us more distribution and defensibility for this
+这给了我们更多的分销以及防御性，
+396
+00:19:41,409 --> 00:19:43,865
+software vertical, and it became a very profitable sales
+在软件这条纵轴上，这也变成了我们非常赚钱的一个渠道，
+397
+00:19:43,884 --> 00:19:46,634
+channel for us due to what I would call aggregating effects,
+因为我叫它聚合效应，
+398
+00:19:46,634 --> 00:19:49,711
+because we're able to get so many of them. And we actually
+因为我们能拿到很多。事实上，最终，
+399
+00:19:49,711 --> 00:19:52,316
+ended up getting almost every major consumer software
+我们以拿到几乎所有大的软件公司结尾，
+400
+00:19:52,336 --> 00:19:55,193
+company and even a lot of more importantly. Minor software
+更重要的是，小的软件公司也因此而使用我们的服务。
+401
+00:19:55,213 --> 00:19:58,671
+companies using our service as a result of this, In summary
+
+402
+00:19:58,691 --> 00:20:02,278
+here challenges are important for virtually every company
+总结一下，对每个公司都有挑战，
+403
+00:20:02,298 --> 00:20:05,747
+you know whether you are drop box and hoping to just get you
+即使你是dropbox，仅希望通过口口相传
+404
+00:20:05,767 --> 00:20:09,234
+know word of mouth growth or drop box also wants to get
+或者dropbox也想安在每一个三星的Horizon手机上，
+405
+00:20:09,254 --> 00:20:13,303
+installed on every Samsung Horizon phone. That's great for
+这对他们来说是好的，
+406
+00:20:13,323 --> 00:20:16,771
+them, that's another channel partnership for them and it's
+这是另一个渠道合作方式，
+407
+00:20:16,791 --> 00:20:19,041
+just, it's very important to grow your business beyond
+让你的生意开发一般的市场模式或者销售模式之外的方法很重要，
+408
+00:20:19,041 --> 00:20:21,041
+standard sales models and beyond standard marketing models
+
+409
+00:20:21,041 --> 00:20:25,837
+because channel can get you into places where those two
+因为渠道可以帮你的，以上两个没有帮你做到。
+410
+00:20:25,857 --> 00:20:29,485
+cannot. And you can also look at every deal from three
+你也可以从三个不同的镜子中看这个交易，
+411
+00:20:29,505 --> 00:20:31,329
+different lenses, which is how we looked at it.
+我们就是这么看的。
+412
+00:20:31,329 --> 00:20:34,515
+We looked at it from defensibility, so it does this look us
+我们从防御性，
+413
+00:20:34,535 --> 00:20:37,785
+out so drop box, using that as an example, drop box being on
+所以drop box把这个作为一个例子，dropbox在每一个Samsung的手机上，
+414
+00:20:37,799 --> 00:20:42,455
+every Samsung phone or every LG phone and box.net or some
+或者每一个LG的手机上，box.net或者其他的竞争对手就没有这个渠道。
+415
+00:20:42,475 --> 00:20:45,952
+other competitor not being there. Actually helps drop box
+这就帮dropbox建立起了更强的防御性。
+416
+00:20:45,972 --> 00:20:49,369
+build more defensibility. It's not just something that gets,
+不只是你得到了，
+417
+00:20:49,389 --> 00:20:51,976
+gets swapped out as easily. Distribution is another thing
+你更容易地置换。分销是我们关注的另一件事，
+418
+00:20:51,996 --> 00:20:54,246
+that we looked at, that's another lens. And also
+另一个镜子，
+419
+00:20:54,246 --> 00:20:56,246
+profitability, most importantly, because if you're a for
+还有利润，最重要，因为如果你是一个追逐利润的公司，
+420
+00:20:56,246 --> 00:20:59,246
+profit company, you have to make sure things add up to the
+你要确保在基本需求以上做加法。
+421
+00:20:59,246 --> 00:21:02,109
+bottom line. And if you think about what channels and how to
+如果你在想你需要哪个渠道，怎么建立渠道，
+422
+00:21:02,109 --> 00:21:04,595
+build your channel, the key thing to think about is
+最重要的事情就是，
+423
+00:21:04,595 --> 00:21:08,625
+complimentary goods and services. And I can't emphasize this
+附加产品和服务，这点再怎么强调也不为过。
+424
+00:21:08,644 --> 00:21:12,594
+enough. So, if you're. If you're Pizza Hut, like Pepsi did
+所以如果你是，你是必胜客，像百事可乐这么做。
+425
+00:21:12,614 --> 00:21:15,043
+this. Why did Pepsi end up buying Pizza Hut effectively
+为什么百事可乐通过Young Brants最终买下必胜客
+426
+00:21:15,043 --> 00:21:17,543
+through Young Brants a long time ago? Well, because Pepsi's
+很多年前就这么做了，因为百事可乐，
+427
+00:21:17,543 --> 00:21:21,632
+this very high margin sugar water. And they wanted to get as
+这种利润很高的糖水，他们想要和更多的饭店达成合作。
+428
+00:21:21,652 --> 00:21:23,152
+many deals with restaurants as possible.
+
+429
+00:21:23,152 --> 00:21:25,850
+Mcdonald's has locked or sorry, Coca Cola has locked down
+麦当劳也被锁定了，可口可乐锁定了麦当劳很多年了，
+430
+00:21:25,850 --> 00:21:28,168
+McDonald's for many years. That's a huge distribution
+这对可口可乐是很大的一个分销商
+431
+00:21:28,168 --> 00:21:32,226
+partner for Coca Cola. Hilton wants to make sure they're on
+Hilton要确保他们在hotel.com上，
+432
+00:21:32,246 --> 00:21:35,173
+hotels.com. So, look at all the complementary goods that
+所以，看看人们买的这些附加服务，
+433
+00:21:35,193 --> 00:21:37,965
+people are buying, when they might be buying your product.
+在他们可能也买你的东西的时候，
+434
+00:21:37,985 --> 00:21:40,817
+That's the best place to think about channel partners, or
+这就是你思考你的渠道伙伴的最好时机，
+435
+00:21:40,837 --> 00:21:42,902
+perspective channel partners. And the closer they are, the
+或者未来可能的渠道合作伙伴，你们离得越近，
+436
+00:21:42,902 --> 00:21:46,178
+more complementary they are, the higher the chance they're
+你们的附加关系越明显，你们就越可能进行相关合作。
+437
+00:21:46,198 --> 00:21:49,725
+hopeful by directionally relevant. And, you know, lastly
+
+438
+00:21:49,745 --> 00:21:51,995
+despite that fact that I really like channel partnerships
+最后，尽管我真的很喜欢渠道合作关系，
+439
+00:21:51,995 --> 00:21:54,739
+and they could be really valuable, a direct relationship
+他们也真的很有价值，和消费者建立直接关系绝对是最有价值的。
+440
+00:21:54,759 --> 00:21:57,855
+with the consumer is absolutely the most valuable. If you
+
+441
+00:21:57,875 --> 00:22:00,787
+don't have to go through any channel partners at all and you
+如果你完全不需要走这些渠道
+442
+00:22:00,787 --> 00:22:03,287
+just have people showing up at your doorstep, that's going
+人们直接出现在你的店门口，
+443
+00:22:03,287 --> 00:22:06,537
+to be the most valuable. And in some cases, you can even cut
+这是最有价值的。在一些情况下，你甚至可以砍掉一些渠道合作。
+444
+00:22:06,537 --> 00:22:08,787
+out the channel partner. What made Google successful, nobody
+Google为什么成功，没有很多人
+445
+00:22:08,787 --> 00:22:12,509
+had heard of google.com probably in 1998 or 1999, they did a
+知道Google可能在1998，1999，他们和
+446
+00:22:12,529 --> 00:22:15,601
+big deal with A-O-L. They did a big deal with Yahoo. Those
+AOL做过一些合作，和Yahoo做过一些合作，
+447
+00:22:15,601 --> 00:22:19,053
+were channel partners to get people searching at google.com,
+这是他们的合作伙伴，为了让人们在google上搜索，
+448
+00:22:19,073 --> 00:22:22,168
+or rather at Yahoo or at A-O-L where that s-, that search
+而不是yahoo或者AOL，
+449
+00:22:22,168 --> 00:22:24,896
+was actually powered by Google. But most importantly, people
+这两家其实是由google来支持的，但最重要的是，
+450
+00:22:24,916 --> 00:22:27,666
+realize, wow, this Google thing is really good, I'm going to
+人们意识到，google的东西真的很好，我会直接去google
+451
+00:22:27,666 --> 00:22:30,860
+go direct. And Google is a very valuable company today,
+google今天是一个很有价值的公司，
+452
+00:22:30,880 --> 00:22:33,579
+because they have so many people that show up at their
+因为很多人都直接出现在他们的门口。
+453
+00:22:33,579 --> 00:22:34,578
+doorstep directly.
+
+454
+00:22:34,598 --> 00:22:37,091
+But actually, I would argue that they built a lot of that
+但实际上，我想强调的是他们是通过很多的渠道合作达到的今天的成功，
+455
+00:22:37,091 --> 00:22:39,509
+success through channel partnerships. So thank you very
+谢谢，
+456
+00:22:39,529 --> 00:22:41,000
+much, I hope this was helpful.
+我希望这对你们有帮助。

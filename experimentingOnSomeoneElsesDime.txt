@@ -1,0 +1,552 @@
+
+1
+00:00:00,010 --> 00:00:05,671
+Hello, what I wanted to talk about today is the value of
+你好，我今天想说的是
+2
+00:00:05,681 --> 00:00:12,907
+experimenting on someone else's dime. So there's a lot of
+用别人的钱做实验的价值。
+3
+00:00:12,926 --> 00:00:16,786
+talk these days about how entrepreneurship is fundamentally
+最近有很多的讨论都说，创业基本上是一个实验的过程。
+4
+00:00:16,806 --> 00:00:20,865
+a search process. And the vision that we're getting is that
+我们应该把创办一个新公司看做是一个寻找一种可行的商业模式的过程。
+5
+00:00:20,885 --> 00:00:25,506
+the process of starting a new company is about an initial
+
+6
+00:00:25,526 --> 00:00:29,616
+search for a new viable business model. And throughout this
+在这个寻找的过程中，
+7
+00:00:29,636 --> 00:00:33,805
+search, you're essentially running a process of hypothesis
+你其实是在测试你提出的假设的过程。
+8
+00:00:33,826 --> 00:00:38,004
+testing. Your initial business plan or idea is a set of
+你最初的商业计划、想法是一系列基于你商业模式的假设，
+9
+00:00:38,024 --> 00:00:42,545
+hypotheses embedded in a business model. The process of
+创业的过程其实就是
+10
+00:00:42,565 --> 00:00:46,955
+entrepreneurship is one of out and testing each one of these
+一一去测试这些假设，把真实世界的数据放到你的商业模型中的过程，
+11
+00:00:46,975 --> 00:00:50,563
+assumptions and putting some real world data to it and
+
+12
+00:00:50,583 --> 00:00:54,900
+ideally adjusting along the way, so that you wind up with a
+理想状况下，你要一直做调整，所以最终你会有一个可行的商业模型，
+13
+00:00:54,920 --> 00:00:58,213
+business model that's viable in a sense that it's scale-
+并且他是可扩展的。
+14
+00:00:58,233 --> 00:00:59,233
+able.
+
+15
+00:00:59,233 --> 00:01:02,881
+And has more money coming in and goes out in customer
+有很多钱流入，也有钱流出，
+16
+00:01:02,901 --> 00:01:08,173
+acquisition costs and manufacturing and other costs. But the
+在获取客户，制作和其他的方面的支出，
+17
+00:01:08,192 --> 00:01:13,284
+difficulty with this it cost a lot of money and time often
+但是这个的困难是你要花很多钱和时间
+18
+00:01:13,304 --> 00:01:17,805
+to go through this search and experimentation procedure. And
+去经历这个寻找和实验的过程。所以，
+19
+00:01:17,825 --> 00:01:23,266
+so what I, what I want to talk about to today is one idea of
+今天我想说的是，
+20
+00:01:23,286 --> 00:01:26,995
+how to go about this in a way that saves your own time and
+如何节省你的钱和时间，
+21
+00:01:27,015 --> 00:01:30,284
+money and where you can potentially go through some of this
+你可以经历这个学习和假设测验的过程
+22
+00:01:30,304 --> 00:01:37,239
+learning and hypothesis testing using other people's money.
+用别人的钱
+23
+00:01:37,259 --> 00:01:40,727
+So what we're looking for is a new viable business model.
+我们要寻找的是一个新的可行的商业模式，
+24
+00:01:40,746 --> 00:01:45,117
+And the way to go about this is to map out on the business
+方法就是画出商业模型图，
+25
+00:01:45,137 --> 00:01:48,534
+model canvas, all the various pieces that you're going to
+这个模型中你需要的所有元素，
+26
+00:01:48,554 --> 00:01:52,042
+need Customer relationships, key partners, the value
+客户关系，关键合作伙伴，商业价值，
+27
+00:01:52,062 --> 00:01:55,760
+proposition, And then your task as the entrepreneur is to
+你，作为一个创业者的任务就是，
+28
+00:01:55,780 --> 00:01:59,790
+test each of these. So you have to test the need. Have you
+去测试每一个元素。你要去测试需求。
+29
+00:01:59,810 --> 00:02:03,799
+experiences this need or problem yourself? So, that's often
+你自己有没有这些需求或者经历同样的问题？所以，这经常是一个
+30
+00:02:03,819 --> 00:02:07,718
+a great benefit. But in the class that I teach at Stanford
+很大的好处。但是在我在斯坦福教的创业课上，
+31
+00:02:07,737 --> 00:02:11,907
+on entrepreneurship often the students often have a
+学生们通常关注的都是一个
+32
+00:02:11,927 --> 00:02:15,094
+relatively narrow set of problems that they've experienced
+他们经历的相对较窄的问题
+33
+00:02:15,114 --> 00:02:16,157
+themselves.
+
+34
+00:02:16,177 --> 00:02:20,426
+And so they do great if they go after consumer internet or
+他们继续去想关于网络消费或者社交网络的问题很好，
+35
+00:02:20,447 --> 00:02:24,065
+social networking ideas but when they start to stray from
+但是当他们开始偏离这些想法，
+36
+00:02:24,085 --> 00:02:27,352
+those areas, then it becomes much more difficult to test the
+想要测试客户的需求就变得很难。
+37
+00:02:27,372 --> 00:02:31,741
+need. However, when you've had work experience in industry,
+然而，当你有了行业工作经验，
+38
+00:02:31,762 --> 00:02:35,189
+then you may have worked in a company that's had customers,
+你工作的那家公司有客户，
+39
+00:02:35,209 --> 00:02:38,647
+and they might have experienced this need. Or there's likely
+他们可能就有这种需求。或者可能
+40
+00:02:38,668 --> 00:02:41,769
+to be a lot of, lot of other people like you and similar
+很多其他人像你一样，有类似的
+41
+00:02:41,769 --> 00:02:45,576
+companies who have had the same problem. Second thing you
+公司，他们有同样的问题，你需要做的第二件事是，
+42
+00:02:45,596 --> 00:02:46,596
+need to
+
+43
+00:02:46,596 --> 00:02:51,005
+[inaudible] this key is the solution. And so, one way to do
+关键是解决方案。所以，方法之一就是
+44
+00:02:51,025 --> 00:02:54,242
+this is if you've already been using the solution If you've
+如果你已经在使用这个解决方法，如果你
+45
+00:02:54,242 --> 00:02:57,630
+developed it for yourself in some sense.
+已经自己在找这个方法了，在某种程度上。
+46
+00:02:57,650 --> 00:03:01,378
+Next you have to test things like key partners. Again, this
+下一个，你要像主要合伙人那样去测试这些元素，
+47
+00:03:01,399 --> 00:03:04,845
+is another benefit to working in the same industry as your
+这是找一家和你想做的创业公司同一行的公司的好处，
+48
+00:03:04,865 --> 00:03:08,795
+start-up. You might already know the key suppliers, or the
+你可能已经知道了主要的供货商，或者是销售渠道，
+49
+00:03:08,816 --> 00:03:13,004
+sales channels, or whatever key partners you need for your
+或者是主要玩家什么的，你需要
+50
+00:03:13,024 --> 00:03:18,507
+particular business model. And so ideally in a start up, you
+你自己的商业模式。所以，理想状况下，在一家创业公司，
+51
+00:03:18,527 --> 00:03:24,040
+want to be able to just focus on testing the truly novel
+你只需要集中精力去测试你的商业模式中的那些要素就可以了，
+52
+00:03:24,060 --> 00:03:28,039
+aspect of your business model, and not having to rerun and
+而不需要再去重新运行和学习
+53
+00:03:28,060 --> 00:03:31,858
+relearn experiments that have taken place in the industry.
+那行中的实验。
+54
+00:03:31,878 --> 00:03:35,696
+And so the question is, what kind of unfair, so to speak,
+所以问题就是，在这个过程中，你有哪些不公平的捷径？
+55
+00:03:35,716 --> 00:03:42,892
+shortcuts can you take in this process? So the question is
+这个问题是
+56
+00:03:42,912 --> 00:03:46,030
+how to do it on someone else's money? How to experience it
+怎么用别人的钱去做？怎么用别人的钱实验？
+57
+00:03:46,030 --> 00:03:49,668
+on someone else's dime? And first question that you really
+你需要问自己的第一个问题就是，
+58
+00:03:49,688 --> 00:03:54,399
+need to ask yourself is what type of market are you in. You
+你在一个什么样的市场里，
+59
+00:03:54,419 --> 00:03:57,866
+might be in a totally brand new market and in this case it
+你可能在一个全新的市场，这种情况下，
+60
+00:03:57,887 --> 00:04:02,015
+might be difficult to work for a company or having this
+去给一家公司打工或者在这行里先混经验有点难，
+61
+00:04:02,036 --> 00:04:05,454
+industry experience in that brand new market, but there
+因为这是一个全新的市场，但是
+62
+00:04:05,474 --> 00:04:09,572
+might be a related market that is very close to the brand
+可能会有一个相关市场很接近这个你想做的新兴市场
+63
+00:04:09,592 --> 00:04:11,377
+new market that you're thinking about.
+
+64
+00:04:11,397 --> 00:04:15,957
+So in the case of social networks and Mark Zuckerberg he
+所以在Mark Zuckberg的社交媒介的例子中，
+65
+00:04:15,977 --> 00:04:18,884
+might have had experience in other consumer Internet
+他可能有其他的消费网络技术
+66
+00:04:18,904 --> 00:04:23,295
+technologies or other web sites that tried to engage users
+或者是其他网站试图让用户参与其中的方法。
+67
+00:04:23,314 --> 00:04:28,627
+in some other ways. Second is a growth market, which some
+第二是在一个成长型的市场，一些论文
+68
+00:04:28,646 --> 00:04:31,754
+papers have defined as at least a twenty percent plus growth
+把它定义为至少20%的年增长速度，
+69
+00:04:31,774 --> 00:04:35,742
+rate and at least a hundred million dollars aggregate market
+还有每年1个亿美金的增长空间
+70
+00:04:35,762 --> 00:04:39,120
+site. This actually turns out to be the type of market,
+这就是成长型的市场，
+71
+00:04:39,139 --> 00:04:43,490
+where you're most likely, statistically to have success.
+这在统计数据上看，是最容易取得成功的，
+72
+00:04:43,510 --> 00:04:47,119
+There's clearly a new market there, it's growing at a quick
+很明显这还有新的市场空间，市场成长的很快，
+73
+00:04:47,139 --> 00:04:51,067
+phase this has been shown to be one of most successful
+足以证明这是一个创业公司最应该选择的目标，并且最容易获得成功。
+74
+00:04:51,087 --> 00:04:56,420
+markets for a new start up to target. You might also be in a
+你也可能在一个重组的市场中。
+75
+00:04:56,439 --> 00:05:01,240
+situation where you're re-segmenting market. So an example
+举个例子，
+76
+00:05:01,260 --> 00:05:06,713
+here is Zinga and the video game industry. Before Zinga most
+Zynga和游戏产业。在Zynga以前，大多数的游戏
+77
+00:05:06,733 --> 00:05:09,519
+of video game industry had been focused on relatively
+都相对集中在
+78
+00:05:09,538 --> 00:05:13,588
+hardcore serious gamers. But there was a way to re-segment
+一些大的游戏中，但是出现了一种重组市场的方法，
+79
+00:05:13,608 --> 00:05:18,468
+the market and think about a new segment of more casual
+就是出现了一种新的更轻松随意的适合在社交网络上玩的游戏。
+80
+00:05:18,488 --> 00:05:21,675
+gamers who were willing to play in a social networking site
+
+81
+00:05:21,695 --> 00:05:23,451
+type environment.
+
+82
+00:05:23,471 --> 00:05:28,201
+[sound] and in this type of area it might quite easy to get
+在这种领域，可能更容易
+83
+00:05:28,221 --> 00:05:32,209
+relevant industry experience in a company that, is related
+在一个和这种重组的新方向相关的公司获取经验。
+84
+00:05:32,229 --> 00:05:36,120
+to the industry if your re segmenting. And then finally,
+所以最终，
+85
+00:05:36,139 --> 00:05:39,627
+obviously you have the established or stable market where it
+很明显你有成熟稳定的市场，在那样的公司工作相对容易，
+86
+00:05:39,646 --> 00:05:43,115
+should be quite easy to work for the company in the industry
+
+87
+00:05:43,134 --> 00:05:47,113
+and get very relevant experience but obviously the level of
+你也会得到相关经验，但是很明显这种地方的竞争相当残酷。
+88
+00:05:47,133 --> 00:05:50,913
+competition is quite fierce in such a market. Final
+
+89
+00:05:50,932 --> 00:05:54,100
+situation you might find yourself in, is with a new
+最后一种情况是，你可能发现你所在的公司拥有一项新技术，
+90
+00:05:54,120 --> 00:05:58,471
+technology base solution that's looking for a market. And
+而现在正在为它寻找市场，
+91
+00:05:58,490 --> 00:06:02,278
+this can be, promising situation but it's also a treacherous
+这个可能是一个很有希望的境遇，但是它也可能很危险。
+92
+00:06:02,298 --> 00:06:06,307
+one. Were you need to pick which market, this technology
+如果你需要选进入哪个市场，这个最好由技术解决，
+93
+00:06:06,327 --> 00:06:10,060
+best solves, and than at that point you may or may not
+相比于你可能有或者没有这个市场或者行业的经验，
+94
+00:06:10,080 --> 00:06:13,403
+already have experience in that market or industry and so
+
+95
+00:06:13,423 --> 00:06:16,329
+you might want to plan ahead and think about bringing in a
+所以你应该提前打算并且引入一个联合创始人，
+96
+00:06:16,329 --> 00:06:20,980
+co founder, once you chosen the particular market, that this
+一旦你选定了某一个市场，适合这项技术，
+97
+00:06:21,000 --> 00:06:25,029
+technology is suited for. So, once you've figured out which
+所以当你一旦想明白你在哪个类型的市场中，
+98
+00:06:25,049 --> 00:06:30,172
+type of market you're in. Then you can think about. How best
+然后你就可以想，怎么最好的利用别人的实验，
+99
+00:06:30,192 --> 00:06:35,394
+to other's experiments. And so the way I think about this is
+我思考这个问题的方法是，
+100
+00:06:35,413 --> 00:06:39,122
+that before you ever run an experiment in science you want
+在科学领域，在你做任何实验之前，你需要先读历史文献，
+101
+00:06:39,141 --> 00:06:42,399
+to read the background literature. Now in the case of
+在创业的案例中，
+102
+00:06:42,419 --> 00:06:45,586
+entrepreneurship, reading the background literature means
+读历史文献意味着
+103
+00:06:45,606 --> 00:06:48,973
+learning as much as you possible can from the experiments
+尽量多的从别人做过的试验中学习。
+104
+00:06:48,993 --> 00:06:50,788
+that other people have already done.
+
+105
+00:06:50,807 --> 00:06:54,396
+It's much quicker than rerunning these experiments yourself.
+这比你自己重新做实验要快地多，
+106
+00:06:54,416 --> 00:06:58,274
+So a great way to do this is working in the industry. And a
+所以一个很好的方法就是在这行工作，
+107
+00:06:58,294 --> 00:07:01,230
+lot of research shows that entrepreneurs who have prior work
+很多的研究都表明那些有同行业工作经历的创业者，
+108
+00:07:01,250 --> 00:07:05,731
+experience in the same industry, do a lot better. And my
+会有更好的表现。
+109
+00:07:05,751 --> 00:07:08,668
+research shows this as well with entrepreneurs. Those who
+我的研究也表明也这点。
+110
+00:07:08,687 --> 00:07:11,985
+have startup experience in the same industry tend to have
+那些有同行创业经验的人会有更好的表现。
+111
+00:07:12,005 --> 00:07:17,187
+higher performance. Part of that is because you are able to
+原因之一是你可以用别人的钱做实验。
+112
+00:07:17,207 --> 00:07:20,675
+experiment using someone else's money. You're able to learn
+你可以从这个公司学习经验。
+113
+00:07:20,695 --> 00:07:24,043
+from the company's experience. So you might be working as a
+你可能做产品经理，
+114
+00:07:24,063 --> 00:07:28,973
+product manager. You might be in sales and get to test a lot
+你可能做销售，可以测试很多种新产品，
+115
+00:07:28,993 --> 00:07:31,961
+of new product ideas and really understand the customer's
+并且很了解消费者的需求。
+116
+00:07:31,980 --> 00:07:35,790
+need. You might be in marketing and be running a number of
+你可能做市场，做很多市场活动和实验。
+117
+00:07:35,810 --> 00:07:39,769
+marketing campaigns and experiments. Ideally you're working
+理想状况下，你在一家有风投支持的快速成长的创业公司里
+118
+00:07:39,789 --> 00:07:44,860
+in a fast growing V-C backed firm where you can learn from
+你可以从他们的各种实验中学习，
+119
+00:07:44,880 --> 00:07:48,990
+the experiments that they were doing and. Use that to test
+并且去测试你的那些新商业模式的想法。
+120
+00:07:49,009 --> 00:07:52,267
+the new ideas that you have for new business model.
+
+121
+00:07:52,287 --> 00:07:56,016
+Obviously here you have to be very careful That you don't
+很明显，你要小心不要让自己
+122
+00:07:56,036 --> 00:07:59,423
+want to get yourself in legal trouble by working on your
+因为用公司的资源和时间去实验自己的创业想法而陷入法律的麻烦。
+123
+00:07:59,443 --> 00:08:03,644
+start-up on the company laptop on the company time.
+
+124
+00:08:03,663 --> 00:08:07,952
+So you need to make sure to be very careful to think about
+所以你要确保足够小心，用你自己的时间
+125
+00:08:07,972 --> 00:08:12,021
+your own startup and work on it on your own time, on your
+用自己的电脑去做这些创业的实验，
+126
+00:08:12,041 --> 00:08:15,670
+own laptop, and not get yourself into a situation where you
+而不要让自己从一开始就陷入法律的麻烦
+127
+00:08:15,690 --> 00:08:19,158
+might be in legal trouble from the very beginning, But that
+但是除此之外，
+128
+00:08:19,177 --> 00:08:23,348
+aside, you can often use your work experience as a way to
+你可以时常用你的工作经验
+129
+00:08:23,367 --> 00:08:26,985
+start thinking about testing the hypotheses and then your
+去测试你的假设和商业模式。
+130
+00:08:27,004 --> 00:08:29,300
+business model. And that's what I wanted to point out in
+这就是我想在这里讲的。
+131
+00:08:29,300 --> 00:08:33,019
+this video. So think about how to test the problem, think
+好好想想如何测试这些问题，
+132
+00:08:33,039 --> 00:08:37,519
+about how to test the solution. One great example of the way
+想想怎么测试解决方案。一个很好的方法就是
+133
+00:08:37,538 --> 00:08:40,676
+Is that it is becoming easier and easier to test new
+现在用一个叫Filed Test的应用（App）去测试一个方案越来越容易，
+134
+00:08:40,696 --> 00:08:45,374
+solutions, is this app called field test. And so you can go
+所以你可以去这个链接
+135
+00:08:45,394 --> 00:08:48,394
+to the link here and see how this works, but basically it
+去看看它是怎么做到的，但基本上
+136
+00:08:48,394 --> 00:08:53,415
+enables you to test a new mobile website. So that's what I
+它可以使你测试一个新的手机网站。这就是我今天想要说的，
+137
+00:08:53,435 --> 00:08:57,004
+wanted to talk about today, experimenting on someone else's
+用别人的钱做自己的实验。
+138
+00:08:57,024 --> 00:08:58,024
+dime.
